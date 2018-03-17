@@ -1,0 +1,18 @@
+<idea-plugin>
+    <id>com.mallowigi.bundled</id>
+    <name>Bundled Themes</name>
+    <version>1.0</version>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+
+    <idea-version since-build="181.0"/>
+
+    <depends>com.chrisrm.idea.MaterialThemeUI</depends>
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.chrisrm.idea.MaterialThemeUI">
+        <bundledTheme name="Mario" path="/themes/mario" />
+        <bundledTheme name="Luigi" path="/themes/luigi" />
+    </extensions>
+
+</idea-plugin>
