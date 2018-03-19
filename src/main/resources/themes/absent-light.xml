@@ -23,27 +23,25 @@
   ~
   ~
   -->
-<mtTheme dark="false" themeId="luigi" editorColorsScheme="Default" name="Luigi">
-    <name>Luigi</name>
-    <themeId>luigi</themeId>
-    <dark>false</dark>
-    <editorColorsScheme>Default</editorColorsScheme>
+<mtTheme>
+    <name>Absent Light</name>
+    <themeId>absent-light</themeId>
+    <dark>true</dark>
+    <editorColorsScheme>Absent Light</editorColorsScheme>
     <colors>
-        <color id="background" value="ffccff"></color>
+        <color id="background" value="ffffff"></color>
         <color id="foreground" value="465360"></color>
-        <color id="text" value="228a96"></color>
+        <color id="text" value="3E4955"></color>
         <color id="selectionBackground" value="228a96"></color>
-        <color id="selectionForeground" value="ffffff"></color>
-        <color id="inactive" value="aeb9c4"></color>
-        <color id="caret" value="465360"></color>
-        <color id="secondaryBackground" value="fafafa"></color>
-        <color id="disabled" value="aeb9c4"></color>
-        <color id="contrast" value="fafafa"></color>
+        <color id="selectionForeground" value="FFFFFF"></color>
+        <color id="inactive" value="D9D9D9"></color>
+        <color id="secondaryBackground" value="D9D9D9"></color>
+        <color id="disabled" value="C6C6C6"></color>
+        <color id="contrast" value="F2F2F2"></color>
         <color id="tableSelected" value="228a96"></color>
-        <color id="secondBorder" value="f7f7f7"></color>
-        <color id="highlight" value="f7f7f7"></color>
-        <color id="buttonHighlight" value="f7f7f7"></color>
-        <color id="treeSelection" value="228a96"></color>
-        <color id="notifications" value="3d1a11"></color>
+        <color id="secondBorder" value="252c33"></color>
+        <color id="highlight" value="C8C8C8"></color>
+        <color id="treeSelection" value="228a9690"></color>
+        <color id="notifications" value="e6e6e6"></color>
     </colors>
 </mtTheme>

@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.mallowigi.bundled</id>
-    <name>Bundled Themes</name>
+    <name>Bundled Themes for Material Theme</name>
     <version>1.0</version>
     <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
 
@@ -11,8 +11,8 @@
     <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.chrisrm.idea.MaterialThemeUI">
-        <bundledTheme name="Mario" path="/themes/mario" />
-        <bundledTheme name="Luigi" path="/themes/luigi" />
+        <bundledTheme name="Absent" path="/themes/absent" />
+        <bundledTheme name="Absent Light" path="/themes/absent-light" />
     </extensions>
 
 </idea-plugin>
