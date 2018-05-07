@@ -1,0 +1,15 @@
+- background: scheme
+- foreground: scheme
+- text: darken(text, 28%)
+- selection: bracketContentsForeground
+- selectFG: scheme
+- button: editor.lineHighlightBackground
+- list: peekViewResult.background
+- disabled: list.focusBackground
+- contrast: peekViewEditor.background
+- selected(Button): sideBar.background
+- separators: sidebar rainglow left
+- highlight: editorSuggestWidget.selectedBackground
+- treeSelection: 90 opacity
+- notification: contrast
+- accent: button.background

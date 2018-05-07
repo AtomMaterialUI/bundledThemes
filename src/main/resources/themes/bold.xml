@@ -1,0 +1,48 @@
+<!--
+  ~ The MIT License (MIT)
+  ~
+  ~ Copyright (c) 2018 Chris Magnussen and Elior Boukhobza
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  ~
+  ~
+  -->
+<mtTheme>
+    <name>Bold</name>
+    <themeId>bold</themeId>
+    <dark>true</dark>
+    <editorColorsScheme>Bold (rainglow)</editorColorsScheme>
+    <colors>
+        <color id="background" value="2A2626"></color>
+        <color id="foreground" value="FFFFFF"></color>
+        <color id="text" value="B8B8B8"></color>
+        <color id="selectionBackground" value="3D8E91"></color>
+        <color id="selectionForeground" value="FFFFFF"></color>
+        <color id="button" value="322D2D"></color>
+        <color id="secondaryBackground" value="373232"></color>
+        <color id="disabled" value="524A4A"></color>
+        <color id="contrast" value="211E1E"></color>
+        <color id="tableSelected" value="373232"></color>
+        <color id="secondBorder" value="292525"></color>
+        <color id="highlight" value="605656"></color>
+        <color id="treeSelection" value="3D8E9150"></color>
+        <color id="notifications" value="211E1E"></color>
+        <color id="accent" value="f0624b"></color>
+    </colors>
+</mtTheme>
