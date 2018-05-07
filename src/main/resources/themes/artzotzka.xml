@@ -24,25 +24,25 @@
   ~
   -->
 <mtTheme>
-    <name>Absent</name>
-    <themeId>absent</themeId>
+    <name>Artzotzka</name>
+    <themeId>artzotzka</themeId>
     <dark>true</dark>
-    <editorColorsScheme>Absent (rainglow)</editorColorsScheme>
+    <editorColorsScheme>Artzotzka (rainglow)</editorColorsScheme>
     <colors>
-        <color id="background" value="252c33"></color>
-        <color id="foreground" value="aeb9c4"></color>
-        <color id="text" value="607283"></color>
-        <color id="selectionBackground" value="228a96"></color>
+        <color id="background" value="332E2E"></color>
+        <color id="foreground" value="EDEBE6"></color>
+        <color id="text" value="B1A993"></color>
+        <color id="selectionBackground" value="516B6B"></color>
         <color id="selectionForeground" value="FFFFFF"></color>
-        <color id="button" value="2C333A"></color>
-        <color id="secondaryBackground" value="2B343C"></color>
-        <color id="disabled" value="44515e"></color>
-        <color id="contrast" value="1D2228"></color>
-        <color id="tableSelected" value="373C42"></color>
-        <color id="secondBorder" value="242A2F"></color>
-        <color id="highlight" value="505f6e"></color>
-        <color id="treeSelection" value="228a9690"></color>
-        <color id="notifications" value="1D2228"></color>
-        <color id="accent" value="629C75"></color>
+        <color id="button" value="3B3535"></color>
+        <color id="secondaryBackground" value="403A3A"></color>
+        <color id="disabled" value="5B5252"></color>
+        <color id="contrast" value="282424"></color>
+        <color id="tableSelected" value="403A3A"></color>
+        <color id="secondBorder" value="2F2C2C"></color>
+        <color id="highlight" value="695E5E"></color>
+        <color id="treeSelection" value="516B6B55"></color>
+        <color id="notifications" value="282424"></color>
+        <color id="accent" value="516b6b"></color>
     </colors>
 </mtTheme>
