@@ -29,20 +29,22 @@
     <dark>true</dark>
     <editorColorsScheme>Azure (rainglow)</editorColorsScheme>
     <colors>
-        <color id="background" value="181D26"></color>
-        <color id="foreground" value="FFFFFF"></color>
-        <color id="text" value="B8B8B8"></color>
-        <color id="selectionBackground" value="47959A"></color>
+        <color id="background" value="181d26"></color>
+        <color id="foreground" value="ffffff"></color>
+        <color id="text" value="e6e6e6"></color>
+        <color id="selectionBackground" value="47959a"></color>
         <color id="selectionForeground" value="FFFFFF"></color>
-        <color id="button" value="1E242F"></color>
+        <color id="button" value="1e242f"></color>
         <color id="secondaryBackground" value="222936"></color>
         <color id="disabled" value="364155"></color>
         <color id="contrast" value="101319"></color>
         <color id="tableSelected" value="222936"></color>
-        <color id="secondBorder" value="1A1F25"></color>
-        <color id="highlight" value="3F4D64"></color>
+        <color id="secondBorder" value="141820"></color>
+        <color id="highlight" value="3f4d64"></color>
         <color id="treeSelection" value="47959A90"></color>
         <color id="notifications" value="101319"></color>
         <color id="accent" value="52708b"></color>
+        <color id="excluded" value="28303f"></color>
+
     </colors>
 </mtTheme>

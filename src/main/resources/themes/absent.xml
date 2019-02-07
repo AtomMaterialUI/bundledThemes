@@ -31,18 +31,19 @@
     <colors>
         <color id="background" value="252c33"></color>
         <color id="foreground" value="aeb9c4"></color>
-        <color id="text" value="607283"></color>
+        <color id="text" value="909fae"></color>
         <color id="selectionBackground" value="228a96"></color>
         <color id="selectionForeground" value="FFFFFF"></color>
-        <color id="button" value="2C333A"></color>
-        <color id="secondaryBackground" value="2B343C"></color>
-        <color id="disabled" value="44515e"></color>
-        <color id="contrast" value="1D2228"></color>
-        <color id="tableSelected" value="373C42"></color>
-        <color id="secondBorder" value="242A2F"></color>
+        <color id="button" value="2b343c"></color>
+        <color id="secondaryBackground" value="303942"></color>
+        <color id="disabled" value="45525f"></color>
+        <color id="contrast" value="1c2227"></color>
+        <color id="tableSelected" value="303942"></color>
+        <color id="secondBorder" value="21272d"></color>
         <color id="highlight" value="505f6e"></color>
         <color id="treeSelection" value="228a9690"></color>
-        <color id="notifications" value="1D2228"></color>
-        <color id="accent" value="629C75"></color>
+        <color id="notifications" value="3a4551"></color>
+        <color id="accent" value="6ba77f"></color>
+        <color id="excluded" value="36404b"></color>
     </colors>
 </mtTheme>

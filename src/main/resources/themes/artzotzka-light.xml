@@ -44,5 +44,6 @@
         <color id="treeSelection" value="516b6b90"></color>
         <color id="notifications" value="f5f5f5"></color>
         <color id="accent" value="516b6b"></color>
+        <color id="excluded" value="1d1a1a"></color>
     </colors>
 </mtTheme>
