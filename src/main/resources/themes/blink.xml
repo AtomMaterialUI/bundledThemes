@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>blink</id>
+  <editorColorsScheme>Blink (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Blink</name>
+  <colors>
+    <color id="background" value="283035ff"/>
+    <color id="foreground" value="c0ccdbff"/>
+    <color id="text" value="a0b2c8ff"/>
+    <color id="highlight" value="54656fff"/>
+    <color id="selectionBackground" value="43b5b355"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2f383eff"/>
+    <color id="secondaryBackground" value="333d44ff"/>
+    <color id="disabled" value="495761ff"/>
+    <color id="contrast" value="1f2529ff"/>
+    <color id="tableSelected" value="333d44ff"/>
+    <color id="secondBorder" value="242b2fff"/>
+    <color id="treeSelection" value="43b5b350"/>
+    <color id="notifications" value="3e4a52ff"/>
+    <color id="accent" value="d4856aff"/>
+    <color id="excluded" value="3a454cff"/>
+  </colors>
+  <themeId>blink</themeId>
+</mtTheme>
