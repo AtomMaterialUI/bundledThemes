@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>codecourse-light</id>
+  <editorColorsScheme>Codecourse Light (rainglow)</editorColorsScheme>
+  <dark>false</dark>
+  <name>Codecourse Light</name>
+  <colors>
+    <color id="background" value="ffffffff"/>
+    <color id="foreground" value="547f91ff"/>
+    <color id="text" value="416371ff"/>
+    <color id="highlight" value="d9d9d9ff"/>
+    <color id="selectionBackground" value="1ea8fcff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="f2f2f2ff"/>
+    <color id="secondaryBackground" value="f2f2f2ff"/>
+    <color id="disabled" value="bfbfbfff"/>
+    <color id="contrast" value="fafafaff"/>
+    <color id="tableSelected" value="eff3f5ff"/>
+    <color id="secondBorder" value="e0e0e0ff"/>
+    <color id="treeSelection" value="5dcdfd90"/>
+    <color id="notifications" value="e6e6e6ff"/>
+    <color id="accent" value="5dcdfdff"/>
+    <color id="excluded" value="d9d9d9ff"/>
+  </colors>
+  <themeId>codecourse-light</themeId>
+</mtTheme>

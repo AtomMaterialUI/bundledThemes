@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>coffee-light</id>
+  <editorColorsScheme>Coffee Light (rainglow)</editorColorsScheme>
+  <dark>false</dark>
+  <name>Coffee Light</name>
+  <colors>
+    <color id="background" value="f4f2f2ff"/>
+    <color id="foreground" value="282122ff"/>
+    <color id="text" value="0c0a0aff"/>
+    <color id="highlight" value="d1c9c9ff"/>
+    <color id="selectionBackground" value="0a9f9bff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="e8e4e4ff"/>
+    <color id="secondaryBackground" value="e8e4e4ff"/>
+    <color id="disabled" value="baadadff"/>
+    <color id="contrast" value="efececff"/>
+    <color id="tableSelected" value="ebe7e7ff"/>
+    <color id="secondBorder" value="d8d1d1ff"/>
+    <color id="treeSelection" value="28212290"/>
+    <color id="notifications" value="ddd6d6ff"/>
+    <color id="accent" value="0a9f9bff"/>
+    <color id="excluded" value="d1c9c9ff"/>
+  </colors>
+  <themeId>coffee-light</themeId>
+</mtTheme>

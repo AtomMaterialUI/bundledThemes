@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>comrade-light</id>
+  <editorColorsScheme>Comrade Light (rainglow)</editorColorsScheme>
+  <dark>false</dark>
+  <name>Comrade Light</name>
+  <colors>
+    <color id="background" value="d6dbdbff"/>
+    <color id="foreground" value="343939ff"/>
+    <color id="text" value="1c1e1eff"/>
+    <color id="highlight" value="adb7b7ff"/>
+    <color id="selectionBackground" value="9bb7a7ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="d6dbdbff"/>
+    <color id="secondaryBackground" value="c8cfcfff"/>
+    <color id="disabled" value="929f9fff"/>
+    <color id="contrast" value="d1d6d6ff"/>
+    <color id="tableSelected" value="b3b9b9ff"/>
+    <color id="secondBorder" value="b5bebeff"/>
+    <color id="treeSelection" value="7f968990"/>
+    <color id="notifications" value="bbc3c3ff"/>
+    <color id="accent" value="c24e4bff"/>
+    <color id="excluded" value="adb7b7ff"/>
+  </colors>
+  <themeId>comrade-light</themeId>
+</mtTheme>

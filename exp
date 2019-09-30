@@ -1,10 +1,10 @@
 - background: scheme
 - foreground: scheme
-- text: darken(text, 28%) - peekViewResult.lineForeground
+- text: peekViewResult.lineForeground
 - selection: selection - bracketContentsForeground
-- selectFG: scheme
+- selectFG: scheme - peekViewResult.selectionForeground
 - button: editor.lineHighlightBackground - input background
-- list: peekViewResult.background
+- list: peekViewResult.background - sidebar.background
 - disabled: list.focusBackground - panelTitle.inactiveForeground
 - contrast: peekViewEditor.background
 - selected(Button): sideBar.background - titleBar.activeBackground

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>brave-light</id>
+  <editorColorsScheme>Brave Light (rainglow)</editorColorsScheme>
+  <dark>false</dark>
+  <name>Brave Light</name>
+  <colors>
+    <color id="background" value="f7f9f9ff"/>
+    <color id="foreground" value="2c2d2dff"/>
+    <color id="text" value="131313ff"/>
+    <color id="highlight" value="cbd8d8ff"/>
+    <color id="selectionBackground" value="908bbcff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="e8eeeeff"/>
+    <color id="secondaryBackground" value="e8eeeeff"/>
+    <color id="disabled" value="aec2c2ff"/>
+    <color id="contrast" value="ebf0f0ff"/>
+    <color id="tableSelected" value="abadadff"/>
+    <color id="secondBorder" value="d4dfdfff"/>
+    <color id="treeSelection" value="7873a090"/>
+    <color id="notifications" value="dae3e3ff"/>
+    <color id="accent" value="7873a0ff"/>
+    <color id="excluded" value="cbd8d8ff"/>
+  </colors>
+  <themeId>brave-light</themeId>
+</mtTheme>

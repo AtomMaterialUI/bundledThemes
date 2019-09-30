@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>crackpot-light</id>
+  <editorColorsScheme>Crackpot Light (rainglow)</editorColorsScheme>
+  <dark>false</dark>
+  <name>Crackpot Light</name>
+  <colors>
+    <color id="background" value="e6e3efff"/>
+    <color id="foreground" value="3a385bff"/>
+    <color id="text" value="26253bff"/>
+    <color id="highlight" value="bbb2d3ff"/>
+    <color id="selectionBackground" value="ef6461ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="e6e3efff"/>
+    <color id="secondaryBackground" value="d8d3e6ff"/>
+    <color id="disabled" value="9e92c1ff"/>
+    <color id="contrast" value="dad6e8ff"/>
+    <color id="tableSelected" value="bebcd6ff"/>
+    <color id="secondBorder" value="c3bcd9ff"/>
+    <color id="treeSelection" value="ef646190"/>
+    <color id="notifications" value="c9c3dcff"/>
+    <color id="accent" value="ef6461ff"/>
+    <color id="excluded" value="bbb2d3ff"/>
+  </colors>
+  <themeId>crackpot-light</themeId>
+</mtTheme>
