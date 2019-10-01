@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>codecourse</id>
+  <editorColorsScheme>Codecourse (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Codecourse</name>
+  <colors>
+    <color id="background" value="19272dff"/>
+    <color id="foreground" value="b6ced8ff"/>
+    <color id="text" value="95b8c6ff"/>
+    <color id="highlight" value="3d606fff"/>
+    <color id="selectionBackground" value="1ea8fcff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="10191dff"/>
+    <color id="secondaryBackground" value="22353dff"/>
+    <color id="disabled" value="598aa0ff"/>
+    <color id="contrast" value="121c20ff"/>
+    <color id="tableSelected" value="34525eff"/>
+    <color id="secondBorder" value="152126ff"/>
+    <color id="treeSelection" value="5dcdfd50"/>
+    <color id="notifications" value="2b434eff"/>
+    <color id="accent" value="5dcdfdff"/>
+    <color id="excluded" value="283e47ff"/>
+  </colors>
+  <themeId>codecourse</themeId>
+</mtTheme>

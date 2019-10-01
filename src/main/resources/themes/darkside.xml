@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>darkside</id>
+  <editorColorsScheme>Darkside (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Darkside</name>
+  <colors>
+    <color id="background" value="222324ff"/>
+    <color id="foreground" value="bababaff"/>
+    <color id="text" value="a0a0a0ff"/>
+    <color id="highlight" value="545658ff"/>
+    <color id="selectionBackground" value="ff4e50ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="161617ff"/>
+    <color id="secondaryBackground" value="2e3031ff"/>
+    <color id="disabled" value="797c80ff"/>
+    <color id="contrast" value="181919ff"/>
+    <color id="tableSelected" value="47494bff"/>
+    <color id="secondBorder" value="1d1e1fff"/>
+    <color id="treeSelection" value="e8341c50"/>
+    <color id="notifications" value="3b3c3eff"/>
+    <color id="accent" value="1cc3e8ff"/>
+    <color id="excluded" value="363739ff"/>
+  </colors>
+  <themeId>darkside</themeId>
+</mtTheme>

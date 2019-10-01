@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>crisp</id>
+  <editorColorsScheme>Crisp (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Crisp</name>
+  <colors>
+    <color id="background" value="221a22ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="5c465cff"/>
+    <color id="selectionBackground" value="fc6a0fff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="140f14ff"/>
+    <color id="secondaryBackground" value="302530ff"/>
+    <color id="disabled" value="876787ff"/>
+    <color id="contrast" value="161116ff"/>
+    <color id="tableSelected" value="4d3b4dff"/>
+    <color id="secondBorder" value="1c161cff"/>
+    <color id="treeSelection" value="76547850"/>
+    <color id="notifications" value="3f303fff"/>
+    <color id="accent" value="cba0cdff"/>
+    <color id="excluded" value="392c39ff"/>
+  </colors>
+  <themeId>crisp</themeId>
+</mtTheme>

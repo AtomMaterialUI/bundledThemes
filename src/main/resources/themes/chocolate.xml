@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>chocolate</id>
+  <editorColorsScheme>Chocolate (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Chocolate</name>
+  <colors>
+    <color id="background" value="261b0eff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="715029ff"/>
+    <color id="selectionBackground" value="8b6e46ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="130e07ff"/>
+    <color id="secondaryBackground" value="392815ff"/>
+    <color id="disabled" value="a8783eff"/>
+    <color id="contrast" value="171008ff"/>
+    <color id="tableSelected" value="5e4323ff"/>
+    <color id="secondBorder" value="1f160bff"/>
+    <color id="treeSelection" value="ccb69750"/>
+    <color id="notifications" value="4b351cff"/>
+    <color id="accent" value="ccb697ff"/>
+    <color id="excluded" value="443019ff"/>
+  </colors>
+  <themeId>chocolate</themeId>
+</mtTheme>

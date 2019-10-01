@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>carbonight</id>
+  <editorColorsScheme>Carbonight (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Carbonight</name>
+  <colors>
+    <color id="background" value="2e2c2bff"/>
+    <color id="foreground" value="b0b0b0ff"/>
+    <color id="text" value="969696ff"/>
+    <color id="highlight" value="635e5cff"/>
+    <color id="selectionBackground" value="8c8c8cff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="211f1fff"/>
+    <color id="secondaryBackground" value="3b3937ff"/>
+    <color id="disabled" value="8a8482ff"/>
+    <color id="contrast" value="232221ff"/>
+    <color id="tableSelected" value="232221ff"/>
+    <color id="secondBorder" value="292726ff"/>
+    <color id="treeSelection" value="8c8c8c90"/>
+    <color id="notifications" value="484544ff"/>
+    <color id="accent" value="8c8c8cff"/>
+    <color id="excluded" value="43403fff"/>
+  </colors>
+  <themeId>carbonight</themeId>
+</mtTheme>

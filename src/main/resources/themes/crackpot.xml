@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>crackpot</id>
+  <editorColorsScheme>Crackpot (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Crackpot</name>
+  <colors>
+    <color id="background" value="3a385bff"/>
+    <color id="foreground" value="d2c9efff"/>
+    <color id="text" value="b1a2e3ff"/>
+    <color id="highlight" value="625f9aff"/>
+    <color id="selectionBackground" value="ef6461ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="302e4bff"/>
+    <color id="secondaryBackground" value="44426bff"/>
+    <color id="disabled" value="8f8db9ff"/>
+    <color id="contrast" value="32304eff"/>
+    <color id="tableSelected" value="58558aff"/>
+    <color id="secondBorder" value="363455ff"/>
+    <color id="treeSelection" value="ef646150"/>
+    <color id="notifications" value="4e4b7bff"/>
+    <color id="accent" value="e4b363ff"/>
+    <color id="excluded" value="4a4874ff"/>
+  </colors>
+  <themeId>crackpot</themeId>
+</mtTheme>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>comrade</id>
+  <editorColorsScheme>Comrade (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Comrade</name>
+  <colors>
+    <color id="background" value="343939ff"/>
+    <color id="foreground" value="d6dbdbff"/>
+    <color id="text" value="bbc3c3ff"/>
+    <color id="highlight" value="656e6eff"/>
+    <color id="selectionBackground" value="9bb7a7ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="282c2cff"/>
+    <color id="secondaryBackground" value="404646ff"/>
+    <color id="disabled" value="8b9595ff"/>
+    <color id="contrast" value="2a2e2eff"/>
+    <color id="tableSelected" value="586161ff"/>
+    <color id="secondBorder" value="2f3434ff"/>
+    <color id="treeSelection" value="9bb7a750"/>
+    <color id="notifications" value="4c5454ff"/>
+    <color id="accent" value="c24e4bff"/>
+    <color id="excluded" value="474e4eff"/>
+  </colors>
+  <themeId>comrade</themeId>
+</mtTheme>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>boxuk</id>
+  <editorColorsScheme>Box UK (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Box UK</name>
+  <colors>
+    <color id="background" value="2a353fff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="53687cff"/>
+    <color id="selectionBackground" value="017c9dff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="202830ff"/>
+    <color id="secondaryBackground" value="34424eff"/>
+    <color id="disabled" value="778fa4ff"/>
+    <color id="contrast" value="222b33ff"/>
+    <color id="tableSelected" value="222b33ff"/>
+    <color id="secondBorder" value="263039ff"/>
+    <color id="treeSelection" value="019d7690"/>
+    <color id="notifications" value="3e4f5eff"/>
+    <color id="accent" value="019d76ff"/>
+    <color id="excluded" value="3a4a57ff"/>
+  </colors>
+  <themeId>boxuk</themeId>
+</mtTheme>

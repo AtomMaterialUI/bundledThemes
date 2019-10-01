@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>coffee</id>
+  <editorColorsScheme>Coffee (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Coffee</name>
+  <colors>
+    <color id="background" value="282122ff"/>
+    <color id="foreground" value="c4babbff"/>
+    <color id="text" value="ac9fa0ff"/>
+    <color id="highlight" value="604f52ff"/>
+    <color id="selectionBackground" value="0a9f9bff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1a1516ff"/>
+    <color id="secondaryBackground" value="362d2eff"/>
+    <color id="disabled" value="8a7275ff"/>
+    <color id="contrast" value="1d1818ff"/>
+    <color id="tableSelected" value="524446ff"/>
+    <color id="secondBorder" value="221c1dff"/>
+    <color id="treeSelection" value="f5f3eb50"/>
+    <color id="notifications" value="44383aff"/>
+    <color id="accent" value="f5f3ebff"/>
+    <color id="excluded" value="3e3335ff"/>
+  </colors>
+  <themeId>coffee</themeId>
+</mtTheme>

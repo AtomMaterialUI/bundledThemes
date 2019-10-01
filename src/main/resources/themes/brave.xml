@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>brave</id>
+  <editorColorsScheme>Brave (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Brave</name>
+  <colors>
+    <color id="background" value="333846ff"/>
+    <color id="foreground" value="d6dbdbff"/>
+    <color id="text" value="bbc3c3ff"/>
+    <color id="highlight" value="5e6781ff"/>
+    <color id="selectionBackground" value="908bbcff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="282c37ff"/>
+    <color id="secondaryBackground" value="3e4455ff"/>
+    <color id="disabled" value="858ea6ff"/>
+    <color id="contrast" value="2a2f3aff"/>
+    <color id="tableSelected" value="2a2f3aff"/>
+    <color id="secondBorder" value="2f3340ff"/>
+    <color id="treeSelection" value="908bbc90"/>
+    <color id="notifications" value="485063ff"/>
+    <color id="accent" value="908bbcff"/>
+    <color id="excluded" value="444b5eff"/>
+  </colors>
+  <themeId>brave</themeId>
+</mtTheme>

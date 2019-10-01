@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>downpour</id>
+  <editorColorsScheme>Downpour (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Downpour</name>
+  <colors>
+    <color id="background" value="2c323dff"/>
+    <color id="foreground" value="d6dbdbff"/>
+    <color id="text" value="bbc3c3ff"/>
+    <color id="highlight" value="576378ff"/>
+    <color id="selectionBackground" value="908bbcff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="21262eff"/>
+    <color id="secondaryBackground" value="373e4cff"/>
+    <color id="disabled" value="7b88a0ff"/>
+    <color id="contrast" value="232831ff"/>
+    <color id="tableSelected" value="4c5669ff"/>
+    <color id="secondBorder" value="282d37ff"/>
+    <color id="treeSelection" value="908bbc50"/>
+    <color id="notifications" value="414a5bff"/>
+    <color id="accent" value="bc4331ff"/>
+    <color id="excluded" value="3d4555ff"/>
+  </colors>
+  <themeId>downpour</themeId>
+</mtTheme>

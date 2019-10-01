@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>dare</id>
+  <editorColorsScheme>Dare (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Dare</name>
+  <colors>
+    <color id="background" value="32373dff"/>
+    <color id="foreground" value="c0ccdbff"/>
+    <color id="text" value="a0b2c8ff"/>
+    <color id="highlight" value="606a75ff"/>
+    <color id="selectionBackground" value="5da892ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="140f14ff"/>
+    <color id="secondaryBackground" value="3d444bff"/>
+    <color id="disabled" value="86909cff"/>
+    <color id="contrast" value="292d32ff"/>
+    <color id="tableSelected" value="545d67ff"/>
+    <color id="secondBorder" value="2d3237ff"/>
+    <color id="treeSelection" value="d1573650"/>
+    <color id="notifications" value="495059ff"/>
+    <color id="accent" value="3a8881ff"/>
+    <color id="excluded" value="444b53ff"/>
+  </colors>
+  <themeId>dare</themeId>
+</mtTheme>
