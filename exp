@@ -7,10 +7,10 @@
 - list: peekViewResult.background - sidebar.background
 - disabled: list.focusBackground - panelTitle.inactiveForeground
 - contrast: peekViewEditor.background
-- selected(Button): sideBar.background - titleBar.activeBackground
+- selected(Button): list.focusBackground - titleBar.activeBackground
 - separators: dropdown.border - panel.border
 - highlight: editorSuggestWidget.selectedBackground
-- treeSelection: 90 opacity
+- treeSelection: list.activeSelectionBackground
 - notification: contrast - editorIndentGuide.background
-- accent: button.background
+- accent: button.background - input.activeBorder
 - excluded: sidebarSectionHeader.background
