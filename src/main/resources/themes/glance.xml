@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>glance</id>
+  <editorColorsScheme>Glance (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Glance</name>
+  <colors>
+    <color id="background" value="2d3142ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="565e7fff"/>
+    <color id="selectionBackground" value="ef835455"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="232633ff"/>
+    <color id="secondaryBackground" value="373c51ff"/>
+    <color id="disabled" value="7c84a6ff"/>
+    <color id="contrast" value="252836ff"/>
+    <color id="tableSelected" value="4c536fff"/>
+    <color id="secondBorder" value="292c3cff"/>
+    <color id="treeSelection" value="6e81a050"/>
+    <color id="notifications" value="424860ff"/>
+    <color id="accent" value="ef8354ff"/>
+    <color id="excluded" value="3e435aff"/>
+  </colors>
+  <themeId>glance</themeId>
+</mtTheme>

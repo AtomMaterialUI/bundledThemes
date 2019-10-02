@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>otakon</id>
+  <editorColorsScheme>Otakon (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Otakon</name>
+  <colors>
+    <color id="background" value="3f373fff"/>
+    <color id="foreground" value="f9f3f9ff"/>
+    <color id="text" value="e8d1e8ff"/>
+    <color id="highlight" value="756775ff"/>
+    <color id="selectionBackground" value="b1a6ca55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="312b31ff"/>
+    <color id="secondaryBackground" value="4d434dff"/>
+    <color id="disabled" value="9b8d9bff"/>
+    <color id="contrast" value="342d34ff"/>
+    <color id="tableSelected" value="685b68ff"/>
+    <color id="secondBorder" value="3a323aff"/>
+    <color id="treeSelection" value="f6e6eb50"/>
+    <color id="notifications" value="5a4f5aff"/>
+    <color id="accent" value="b1a6caff"/>
+    <color id="excluded" value="554a55ff"/>
+  </colors>
+  <themeId>otakon</themeId>
+</mtTheme>

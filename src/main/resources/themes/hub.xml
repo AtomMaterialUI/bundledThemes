@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>hub</id>
+  <editorColorsScheme>Hub (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Hub</name>
+  <colors>
+    <color id="background" value="3b444cff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="687785ff"/>
+    <color id="selectionBackground" value="077cf955"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="30373eff"/>
+    <color id="secondaryBackground" value="46515aff"/>
+    <color id="disabled" value="909da9ff"/>
+    <color id="contrast" value="323a41ff"/>
+    <color id="tableSelected" value="5c6b77ff"/>
+    <color id="secondBorder" value="373f46ff"/>
+    <color id="treeSelection" value="5392db50"/>
+    <color id="notifications" value="515e69ff"/>
+    <color id="accent" value="e85362ff"/>
+    <color id="excluded" value="4d5963ff"/>
+  </colors>
+  <themeId>hub</themeId>
+</mtTheme>

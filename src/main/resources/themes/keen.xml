@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>keen</id>
+  <editorColorsScheme>Keen (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Keen</name>
+  <colors>
+    <color id="background" value="111111ff"/>
+    <color id="foreground" value="ccccccff"/>
+    <color id="text" value="b3b3b3ff"/>
+    <color id="highlight" value="444444ff"/>
+    <color id="selectionBackground" value="8767b755"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="040404ff"/>
+    <color id="secondaryBackground" value="1e1e1eff"/>
+    <color id="disabled" value="6a6a6aff"/>
+    <color id="contrast" value="070707ff"/>
+    <color id="tableSelected" value="373737ff"/>
+    <color id="secondBorder" value="0c0c0cff"/>
+    <color id="treeSelection" value="8767b750"/>
+    <color id="notifications" value="2a2a2aff"/>
+    <color id="accent" value="6f8b94ff"/>
+    <color id="excluded" value="252525ff"/>
+  </colors>
+  <themeId>keen</themeId>
+</mtTheme>

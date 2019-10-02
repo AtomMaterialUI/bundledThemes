@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>friction</id>
+  <editorColorsScheme>Friction (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Friction</name>
+  <colors>
+    <color id="background" value="26252dff"/>
+    <color id="foreground" value="7e7b99ff"/>
+    <color id="text" value="65627fff"/>
+    <color id="highlight" value="555365ff"/>
+    <color id="selectionBackground" value="6aa7a755"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1a191fff"/>
+    <color id="secondaryBackground" value="32303bff"/>
+    <color id="disabled" value="79768eff"/>
+    <color id="contrast" value="1d1c22ff"/>
+    <color id="tableSelected" value="494857ff"/>
+    <color id="secondBorder" value="212027ff"/>
+    <color id="treeSelection" value="6aa7a750"/>
+    <color id="notifications" value="3e3c49ff"/>
+    <color id="accent" value="6aa7a7ff"/>
+    <color id="excluded" value="393743ff"/>
+  </colors>
+  <themeId>friction</themeId>
+</mtTheme>

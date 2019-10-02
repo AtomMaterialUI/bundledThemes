@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>isotope</id>
+  <editorColorsScheme>Isotope (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Isotope</name>
+  <colors>
+    <color id="background" value="454955ff"/>
+    <color id="foreground" value="f3eff5ff"/>
+    <color id="text" value="dbd0e1ff"/>
+    <color id="highlight" value="73798dff"/>
+    <color id="selectionBackground" value="b3dd4955"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="272d2fff"/>
+    <color id="secondaryBackground" value="505563ff"/>
+    <color id="disabled" value="9da2afff"/>
+    <color id="contrast" value="3c3f4aff"/>
+    <color id="tableSelected" value="676d7fff"/>
+    <color id="secondBorder" value="40444fff"/>
+    <color id="treeSelection" value="b3dd4950"/>
+    <color id="notifications" value="5c6171ff"/>
+    <color id="accent" value="b3dd49ff"/>
+    <color id="excluded" value="575c6bff"/>
+  </colors>
+  <themeId>isotope</themeId>
+</mtTheme>

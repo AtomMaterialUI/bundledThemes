@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>gloom</id>
+  <editorColorsScheme>Gloom (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Gloom</name>
+  <colors>
+    <color id="background" value="2a332bff"/>
+    <color id="foreground" value="d8ebe5ff"/>
+    <color id="text" value="b6dacfff"/>
+    <color id="highlight" value="586b5aff"/>
+    <color id="selectionBackground" value="ff5d3855"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1e251fff"/>
+    <color id="secondaryBackground" value="364137ff"/>
+    <color id="disabled" value="7c937fff"/>
+    <color id="contrast" value="212822ff"/>
+    <color id="tableSelected" value="4d5d4eff"/>
+    <color id="secondBorder" value="252d26ff"/>
+    <color id="treeSelection" value="ff5d3850"/>
+    <color id="notifications" value="414f43ff"/>
+    <color id="accent" value="26a6a6ff"/>
+    <color id="excluded" value="3c493eff"/>
+  </colors>
+  <themeId>gloom</themeId>
+</mtTheme>

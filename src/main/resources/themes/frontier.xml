@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>frontier</id>
+  <editorColorsScheme>Frontier (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Frontier</name>
+  <colors>
+    <color id="background" value="36312cff"/>
+    <color id="foreground" value="f8f8f2ff"/>
+    <color id="text" value="e6e6d1ff"/>
+    <color id="highlight" value="6e645aff"/>
+    <color id="selectionBackground" value="2ebf7e55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="282421ff"/>
+    <color id="secondaryBackground" value="443e37ff"/>
+    <color id="disabled" value="968a7eff"/>
+    <color id="contrast" value="2b2723ff"/>
+    <color id="tableSelected" value="60574eff"/>
+    <color id="secondBorder" value="302c27ff"/>
+    <color id="treeSelection" value="f23a3a50"/>
+    <color id="notifications" value="524a43ff"/>
+    <color id="accent" value="2ebf7eff"/>
+    <color id="excluded" value="4c453eff"/>
+  </colors>
+  <themeId>frontier</themeId>
+</mtTheme>

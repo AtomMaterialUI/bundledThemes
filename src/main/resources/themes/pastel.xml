@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>pastel</id>
+  <editorColorsScheme>Pastel (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Pastel</name>
+  <colors>
+    <color id="background" value="222222ff"/>
+    <color id="foreground" value="eeeeeeff"/>
+    <color id="text" value="d4d4d4ff"/>
+    <color id="highlight" value="555555ff"/>
+    <color id="selectionBackground" value="008d6255"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="151515ff"/>
+    <color id="secondaryBackground" value="2f2f2fff"/>
+    <color id="disabled" value="7b7b7bff"/>
+    <color id="contrast" value="181818ff"/>
+    <color id="tableSelected" value="484848ff"/>
+    <color id="secondBorder" value="1d1d1dff"/>
+    <color id="treeSelection" value="04c4a550"/>
+    <color id="notifications" value="3b3b3bff"/>
+    <color id="accent" value="9474a9ff"/>
+    <color id="excluded" value="363636ff"/>
+  </colors>
+  <themeId>pastel</themeId>
+</mtTheme>

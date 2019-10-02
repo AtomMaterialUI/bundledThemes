@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>monzo</id>
+  <editorColorsScheme>Monzo (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Monzo</name>
+  <colors>
+    <color id="background" value="15243bff"/>
+    <color id="foreground" value="b0cbf4ff"/>
+    <color id="text" value="b0cbf4ff"/>
+    <color id="highlight" value="305286ff"/>
+    <color id="selectionBackground" value="98baa655"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="0e1928ff"/>
+    <color id="secondaryBackground" value="1c2f4eff"/>
+    <color id="disabled" value="4575bdff"/>
+    <color id="contrast" value="101b2cff"/>
+    <color id="tableSelected" value="294673ff"/>
+    <color id="secondBorder" value="121f33ff"/>
+    <color id="treeSelection" value="24788850"/>
+    <color id="notifications" value="223b61ff"/>
+    <color id="accent" value="98baa6ff"/>
+    <color id="excluded" value="203659ff"/>
+  </colors>
+  <themeId>monzo</themeId>
+</mtTheme>

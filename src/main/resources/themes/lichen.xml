@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>lichen</id>
+  <editorColorsScheme>Lichen (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Lichen</name>
+  <colors>
+    <color id="background" value="1a252fff"/>
+    <color id="foreground" value="9cadbcff"/>
+    <color id="text" value="7e94a7ff"/>
+    <color id="highlight" value="3e5971ff"/>
+    <color id="selectionBackground" value="1a9d6b55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="11181fff"/>
+    <color id="secondaryBackground" value="23323fff"/>
+    <color id="disabled" value="5a7fa2ff"/>
+    <color id="contrast" value="191f27ff"/>
+    <color id="tableSelected" value="354c60ff"/>
+    <color id="secondBorder" value="162028ff"/>
+    <color id="treeSelection" value="9ce87850"/>
+    <color id="notifications" value="2c3f50ff"/>
+    <color id="accent" value="249388ff"/>
+    <color id="excluded" value="293a49ff"/>
+  </colors>
+  <themeId>lichen</themeId>
+</mtTheme>

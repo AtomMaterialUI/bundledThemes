@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>jumper</id>
+  <editorColorsScheme>Jumper (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Jumper</name>
+  <colors>
+    <color id="background" value="222a2aff"/>
+    <color id="foreground" value="8da0a0ff"/>
+    <color id="text" value="728888ff"/>
+    <color id="highlight" value="506262ff"/>
+    <color id="selectionBackground" value="36a59555"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="171c1cff"/>
+    <color id="secondaryBackground" value="2d3838ff"/>
+    <color id="disabled" value="728d8dff"/>
+    <color id="contrast" value="191f1fff"/>
+    <color id="tableSelected" value="445454ff"/>
+    <color id="secondBorder" value="1d2424ff"/>
+    <color id="treeSelection" value="f6da4050"/>
+    <color id="notifications" value="3b3b3bff"/>
+    <color id="accent" value="36a595ff"/>
+    <color id="excluded" value="344141ff"/>
+  </colors>
+  <themeId>jumper</themeId>
+</mtTheme>

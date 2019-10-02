@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>newton</id>
+  <editorColorsScheme>Newton (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Newton</name>
+  <colors>
+    <color id="background" value="342e37ff"/>
+    <color id="foreground" value="eaebffff"/>
+    <color id="text" value="b7baffff"/>
+    <color id="highlight" value="695c6fff"/>
+    <color id="selectionBackground" value="ff5d3855"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="272229ff"/>
+    <color id="secondaryBackground" value="413a45ff"/>
+    <color id="disabled" value="8f8196ff"/>
+    <color id="contrast" value="29252cff"/>
+    <color id="tableSelected" value="5b5161ff"/>
+    <color id="secondBorder" value="2f2931ff"/>
+    <color id="treeSelection" value="ffbf6950"/>
+    <color id="notifications" value="4e4553ff"/>
+    <color id="accent" value="fa824cff"/>
+    <color id="excluded" value="49414dff"/>
+  </colors>
+  <themeId>newton</themeId>
+</mtTheme>

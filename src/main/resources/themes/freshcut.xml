@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>freshcut</id>
+  <editorColorsScheme>FreshCut (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>FreshCut</name>
+  <colors>
+    <color id="background" value="2f3030ff"/>
+    <color id="foreground" value="f8f8f2ff"/>
+    <color id="text" value="e6e6d1ff"/>
+    <color id="highlight" value="616464ff"/>
+    <color id="selectionBackground" value="00809755"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="222323ff"/>
+    <color id="secondaryBackground" value="3c3d3dff"/>
+    <color id="disabled" value="878a8aff"/>
+    <color id="contrast" value="252626ff"/>
+    <color id="tableSelected" value="555757ff"/>
+    <color id="secondBorder" value="2a2b2bff"/>
+    <color id="treeSelection" value="00a8c650"/>
+    <color id="notifications" value="484a4aff"/>
+    <color id="accent" value="4ecdc4ff"/>
+    <color id="excluded" value="434545ff"/>
+  </colors>
+  <themeId>freshcut</themeId>
+</mtTheme>

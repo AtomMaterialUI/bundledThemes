@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>heroku</id>
+  <editorColorsScheme>Heroku (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Heroku</name>
+  <colors>
+    <color id="background" value="1b1b24ff"/>
+    <color id="foreground" value="c8c7d5ff"/>
+    <color id="text" value="abaabfff"/>
+    <color id="highlight" value="47475eff"/>
+    <color id="selectionBackground" value="7873ae55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="101015ff"/>
+    <color id="secondaryBackground" value="262633ff"/>
+    <color id="disabled" value="68688aff"/>
+    <color id="contrast" value="121218ff"/>
+    <color id="tableSelected" value="3c3c50ff"/>
+    <color id="secondBorder" value="17171eff"/>
+    <color id="treeSelection" value="7873ae50"/>
+    <color id="notifications" value="313141ff"/>
+    <color id="accent" value="7873aeff"/>
+    <color id="excluded" value="2c2c3bff"/>
+  </colors>
+  <themeId>heroku</themeId>
+</mtTheme>

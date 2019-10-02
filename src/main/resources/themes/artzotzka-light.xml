@@ -32,7 +32,7 @@
         <color id="background" value="ffffff"></color>
         <color id="foreground" value="333333"></color>
         <color id="text" value="737373"></color>
-        <color id="selectionBackground" value="516b6b"></color>
+        <color id="selectionBackground" value="516b6b55"></color>
         <color id="selectionForeground" value="FFFFFF"></color>
         <color id="inactive" value="f2f2f2"></color>
         <color id="secondaryBackground" value="f2f2f2"></color>

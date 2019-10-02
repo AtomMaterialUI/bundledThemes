@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>loyal</id>
+  <editorColorsScheme>Loyal (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Loyal</name>
+  <colors>
+    <color id="background" value="413e4fff"/>
+    <color id="foreground" value="bbb1c9ff"/>
+    <color id="text" value="a193b4ff"/>
+    <color id="highlight" value="706b88ff"/>
+    <color id="selectionBackground" value="3cbbb155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="353341ff"/>
+    <color id="secondaryBackground" value="4d495dff"/>
+    <color id="disabled" value="9894abff"/>
+    <color id="contrast" value="383544ff"/>
+    <color id="tableSelected" value="64607aff"/>
+    <color id="secondBorder" value="3c3a49ff"/>
+    <color id="treeSelection" value="ee426650"/>
+    <color id="notifications" value="58546cff"/>
+    <color id="accent" value="3cbbb1ff"/>
+    <color id="excluded" value="545066ff"/>
+  </colors>
+  <themeId>loyal</themeId>
+</mtTheme>

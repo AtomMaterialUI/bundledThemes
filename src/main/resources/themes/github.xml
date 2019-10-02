@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>github</id>
+  <editorColorsScheme>Github (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Github</name>
+  <colors>
+    <color id="background" value="333333ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="666666ff"/>
+    <color id="selectionBackground" value="00808055"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="262626ff"/>
+    <color id="secondaryBackground" value="404040ff"/>
+    <color id="disabled" value="8c8c8cff"/>
+    <color id="contrast" value="292929ff"/>
+    <color id="tableSelected" value="595959ff"/>
+    <color id="secondBorder" value="2e2e2eff"/>
+    <color id="treeSelection" value="66c4c450"/>
+    <color id="notifications" value="4d4d4dff"/>
+    <color id="accent" value="7385bcff"/>
+    <color id="excluded" value="474747ff"/>
+  </colors>
+  <themeId>github</themeId>
+</mtTheme>

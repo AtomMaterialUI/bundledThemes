@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>grunge</id>
+  <editorColorsScheme>Grunge (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Grunge</name>
+  <colors>
+    <color id="background" value="31332cff"/>
+    <color id="foreground" value="f8f8f2ff"/>
+    <color id="text" value="e6e6d1ff"/>
+    <color id="highlight" value="666a5bff"/>
+    <color id="selectionBackground" value="f5699155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="242520ff"/>
+    <color id="secondaryBackground" value="3e4138ff"/>
+    <color id="disabled" value="8c9180ff"/>
+    <color id="contrast" value="262823ff"/>
+    <color id="tableSelected" value="585c4fff"/>
+    <color id="secondBorder" value="2c2e27ff"/>
+    <color id="treeSelection" value="f5699150"/>
+    <color id="notifications" value="4b4e44ff"/>
+    <color id="accent" value="f56991ff"/>
+    <color id="excluded" value="46493fff"/>
+  </colors>
+  <themeId>grunge</themeId>
+</mtTheme>

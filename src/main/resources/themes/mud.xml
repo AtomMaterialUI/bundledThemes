@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>mud</id>
+  <editorColorsScheme>Mud (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Mud</name>
+  <colors>
+    <color id="background" value="403635ff"/>
+    <color id="foreground" value="e4e3e1ff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="786563ff"/>
+    <color id="selectionBackground" value="b5db9955"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="322a29ff"/>
+    <color id="secondaryBackground" value="4e4241ff"/>
+    <color id="disabled" value="9e8b8aff"/>
+    <color id="contrast" value="352d2cff"/>
+    <color id="tableSelected" value="6a5958ff"/>
+    <color id="secondBorder" value="3a3130ff"/>
+    <color id="treeSelection" value="ff978750"/>
+    <color id="notifications" value="5c4e4cff"/>
+    <color id="accent" value="e9c865ff"/>
+    <color id="excluded" value="564947ff"/>
+  </colors>
+  <themeId>mud</themeId>
+</mtTheme>

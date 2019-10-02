@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>laracasts</id>
+  <editorColorsScheme>Laracasts (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Laracasts</name>
+  <colors>
+    <color id="background" value="4d545dff"/>
+    <color id="foreground" value="c0ccdbff"/>
+    <color id="text" value="a0b2c8ff"/>
+    <color id="highlight" value="7d8793ff"/>
+    <color id="selectionBackground" value="00b1b355"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="41474fff"/>
+    <color id="secondaryBackground" value="59616bff"/>
+    <color id="disabled" value="a7adb6ff"/>
+    <color id="contrast" value="444a52ff"/>
+    <color id="tableSelected" value="707a87ff"/>
+    <color id="secondBorder" value="484f57ff"/>
+    <color id="treeSelection" value="ef673350"/>
+    <color id="notifications" value="414f4aff"/>
+    <color id="accent" value="00b1b3ff"/>
+    <color id="excluded" value="5f6873ff"/>
+  </colors>
+  <themeId>laracasts</themeId>
+</mtTheme>

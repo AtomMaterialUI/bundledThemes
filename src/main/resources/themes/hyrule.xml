@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>hyrule</id>
+  <editorColorsScheme>Hyrule (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Hyrule</name>
+  <colors>
+    <color id="background" value="2d2c2bff"/>
+    <color id="foreground" value="c0d5c1ff"/>
+    <color id="text" value="a1c1a3ff"/>
+    <color id="highlight" value="615f5dff"/>
+    <color id="selectionBackground" value="569e1655"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="201f1fff"/>
+    <color id="secondaryBackground" value="3a3937ff"/>
+    <color id="disabled" value="888582ff"/>
+    <color id="contrast" value="232221ff"/>
+    <color id="tableSelected" value="545250ff"/>
+    <color id="secondBorder" value="282726ff"/>
+    <color id="treeSelection" value="569e1650"/>
+    <color id="notifications" value="474544ff"/>
+    <color id="accent" value="f5c504ff"/>
+    <color id="excluded" value="42403fff"/>
+  </colors>
+  <themeId>hyrule</themeId>
+</mtTheme>

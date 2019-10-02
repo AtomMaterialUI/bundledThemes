@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>legacy</id>
+  <editorColorsScheme>Legacy (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Legacy</name>
+  <colors>
+    <color id="background" value="212933ff"/>
+    <color id="foreground" value="aec2e0ff"/>
+    <color id="text" value="89a6d2ff"/>
+    <color id="highlight" value="495b71ff"/>
+    <color id="selectionBackground" value="ff410d55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="171d24ff"/>
+    <color id="secondaryBackground" value="2b3542ff"/>
+    <color id="disabled" value="69809eff"/>
+    <color id="contrast" value="191f27ff"/>
+    <color id="tableSelected" value="3f4e61ff"/>
+    <color id="secondBorder" value="1d242dff"/>
+    <color id="treeSelection" value="ffffff50"/>
+    <color id="notifications" value="354252ff"/>
+    <color id="accent" value="267fb5ff"/>
+    <color id="excluded" value="313d4cff"/>
+  </colors>
+  <themeId>legacy</themeId>
+</mtTheme>

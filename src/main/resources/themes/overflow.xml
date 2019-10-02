@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>overflow</id>
+  <editorColorsScheme>Overflow (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Overflow</name>
+  <colors>
+    <color id="background" value="252c33ff"/>
+    <color id="foreground" value="aeb9c4ff"/>
+    <color id="text" value="909faeff"/>
+    <color id="highlight" value="505f6eff"/>
+    <color id="selectionBackground" value="b0ca4855"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1a1f24ff"/>
+    <color id="secondaryBackground" value="303942ff"/>
+    <color id="disabled" value="728599ff"/>
+    <color id="contrast" value="1c2227ff"/>
+    <color id="tableSelected" value="45525fff"/>
+    <color id="secondBorder" value="21272dff"/>
+    <color id="treeSelection" value="b0ca4850"/>
+    <color id="notifications" value="3a4551ff"/>
+    <color id="accent" value="fe532cff"/>
+    <color id="excluded" value="36404bff"/>
+  </colors>
+  <themeId>overflow</themeId>
+</mtTheme>

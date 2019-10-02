@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>patriot</id>
+  <editorColorsScheme>Patriot (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Patriot</name>
+  <colors>
+    <color id="background" value="2d3133ff"/>
+    <color id="foreground" value="cad9e3ff"/>
+    <color id="text" value="a9c1d1ff"/>
+    <color id="highlight" value="5d6569ff"/>
+    <color id="selectionBackground" value="de333c55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="212425ff"/>
+    <color id="secondaryBackground" value="393e41ff"/>
+    <color id="disabled" value="828c91ff"/>
+    <color id="contrast" value="232728ff"/>
+    <color id="tableSelected" value="51585cff"/>
+    <color id="secondBorder" value="282c2eff"/>
+    <color id="treeSelection" value="2e6fd950"/>
+    <color id="notifications" value="454b4eff"/>
+    <color id="accent" value="de333cff"/>
+    <color id="excluded" value="404649ff"/>
+  </colors>
+  <themeId>patriot</themeId>
+</mtTheme>

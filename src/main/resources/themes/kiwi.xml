@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>kiwi</id>
+  <editorColorsScheme>Kiwi (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Kiwi</name>
+  <colors>
+    <color id="background" value="2a3330ff"/>
+    <color id="foreground" value="edebe6ff"/>
+    <color id="text" value="d8d3c8ff"/>
+    <color id="highlight" value="444444ff"/>
+    <color id="selectionBackground" value="0b6d5c55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1e2523ff"/>
+    <color id="secondaryBackground" value="36413dff"/>
+    <color id="disabled" value="7c938cff"/>
+    <color id="contrast" value="212825ff"/>
+    <color id="tableSelected" value="4d5d57ff"/>
+    <color id="secondBorder" value="252d2bff"/>
+    <color id="treeSelection" value="95c72a50"/>
+    <color id="notifications" value="414f4aff"/>
+    <color id="accent" value="229986ff"/>
+    <color id="excluded" value="3c4945ff"/>
+  </colors>
+  <themeId>kiwi</themeId>
+</mtTheme>

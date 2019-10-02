@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>peacock</id>
+  <editorColorsScheme>Peacock (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Peacock</name>
+  <colors>
+    <color id="background" value="2b2a27ff"/>
+    <color id="foreground" value="ede0ceff"/>
+    <color id="text" value="dfc8a9ff"/>
+    <color id="highlight" value="605e57ff"/>
+    <color id="selectionBackground" value="ff5d3855"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1e1d1bff"/>
+    <color id="secondaryBackground" value="383733ff"/>
+    <color id="disabled" value="88857cff"/>
+    <color id="contrast" value="20201dff"/>
+    <color id="tableSelected" value="53514bff"/>
+    <color id="secondBorder" value="262522ff"/>
+    <color id="treeSelection" value="ff5d3850"/>
+    <color id="notifications" value="46443fff"/>
+    <color id="accent" value="26a6a6ff"/>
+    <color id="excluded" value="403f3aff"/>
+  </colors>
+  <themeId>peacock</themeId>
+</mtTheme>

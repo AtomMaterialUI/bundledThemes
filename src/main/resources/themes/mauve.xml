@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>mauve</id>
+  <editorColorsScheme>Mauve (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Mauve</name>
+  <colors>
+    <color id="background" value="372638ff"/>
+    <color id="foreground" value="af92b2ff"/>
+    <color id="text" value="99749dff"/>
+    <color id="highlight" value="734f75ff"/>
+    <color id="selectionBackground" value="c8993355"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="281c29ff"/>
+    <color id="secondaryBackground" value="463047ff"/>
+    <color id="disabled" value="9c729fff"/>
+    <color id="contrast" value="2b1e2cff"/>
+    <color id="tableSelected" value="644566ff"/>
+    <color id="secondBorder" value="312232ff"/>
+    <color id="treeSelection" value="74526c50"/>
+    <color id="notifications" value="553b56ff"/>
+    <color id="accent" value="c89933ff"/>
+    <color id="excluded" value="4f3650ff"/>
+  </colors>
+  <themeId>mauve</themeId>
+</mtTheme>

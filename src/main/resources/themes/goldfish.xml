@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>goldfish</id>
+  <editorColorsScheme>Goldfish (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Goldfish</name>
+  <colors>
+    <color id="background" value="2e3336ff"/>
+    <color id="foreground" value="f8f8f2ff"/>
+    <color id="text" value="e6e6d1ff"/>
+    <color id="highlight" value="5d676dff"/>
+    <color id="selectionBackground" value="f3863055"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="222628ff"/>
+    <color id="secondaryBackground" value="3a4044ff"/>
+    <color id="disabled" value="828e94ff"/>
+    <color id="contrast" value="25292bff"/>
+    <color id="tableSelected" value="515a5fff"/>
+    <color id="secondBorder" value="292e30ff"/>
+    <color id="treeSelection" value="fa690050"/>
+    <color id="notifications" value="454d52ff"/>
+    <color id="accent" value="f38630ff"/>
+    <color id="excluded" value="41484cff"/>
+  </colors>
+  <themeId>goldfish</themeId>
+</mtTheme>

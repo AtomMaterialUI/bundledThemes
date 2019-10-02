@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>lavender</id>
+  <editorColorsScheme>Lavender (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Lavender</name>
+  <colors>
+    <color id="background" value="29222eff"/>
+    <color id="foreground" value="e0ceedff"/>
+    <color id="text" value="c8a9dfff"/>
+    <color id="highlight" value="5d4d69ff"/>
+    <color id="selectionBackground" value="b657ff55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1c171fff"/>
+    <color id="secondaryBackground" value="362d3dff"/>
+    <color id="disabled" value="846e94ff"/>
+    <color id="contrast" value="1f1922ff"/>
+    <color id="tableSelected" value="50425aff"/>
+    <color id="secondBorder" value="241e28ff"/>
+    <color id="treeSelection" value="b657ff50"/>
+    <color id="notifications" value="43384bff"/>
+    <color id="accent" value="a29dfaff"/>
+    <color id="excluded" value="3e3345ff"/>
+  </colors>
+  <themeId>lavender</themeId>
+</mtTheme>

@@ -8,7 +8,7 @@
     <color id="foreground" value="547f91ff"/>
     <color id="text" value="416371ff"/>
     <color id="highlight" value="d9d9d9ff"/>
-    <color id="selectionBackground" value="1ea8fcff"/>
+    <color id="selectionBackground" value="1ea8fc55"/>
     <color id="selectionForeground" value="ffffffff"/>
     <color id="button" value="f2f2f2ff"/>
     <color id="secondaryBackground" value="f2f2f2ff"/>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>glowfish</id>
+  <editorColorsScheme>Glowfish (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Glowfish</name>
+  <colors>
+    <color id="background" value="191f13ff"/>
+    <color id="foreground" value="6ea240ff"/>
+    <color id="text" value="557d32ff"/>
+    <color id="highlight" value="4c5e3aff"/>
+    <color id="selectionBackground" value="db784d55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="0c0f09ff"/>
+    <color id="secondaryBackground" value="262f1dff"/>
+    <color id="disabled" value="728e57ff"/>
+    <color id="contrast" value="0f120bff"/>
+    <color id="tableSelected" value="3f4e30ff"/>
+    <color id="secondBorder" value="14190fff"/>
+    <color id="treeSelection" value="db784d50"/>
+    <color id="notifications" value="323f26ff"/>
+    <color id="accent" value="db784dff"/>
+    <color id="excluded" value="2d3822ff"/>
+  </colors>
+  <themeId>glowfish</themeId>
+</mtTheme>

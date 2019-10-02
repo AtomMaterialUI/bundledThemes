@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>iceberg</id>
+  <editorColorsScheme>Iceberg (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Iceberg</name>
+  <colors>
+    <color id="background" value="323b3dff"/>
+    <color id="foreground" value="bdd6dbff"/>
+    <color id="text" value="9cc1c9ff"/>
+    <color id="highlight" value="607175ff"/>
+    <color id="selectionBackground" value="2d8da155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="272d2fff"/>
+    <color id="secondaryBackground" value="3d494bff"/>
+    <color id="disabled" value="86989cff"/>
+    <color id="contrast" value="293032ff"/>
+    <color id="tableSelected" value="546467ff"/>
+    <color id="secondBorder" value="2d3637ff"/>
+    <color id="treeSelection" value="2d8da150"/>
+    <color id="notifications" value="495659ff"/>
+    <color id="accent" value="59c0e3ff"/>
+    <color id="excluded" value="445153ff"/>
+  </colors>
+  <themeId>iceberg</themeId>
+</mtTheme>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>hawaii</id>
+  <editorColorsScheme>Hawaii (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Hawaii</name>
+  <colors>
+    <color id="background" value="333130ff"/>
+    <color id="foreground" value="e8e1deff"/>
+    <color id="text" value="d3c6c0ff"/>
+    <color id="highlight" value="686361ff"/>
+    <color id="selectionBackground" value="f7543155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="262424ff"/>
+    <color id="secondaryBackground" value="403e3cff"/>
+    <color id="disabled" value="8e8a87ff"/>
+    <color id="contrast" value="282726ff"/>
+    <color id="tableSelected" value="5a5755ff"/>
+    <color id="secondBorder" value="2e2c2bff"/>
+    <color id="treeSelection" value="f7543150"/>
+    <color id="notifications" value="4d4a49ff"/>
+    <color id="accent" value="edbd44ff"/>
+    <color id="excluded" value="484544ff"/>
+  </colors>
+  <themeId>hawaii</themeId>
+</mtTheme>

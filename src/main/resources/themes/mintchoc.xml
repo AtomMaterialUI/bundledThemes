@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>mintchoc</id>
+  <editorColorsScheme>Mintchoc (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Mintchoc</name>
+  <colors>
+    <color id="background" value="2b221cff"/>
+    <color id="foreground" value="bababaff"/>
+    <color id="text" value="a0a0a0ff"/>
+    <color id="highlight" value="695344ff"/>
+    <color id="selectionBackground" value="008d6255"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1c1612ff"/>
+    <color id="secondaryBackground" value="3a2e26ff"/>
+    <color id="disabled" value="977762ff"/>
+    <color id="contrast" value="1f1814ff"/>
+    <color id="tableSelected" value="59473aff"/>
+    <color id="secondBorder" value="251d18ff"/>
+    <color id="treeSelection" value="008d6250"/>
+    <color id="notifications" value="4a3a30ff"/>
+    <color id="accent" value="9d8262ff"/>
+    <color id="excluded" value="44362cff"/>
+  </colors>
+  <themeId>mintchoc</themeId>
+</mtTheme>

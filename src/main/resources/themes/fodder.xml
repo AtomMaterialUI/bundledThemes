@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>fodder</id>
+  <editorColorsScheme>Fodder (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Fodder</name>
+  <colors>
+    <color id="background" value="2d4137ff"/>
+    <color id="foreground" value="cce0d6ff"/>
+    <color id="text" value="accdbcff"/>
+    <color id="highlight" value="577d6aff"/>
+    <color id="selectionBackground" value="fcfcfa55"/>
+    <color id="selectionForeground" value="98d046ff"/>
+    <color id="button" value="23322aff"/>
+    <color id="secondaryBackground" value="375044ff"/>
+    <color id="disabled" value="7ca490ff"/>
+    <color id="contrast" value="25352dff"/>
+    <color id="tableSelected" value="4c6e5dff"/>
+    <color id="secondBorder" value="293b32ff"/>
+    <color id="treeSelection" value="98d04650"/>
+    <color id="notifications" value="425f50ff"/>
+    <color id="accent" value="ad9895ff"/>
+    <color id="excluded" value="3e594bff"/>
+  </colors>
+  <themeId>fodder</themeId>
+</mtTheme>

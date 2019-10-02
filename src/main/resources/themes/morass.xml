@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>morass</id>
+  <editorColorsScheme>Morass (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Morass</name>
+  <colors>
+    <color id="background" value="313a36ff"/>
+    <color id="foreground" value="e4e3e1ff"/>
+    <color id="text" value="cccac6ff"/>
+    <color id="highlight" value="607169ff"/>
+    <color id="selectionBackground" value="fdec5a55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="252c29ff"/>
+    <color id="secondaryBackground" value="3d4843ff"/>
+    <color id="disabled" value="859890ff"/>
+    <color id="contrast" value="282f2cff"/>
+    <color id="tableSelected" value="54635dff"/>
+    <color id="secondBorder" value="2c3431ff"/>
+    <color id="treeSelection" value="68875a50"/>
+    <color id="notifications" value="485650ff"/>
+    <color id="accent" value="fdec5aff"/>
+    <color id="excluded" value="44504bff"/>
+  </colors>
+  <themeId>morass</themeId>
+</mtTheme>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>jewel</id>
+  <editorColorsScheme>Jewel (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Jewel</name>
+  <colors>
+    <color id="background" value="32373dff"/>
+    <color id="foreground" value="c0ccdbff"/>
+    <color id="text" value="a0b2c8ff"/>
+    <color id="highlight" value="606a75ff"/>
+    <color id="selectionBackground" value="c262c455"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="272a2fff"/>
+    <color id="secondaryBackground" value="3d444bff"/>
+    <color id="disabled" value="86909cff"/>
+    <color id="contrast" value="292d32ff"/>
+    <color id="tableSelected" value="545d67ff"/>
+    <color id="secondBorder" value="2d3237ff"/>
+    <color id="treeSelection" value="c262c450"/>
+    <color id="notifications" value="495059ff"/>
+    <color id="accent" value="6299c4ff"/>
+    <color id="excluded" value="444b53ff"/>
+  </colors>
+  <themeId>jewel</themeId>
+</mtTheme>
