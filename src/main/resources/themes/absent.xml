@@ -29,21 +29,21 @@
     <dark>true</dark>
     <editorColorsScheme>Absent (rainglow)</editorColorsScheme>
     <colors>
-        <color id="background" value="252c33"></color>
-        <color id="foreground" value="aeb9c4"></color>
-        <color id="text" value="909fae"></color>
+        <color id="background" value="252c33ff"></color>
+        <color id="foreground" value="aeb9c4ff"></color>
+        <color id="text" value="909faeff"></color>
         <color id="selectionBackground" value="228a9655"></color>
-        <color id="selectionForeground" value="FFFFFF"></color>
-        <color id="button" value="2b343c"></color>
-        <color id="secondaryBackground" value="303942"></color>
-        <color id="disabled" value="45525f"></color>
-        <color id="contrast" value="1c2227"></color>
-        <color id="tableSelected" value="303942"></color>
-        <color id="secondBorder" value="21272d"></color>
-        <color id="highlight" value="505f6e"></color>
-        <color id="treeSelection" value="228a9690"></color>
-        <color id="notifications" value="3a4551"></color>
-        <color id="accent" value="228a96"></color>
-        <color id="excluded" value="36404b"></color>
+        <color id="selectionForeground" value="FFFFFFff"></color>
+        <color id="button" value="1a1f24ff"></color>
+        <color id="secondaryBackground" value="303942ff"></color>
+        <color id="disabled" value="728599ff"></color>
+        <color id="contrast" value="1c2227ff"></color>
+        <color id="tableSelected" value="45525fff"></color>
+        <color id="secondBorder" value="21272dff"></color>
+        <color id="highlight" value="505f6eff"></color>
+        <color id="treeSelection" value="6ba77f50"></color>
+        <color id="notifications" value="3a4551ff"></color>
+        <color id="accent" value="228a96ff"></color>
+        <color id="excluded" value="36404bff"></color>
     </colors>
 </mtTheme>

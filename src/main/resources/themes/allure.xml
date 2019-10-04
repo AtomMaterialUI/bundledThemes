@@ -29,22 +29,22 @@
     <dark>true</dark>
     <editorColorsScheme>Allure (rainglow)</editorColorsScheme>
     <colors>
-        <color id="background" value="32373d"></color>
-        <color id="foreground" value="c0ccdb"></color>
-        <color id="text" value="a0b2c8"></color>
+        <color id="background" value="32373dff"></color>
+        <color id="foreground" value="c0ccdbff"></color>
+        <color id="text" value="a0b2c8ff"></color>
         <color id="selectionBackground" value="5da89255"></color>
-        <color id="selectionForeground" value="FFFFFF"></color>
-        <color id="button" value="393f45"></color>
-        <color id="secondaryBackground" value="3D444B"></color>
-        <color id="disabled" value="545d67"></color>
-        <color id="contrast" value="292d32"></color>
-        <color id="tableSelected" value="3d444b"></color>
-        <color id="secondBorder" value="2d3237"></color>
-        <color id="highlight" value="606a75"></color>
-        <color id="treeSelection" value="5da89290"></color>
-        <color id="notifications" value="495059"></color>
-        <color id="accent" value="5da892"></color>
-        <color id="excluded" value="444b53"></color>
+        <color id="selectionForeground" value="FFFFFFff"></color>
+        <color id="button" value="272a2fff"></color>
+        <color id="secondaryBackground" value="3d444bff"></color>
+        <color id="disabled" value="86909cff"></color>
+        <color id="contrast" value="292d32ff"></color>
+        <color id="tableSelected" value="545d67ff"></color>
+        <color id="secondBorder" value="2d3237ff"></color>
+        <color id="highlight" value="606a75ff"></color>
+        <color id="treeSelection" value="e4d29450"></color>
+        <color id="notifications" value="495059ff"></color>
+        <color id="accent" value="5da892ff"></color>
+        <color id="excluded" value="444b53ff"></color>
 
     </colors>
 </mtTheme>

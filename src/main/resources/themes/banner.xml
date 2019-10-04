@@ -29,21 +29,21 @@
     <dark>true</dark>
     <editorColorsScheme>Banner (rainglow)</editorColorsScheme>
     <colors>
-        <color id="background" value="1d1a26"></color>
-        <color id="foreground" value="C5BEDD"></color>
-        <color id="text" value="a79ccb"></color>
+        <color id="background" value="1d1a26ff"></color>
+        <color id="foreground" value="C5BEDDff"></color>
+        <color id="text" value="a79ccbff"></color>
         <color id="selectionBackground" value="7cd82755"></color>
-        <color id="selectionForeground" value="FFFFFF"></color>
-        <color id="button" value="24202F"></color>
-        <color id="secondaryBackground" value="292435"></color>
-        <color id="disabled" value="403953"></color>
-        <color id="contrast" value="14121a"></color>
-        <color id="tableSelected" value="292435"></color>
-        <color id="secondBorder" value="181620"></color>
-        <color id="highlight" value="4b4363"></color>
-        <color id="treeSelection" value="7CD82750"></color>
-        <color id="notifications" value="342f44"></color>
-        <color id="accent" value="a25cdb"></color>
-        <color id="excluded" value="1d1a1a"></color>
+        <color id="selectionForeground" value="FFFFFFff"></color>
+        <color id="button" value="111017ff"></color>
+        <color id="secondaryBackground" value="292435ff"></color>
+        <color id="disabled" value="6e6290ff"></color>
+        <color id="contrast" value="14121aff"></color>
+        <color id="tableSelected" value="403953ff"></color>
+        <color id="secondBorder" value="181620ff"></color>
+        <color id="highlight" value="4b4363ff"></color>
+        <color id="treeSelection" value="a25cdb50"></color>
+        <color id="notifications" value="342f44ff"></color>
+        <color id="accent" value="7cd827ff"></color>
+        <color id="excluded" value="2f2b3eff"></color>
     </colors>
 </mtTheme>

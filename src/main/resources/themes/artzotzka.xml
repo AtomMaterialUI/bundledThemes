@@ -29,21 +29,21 @@
     <dark>true</dark>
     <editorColorsScheme>Artzotzka (rainglow)</editorColorsScheme>
     <colors>
-        <color id="background" value="332e2e"></color>
-        <color id="foreground" value="EDEBE6"></color>
-        <color id="text" value="d8d3c8"></color>
+        <color id="background" value="332e2eff"></color>
+        <color id="foreground" value="edebe6ff"></color>
+        <color id="text" value="d8d3c8ff"></color>
         <color id="selectionBackground" value="516b6b55"></color>
-        <color id="selectionForeground" value="FFFFFF"></color>
-        <color id="button" value="3b3535"></color>
-        <color id="secondaryBackground" value="403a3a"></color>
-        <color id="disabled" value="5b5252"></color>
-        <color id="contrast" value="282424"></color>
-        <color id="tableSelected" value="403a3a"></color>
-        <color id="secondBorder" value="2e2929"></color>
-        <color id="highlight" value="695e5e"></color>
-        <color id="treeSelection" value="516B6B55"></color>
-        <color id="notifications" value="4e4646"></color>
-        <color id="accent" value="516b6b"></color>
-        <color id="excluded" value="484141"></color>
+        <color id="selectionForeground" value="FFFFFFff"></color>
+        <color id="button" value="262222ff"></color>
+        <color id="secondaryBackground" value="403a3aff"></color>
+        <color id="disabled" value="908484ff"></color>
+        <color id="contrast" value="282424ff"></color>
+        <color id="tableSelected" value="5b5252ff"></color>
+        <color id="secondBorder" value="2e2929ff"></color>
+        <color id="highlight" value="695e5eff"></color>
+        <color id="treeSelection" value="516b6b55"></color>
+        <color id="notifications" value="4e4646ff"></color>
+        <color id="accent" value="a2a797ff"></color>
+        <color id="excluded" value="484141ff"></color>
     </colors>
 </mtTheme>
