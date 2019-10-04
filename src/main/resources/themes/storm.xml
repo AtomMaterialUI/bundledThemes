@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>storm</id>
+  <editorColorsScheme>Storm (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Storm</name>
+  <colors>
+    <color id="background" value="092327ff"/>
+    <color id="foreground" value="baceddff"/>
+    <color id="text" value="98b6ccff"/>
+    <color id="highlight" value="1c6d7aff"/>
+    <color id="selectionBackground" value="00a9a555"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="041012ff"/>
+    <color id="secondaryBackground" value="0e363cff"/>
+    <color id="disabled" value="2aa5b8ff"/>
+    <color id="contrast" value="051416ff"/>
+    <color id="tableSelected" value="175b65ff"/>
+    <color id="secondBorder" value="071c1fff"/>
+    <color id="treeSelection" value="00a9a550"/>
+    <color id="notifications" value="134850ff"/>
+    <color id="accent" value="00a9a5ff"/>
+    <color id="excluded" value="114148ff"/>
+  </colors>
+  <themeId>storm</themeId>
+</mtTheme>

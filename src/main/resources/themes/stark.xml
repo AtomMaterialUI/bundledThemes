@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>stark</id>
+  <editorColorsScheme>Stark (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Stark</name>
+  <colors>
+    <color id="background" value="2e2c2bff"/>
+    <color id="foreground" value="dededeff"/>
+    <color id="text" value="c4c4c4ff"/>
+    <color id="highlight" value="635e5cff"/>
+    <color id="selectionBackground" value="f0311355"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="211f1fff"/>
+    <color id="secondaryBackground" value="3b3937ff"/>
+    <color id="disabled" value="8a8482ff"/>
+    <color id="contrast" value="232221ff"/>
+    <color id="tableSelected" value="565250ff"/>
+    <color id="secondBorder" value="292726ff"/>
+    <color id="treeSelection" value="f0311350"/>
+    <color id="notifications" value="484544ff"/>
+    <color id="accent" value="ffbb29ff"/>
+    <color id="excluded" value="43403fff"/>
+  </colors>
+  <themeId>stark</themeId>
+</mtTheme>

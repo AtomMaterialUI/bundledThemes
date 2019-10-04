@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>soup</id>
+  <editorColorsScheme>Soup (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Soup</name>
+  <colors>
+    <color id="background" value="40424cff"/>
+    <color id="foreground" value="9090b2ff"/>
+    <color id="text" value="72729dff"/>
+    <color id="highlight" value="6f7283ff"/>
+    <color id="selectionBackground" value="68b0ab55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="34363eff"/>
+    <color id="secondaryBackground" value="4c4e5aff"/>
+    <color id="disabled" value="979aa7ff"/>
+    <color id="contrast" value="373841ff"/>
+    <color id="tableSelected" value="636676ff"/>
+    <color id="secondBorder" value="3b3d46ff"/>
+    <color id="treeSelection" value="8fc0a950"/>
+    <color id="notifications" value="575a68ff"/>
+    <color id="accent" value="68b0abff"/>
+    <color id="excluded" value="535562ff"/>
+  </colors>
+  <themeId>soup</themeId>
+</mtTheme>

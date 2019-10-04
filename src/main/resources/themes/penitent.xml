@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>penitent</id>
+  <editorColorsScheme>Penitent (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Penitent</name>
+  <colors>
+    <color id="background" value="1f352eff"/>
+    <color id="foreground" value="b9cec7ff"/>
+    <color id="text" value="9bb9afff"/>
+    <color id="highlight" value="457566ff"/>
+    <color id="selectionBackground" value="e5433455"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="162520ff"/>
+    <color id="secondaryBackground" value="28453cff"/>
+    <color id="disabled" value="63a48fff"/>
+    <color id="contrast" value="172823ff"/>
+    <color id="tableSelected" value="3b6558ff"/>
+    <color id="secondBorder" value="1b2f28ff"/>
+    <color id="treeSelection" value="ea983a50"/>
+    <color id="notifications" value="32554aff"/>
+    <color id="accent" value="e54334ff"/>
+    <color id="excluded" value="2e4f44ff"/>
+  </colors>
+  <themeId>penitent</themeId>
+</mtTheme>

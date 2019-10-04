@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>service</id>
+  <editorColorsScheme>Service (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Service</name>
+  <colors>
+    <color id="background" value="252727ff"/>
+    <color id="foreground" value="e8e1deff"/>
+    <color id="text" value="d3c6c0ff"/>
+    <color id="highlight" value="575b5bff"/>
+    <color id="selectionBackground" value="a2d66b55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="191a1aff"/>
+    <color id="secondaryBackground" value="313434ff"/>
+    <color id="disabled" value="7c8383ff"/>
+    <color id="contrast" value="1b1d1dff"/>
+    <color id="tableSelected" value="4a4e4eff"/>
+    <color id="secondBorder" value="202222ff"/>
+    <color id="treeSelection" value="a0afa150"/>
+    <color id="notifications" value="3e4141ff"/>
+    <color id="accent" value="6c8375ff"/>
+    <color id="excluded" value="393c3cff"/>
+  </colors>
+  <themeId>service</themeId>
+</mtTheme>

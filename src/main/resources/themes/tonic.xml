@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>tonic</id>
+  <editorColorsScheme>Tonic (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Tonic</name>
+  <colors>
+    <color id="background" value="2a2f31ff"/>
+    <color id="foreground" value="eeeeeeff"/>
+    <color id="text" value="d4d4d4ff"/>
+    <color id="highlight" value="596468ff"/>
+    <color id="selectionBackground" value="75a1a455"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1e2223ff"/>
+    <color id="secondaryBackground" value="363c3fff"/>
+    <color id="disabled" value="7d8b90ff"/>
+    <color id="contrast" value="212426ff"/>
+    <color id="tableSelected" value="4d575aff"/>
+    <color id="secondBorder" value="252a2bff"/>
+    <color id="treeSelection" value="b8cd4450"/>
+    <color id="notifications" value="42494cff"/>
+    <color id="accent" value="b8cd44ff"/>
+    <color id="excluded" value="3d4447ff"/>
+  </colors>
+  <themeId>tonic</themeId>
+</mtTheme>

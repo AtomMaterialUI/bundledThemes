@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>super</id>
+  <editorColorsScheme>Super (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Super</name>
+  <colors>
+    <color id="background" value="2c343dff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="576678ff"/>
+    <color id="selectionBackground" value="e4563555"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="21272eff"/>
+    <color id="secondaryBackground" value="37414cff"/>
+    <color id="disabled" value="7b8da0ff"/>
+    <color id="contrast" value="232a31ff"/>
+    <color id="tableSelected" value="4c5a69ff"/>
+    <color id="secondBorder" value="282f37ff"/>
+    <color id="treeSelection" value="d6025750"/>
+    <color id="notifications" value="414d5bff"/>
+    <color id="accent" value="d60257ff"/>
+    <color id="excluded" value="3d4855ff"/>
+  </colors>
+  <themeId>super</themeId>
+</mtTheme>

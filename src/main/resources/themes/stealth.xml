@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>stealth</id>
+  <editorColorsScheme>Stealth (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Stealth</name>
+  <colors>
+    <color id="background" value="27292bff"/>
+    <color id="foreground" value="5f656dff"/>
+    <color id="text" value="474c52ff"/>
+    <color id="highlight" value="575c60ff"/>
+    <color id="selectionBackground" value="ffffff55"/>
+    <color id="selectionForeground" value="333333ff"/>
+    <color id="button" value="1b1c1eff"/>
+    <color id="secondaryBackground" value="333638ff"/>
+    <color id="disabled" value="7c8288ff"/>
+    <color id="contrast" value="1d1f20ff"/>
+    <color id="tableSelected" value="4b4f53ff"/>
+    <color id="secondBorder" value="222426ff"/>
+    <color id="treeSelection" value="474c5150"/>
+    <color id="notifications" value="3f4246ff"/>
+    <color id="accent" value="ffffffff"/>
+    <color id="excluded" value="3a3d40ff"/>
+  </colors>
+  <themeId>stealth</themeId>
+</mtTheme>

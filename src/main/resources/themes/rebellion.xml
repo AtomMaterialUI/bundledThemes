@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>rebellion</id>
+  <editorColorsScheme>Rebellion (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Rebellion</name>
+  <colors>
+    <color id="background" value="23231aff"/>
+    <color id="foreground" value="d6c7abff"/>
+    <color id="text" value="c5b089ff"/>
+    <color id="highlight" value="5e5e45ff"/>
+    <color id="selectionBackground" value="fe5f0055"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="14140fff"/>
+    <color id="secondaryBackground" value="323225ff"/>
+    <color id="disabled" value="898966ff"/>
+    <color id="contrast" value="171711ff"/>
+    <color id="tableSelected" value="4f4f3bff"/>
+    <color id="secondBorder" value="1d1d16ff"/>
+    <color id="treeSelection" value="988f2a50"/>
+    <color id="notifications" value="404030ff"/>
+    <color id="accent" value="fe5f00ff"/>
+    <color id="excluded" value="3a3a2bff"/>
+  </colors>
+  <themeId>rebellion</themeId>
+</mtTheme>

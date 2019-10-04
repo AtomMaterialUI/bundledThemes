@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>spearmint</id>
+  <editorColorsScheme>Spearmint (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Spearmint</name>
+  <colors>
+    <color id="background" value="415654ff"/>
+    <color id="foreground" value="c9dbd9ff"/>
+    <color id="text" value="aac7c3ff"/>
+    <color id="highlight" value="6d908dff"/>
+    <color id="selectionBackground" value="25808a55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="364746ff"/>
+    <color id="secondaryBackground" value="4c6462ff"/>
+    <color id="disabled" value="98b1afff"/>
+    <color id="contrast" value="384a49ff"/>
+    <color id="tableSelected" value="62827fff"/>
+    <color id="secondBorder" value="3d504eff"/>
+    <color id="treeSelection" value="25808a50"/>
+    <color id="notifications" value="577370ff"/>
+    <color id="accent" value="69adb5ff"/>
+    <color id="excluded" value="536d6bff"/>
+  </colors>
+  <themeId>spearmint</themeId>
+</mtTheme>

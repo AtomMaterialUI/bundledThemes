@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>snappy</id>
+  <editorColorsScheme>Snappy (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Snappy</name>
+  <colors>
+    <color id="background" value="393939ff"/>
+    <color id="foreground" value="e3e2e0ff"/>
+    <color id="text" value="cbc9c5ff"/>
+    <color id="highlight" value="6c6c6cff"/>
+    <color id="selectionBackground" value="f6615355"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2c2c2cff"/>
+    <color id="secondaryBackground" value="464646ff"/>
+    <color id="disabled" value="929292ff"/>
+    <color id="contrast" value="2f2f2fff"/>
+    <color id="tableSelected" value="5f5f5fff"/>
+    <color id="secondBorder" value="343434ff"/>
+    <color id="treeSelection" value="f6615350"/>
+    <color id="notifications" value="525252ff"/>
+    <color id="accent" value="4ea1dfff"/>
+    <color id="excluded" value="4d4d4dff"/>
+  </colors>
+  <themeId>snappy</themeId>
+</mtTheme>

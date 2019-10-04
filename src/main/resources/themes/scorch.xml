@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>scorch</id>
+  <editorColorsScheme>Scorch (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Scorch</name>
+  <colors>
+    <color id="background" value="392123ff"/>
+    <color id="foreground" value="baa0a2ff"/>
+    <color id="text" value="a58285ff"/>
+    <color id="highlight" value="7a464bff"/>
+    <color id="selectionBackground" value="bd454955"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="291819ff"/>
+    <color id="secondaryBackground" value="492a2dff"/>
+    <color id="disabled" value="a6666bff"/>
+    <color id="contrast" value="2c1a1bff"/>
+    <color id="tableSelected" value="693d41ff"/>
+    <color id="secondBorder" value="331d1fff"/>
+    <color id="treeSelection" value="bd454950"/>
+    <color id="notifications" value="593437ff"/>
+    <color id="accent" value="d39452ff"/>
+    <color id="excluded" value="533033ff"/>
+  </colors>
+  <themeId>scorch</themeId>
+</mtTheme>

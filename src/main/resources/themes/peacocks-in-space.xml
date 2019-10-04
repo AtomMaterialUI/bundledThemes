@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>peacocks-in-space</id>
+  <editorColorsScheme>Peacocks in Space (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Peacocks in Space</name>
+  <colors>
+    <color id="background" value="2b303bff"/>
+    <color id="foreground" value="dee3ecff"/>
+    <color id="text" value="bec8d9ff"/>
+    <color id="highlight" value="566076ff"/>
+    <color id="selectionBackground" value="26a6a655"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="20242cff"/>
+    <color id="secondaryBackground" value="363c4aff"/>
+    <color id="disabled" value="7a869eff"/>
+    <color id="contrast" value="22262fff"/>
+    <color id="tableSelected" value="4b5467ff"/>
+    <color id="secondBorder" value="272b35ff"/>
+    <color id="treeSelection" value="ff5d3850"/>
+    <color id="notifications" value="414858ff"/>
+    <color id="accent" value="26a6a6ff"/>
+    <color id="excluded" value="3c4353ff"/>
+  </colors>
+  <themeId>peacocks-in-space</themeId>
+</mtTheme>

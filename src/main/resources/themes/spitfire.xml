@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>spitfire</id>
+  <editorColorsScheme>Spitfire (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Spitfire</name>
+  <colors>
+    <color id="background" value="184540ff"/>
+    <color id="foreground" value="bad3d0ff"/>
+    <color id="text" value="9bbfbbff"/>
+    <color id="highlight" value="329186ff"/>
+    <color id="selectionBackground" value="f7543155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="11322eff"/>
+    <color id="secondaryBackground" value="1f5852ff"/>
+    <color id="disabled" value="4ec1b5ff"/>
+    <color id="contrast" value="133632ff"/>
+    <color id="tableSelected" value="2c7e75ff"/>
+    <color id="secondBorder" value="153d39ff"/>
+    <color id="treeSelection" value="facc5450"/>
+    <color id="notifications" value="577370ff"/>
+    <color id="accent" value="f75431ff"/>
+    <color id="excluded" value="23635cff"/>
+  </colors>
+  <themeId>spitfire</themeId>
+</mtTheme>

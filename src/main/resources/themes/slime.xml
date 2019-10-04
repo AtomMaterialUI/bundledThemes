@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>slime</id>
+  <editorColorsScheme>Slime (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Slime</name>
+  <colors>
+    <color id="background" value="292d30ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="586167ff"/>
+    <color id="selectionBackground" value="c7af3f55"/>
+    <color id="selectionForeground" value="4e653dff"/>
+    <color id="button" value="1d2022ff"/>
+    <color id="secondaryBackground" value="353a3eff"/>
+    <color id="disabled" value="7c878fff"/>
+    <color id="contrast" value="202325ff"/>
+    <color id="tableSelected" value="4c5459ff"/>
+    <color id="secondBorder" value="24282aff"/>
+    <color id="treeSelection" value="9fb3c250"/>
+    <color id="notifications" value="40474bff"/>
+    <color id="accent" value="faffdbff"/>
+    <color id="excluded" value="3c4246ff"/>
+  </colors>
+  <themeId>slime</themeId>
+</mtTheme>

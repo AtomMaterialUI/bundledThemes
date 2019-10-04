@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>shrek</id>
+  <editorColorsScheme>Shrek (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Shrek</name>
+  <colors>
+    <color id="background" value="222222ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="555555ff"/>
+    <color id="selectionBackground" value="857a5e55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="151515ff"/>
+    <color id="secondaryBackground" value="2f2f2fff"/>
+    <color id="disabled" value="7b7b7bff"/>
+    <color id="contrast" value="181818ff"/>
+    <color id="tableSelected" value="484848ff"/>
+    <color id="secondBorder" value="1d1d1dff"/>
+    <color id="treeSelection" value="857a5e50"/>
+    <color id="notifications" value="3b3b3bff"/>
+    <color id="accent" value="b2de62ff"/>
+    <color id="excluded" value="363636ff"/>
+  </colors>
+  <themeId>shrek</themeId>
+</mtTheme>

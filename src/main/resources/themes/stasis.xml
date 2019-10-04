@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>stasis</id>
+  <editorColorsScheme>Stasis (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Stasis</name>
+  <colors>
+    <color id="background" value="2f2c33ff"/>
+    <color id="foreground" value="bbb1c9ff"/>
+    <color id="text" value="a193b4ff"/>
+    <color id="highlight" value="615b6aff"/>
+    <color id="selectionBackground" value="fc814a55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="222025ff"/>
+    <color id="secondaryBackground" value="3c3841ff"/>
+    <color id="disabled" value="878091ff"/>
+    <color id="contrast" value="252328ff"/>
+    <color id="tableSelected" value="554f5cff"/>
+    <color id="secondBorder" value="2a272eff"/>
+    <color id="treeSelection" value="7c617c50"/>
+    <color id="notifications" value="48444eff"/>
+    <color id="accent" value="fc814aff"/>
+    <color id="excluded" value="433f49ff"/>
+  </colors>
+  <themeId>stasis</themeId>
+</mtTheme>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>solarflare</id>
+  <editorColorsScheme>Solarflare (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Solarflare</name>
+  <colors>
+    <color id="background" value="222222ff"/>
+    <color id="foreground" value="e3e2e0ff"/>
+    <color id="text" value="cbc9c5ff"/>
+    <color id="highlight" value="555555ff"/>
+    <color id="selectionBackground" value="ff4e5055"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="151515ff"/>
+    <color id="secondaryBackground" value="2f2f2fff"/>
+    <color id="disabled" value="7b7b7bff"/>
+    <color id="contrast" value="181818ff"/>
+    <color id="tableSelected" value="484848ff"/>
+    <color id="secondBorder" value="1d1d1dff"/>
+    <color id="treeSelection" value="ff4e5050"/>
+    <color id="notifications" value="3b3b3bff"/>
+    <color id="accent" value="fc913aff"/>
+    <color id="excluded" value="363636ff"/>
+  </colors>
+  <themeId>solarflare</themeId>
+</mtTheme>

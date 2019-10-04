@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>tickle</id>
+  <editorColorsScheme>Tickle (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Tickle</name>
+  <colors>
+    <color id="background" value="39393aff"/>
+    <color id="foreground" value="c1c1c1ff"/>
+    <color id="text" value="a7a7a7ff"/>
+    <color id="highlight" value="6c6c6dff"/>
+    <color id="selectionBackground" value="ffffff3c"/>
+    <color id="selectionForeground" value="85ffc7ff"/>
+    <color id="button" value="2c2c2dff"/>
+    <color id="secondaryBackground" value="464647ff"/>
+    <color id="disabled" value="929294ff"/>
+    <color id="contrast" value="2f2f30ff"/>
+    <color id="tableSelected" value="5f5f61ff"/>
+    <color id="secondBorder" value="343435ff"/>
+    <color id="treeSelection" value="40a5a550"/>
+    <color id="notifications" value="525254ff"/>
+    <color id="accent" value="85ffc7ff"/>
+    <color id="excluded" value="4d4d4fff"/>
+  </colors>
+  <themeId>tickle</themeId>
+</mtTheme>

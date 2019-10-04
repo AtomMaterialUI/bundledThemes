@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>piggy</id>
+  <editorColorsScheme>Piggy (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Piggy</name>
+  <colors>
+    <color id="background" value="3d2f34ff"/>
+    <color id="foreground" value="edebe6ff"/>
+    <color id="text" value="d8d3c8ff"/>
+    <color id="highlight" value="775b65ff"/>
+    <color id="selectionBackground" value="f52e6255"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2f2428ff"/>
+    <color id="secondaryBackground" value="4b3a40ff"/>
+    <color id="disabled" value="9e818bff"/>
+    <color id="contrast" value="31262aff"/>
+    <color id="tableSelected" value="685059ff"/>
+    <color id="secondBorder" value="372b2fff"/>
+    <color id="treeSelection" value="fd6a5d50"/>
+    <color id="notifications" value="5a454dff"/>
+    <color id="accent" value="f52e62ff"/>
+    <color id="excluded" value="544148ff"/>
+  </colors>
+  <themeId>piggy</themeId>
+</mtTheme>

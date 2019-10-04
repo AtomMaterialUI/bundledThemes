@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>tetra</id>
+  <editorColorsScheme>Tetra (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Tetra</name>
+  <colors>
+    <color id="background" value="13363fff"/>
+    <color id="foreground" value="c9d7dbff"/>
+    <color id="text" value="aac0c7ff"/>
+    <color id="highlight" value="2b798dff"/>
+    <color id="selectionBackground" value="148b9755"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="0d252bff"/>
+    <color id="secondaryBackground" value="194753ff"/>
+    <color id="disabled" value="3faac5ff"/>
+    <color id="contrast" value="0e292fff"/>
+    <color id="tableSelected" value="25687aff"/>
+    <color id="secondBorder" value="112f37ff"/>
+    <color id="treeSelection" value="fdce7f50"/>
+    <color id="notifications" value="3e4a52ff"/>
+    <color id="accent" value="fdce7fff"/>
+    <color id="excluded" value="1c515eff"/>
+  </colors>
+  <themeId>tetra</themeId>
+</mtTheme>

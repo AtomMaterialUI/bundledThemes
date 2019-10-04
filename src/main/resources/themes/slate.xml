@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>slate</id>
+  <editorColorsScheme>Slate (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Slate</name>
+  <colors>
+    <color id="background" value="3d3d4cff"/>
+    <color id="foreground" value="ebebf4ff"/>
+    <color id="text" value="cacae2ff"/>
+    <color id="highlight" value="6a6a85ff"/>
+    <color id="selectionBackground" value="56698155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="32323eff"/>
+    <color id="secondaryBackground" value="48485aff"/>
+    <color id="disabled" value="9393a8ff"/>
+    <color id="contrast" value="343441ff"/>
+    <color id="tableSelected" value="5f5f76ff"/>
+    <color id="secondBorder" value="383846ff"/>
+    <color id="treeSelection" value="89a7b150"/>
+    <color id="notifications" value="545468ff"/>
+    <color id="accent" value="566981ff"/>
+    <color id="excluded" value="4f4f63ff"/>
+  </colors>
+  <themeId>slate</themeId>
+</mtTheme>

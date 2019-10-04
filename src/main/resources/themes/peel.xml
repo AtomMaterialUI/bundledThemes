@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>peel</id>
+  <editorColorsScheme>Peel (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Peel</name>
+  <colors>
+    <color id="background" value="23201cff"/>
+    <color id="foreground" value="edebe6ff"/>
+    <color id="text" value="d8d3c8ff"/>
+    <color id="highlight" value="5c5449ff"/>
+    <color id="selectionBackground" value="d3643b55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="151311ff"/>
+    <color id="secondaryBackground" value="312d27ff"/>
+    <color id="disabled" value="867b6bff"/>
+    <color id="contrast" value="181613ff"/>
+    <color id="tableSelected" value="4d473eff"/>
+    <color id="secondBorder" value="1d1b17ff"/>
+    <color id="treeSelection" value="d3643b50"/>
+    <color id="notifications" value="3f3a33ff"/>
+    <color id="accent" value="94c7b6ff"/>
+    <color id="excluded" value="3a352eff"/>
+  </colors>
+  <themeId>peel</themeId>
+</mtTheme>

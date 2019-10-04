@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>prime</id>
+  <editorColorsScheme>Prime (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Prime</name>
+  <colors>
+    <color id="background" value="202030ff"/>
+    <color id="foreground" value="9090b2ff"/>
+    <color id="text" value="72729dff"/>
+    <color id="highlight" value="49496dff"/>
+    <color id="selectionBackground" value="ee426655"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="161621ff"/>
+    <color id="secondaryBackground" value="2a2a3fff"/>
+    <color id="disabled" value="68689aff"/>
+    <color id="contrast" value="181824ff"/>
+    <color id="tableSelected" value="3f3f5eff"/>
+    <color id="secondBorder" value="1c1c2aff"/>
+    <color id="treeSelection" value="ee426650"/>
+    <color id="notifications" value="34344fff"/>
+    <color id="accent" value="9d50baff"/>
+    <color id="excluded" value="303048ff"/>
+  </colors>
+  <themeId>prime</themeId>
+</mtTheme>

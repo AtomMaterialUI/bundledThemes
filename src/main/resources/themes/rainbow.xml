@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>rainbow</id>
+  <editorColorsScheme>Rainbow (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Rainbow</name>
+  <colors>
+    <color id="background" value="373c42ff"/>
+    <color id="foreground" value="c7d0d9ff"/>
+    <color id="text" value="a9b6c4ff"/>
+    <color id="highlight" value="656f7aff"/>
+    <color id="selectionBackground" value="b3cc5755"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2b2f34ff"/>
+    <color id="secondaryBackground" value="434950ff"/>
+    <color id="disabled" value="8c959fff"/>
+    <color id="contrast" value="2e3237ff"/>
+    <color id="tableSelected" value="5a626cff"/>
+    <color id="secondBorder" value="32373cff"/>
+    <color id="treeSelection" value="ef746f50"/>
+    <color id="notifications" value="4e555eff"/>
+    <color id="accent" value="b3cc57ff"/>
+    <color id="excluded" value="4a5058ff"/>
+  </colors>
+  <themeId>rainbow</themeId>
+</mtTheme>
