@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Vision Light (colorblind) (rainglow)",
+        "slug": "vision-light-colorblind",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#000000",
+    "variables":            "#1BA2F7",
+    "first":                "#81209E",
+    "second":               "#1BA2F7",
+    "third":                "#F87856",
+    "fourth":               "#F87856",
+    "fifth":                "#81209E",
+    "comment":              "#555555",
+    "string":               "#0b6aa5",
+    "number":               "#0b6aa5",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#F87856",
+    "caret":                "#000000",
+    "brackets":             "#000000",
+    "bracket_content":      "#000000",
+
+    "error":                "#F87856",
+    "success":              "#1BA2F7",
+    "warning":              "#81209E",
+    "info":                 "#81209E"
+}

@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Jingle",
+        "slug": "jingle",
+        "dark": true
+    },
+    "background":           "#283035",
+    "foreground":           "#c0ccdb",
+    "first":                "#e06d5c",
+    "second":               "#7EC579",
+    "third":                "#98abb7",
+    "fourth":               "#e06d5c",
+    "fifth":                "#7EC579",
+    "comment":              "#4e5c66",
+    "string":               "#84c4ce",
+    "number":               "#e0ad5c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7EC579",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

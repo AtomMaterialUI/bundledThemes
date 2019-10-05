@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Mellow",
+        "slug": "mellow",
+        "dark": true
+    },
+    "background":           "#36312c",
+    "foreground":           "#f8f8f2",
+    "first":                "#f2bc79",
+    "second":               "#1f8181",
+    "third":                "#f28972",
+    "fourth":               "#f2bc79",
+    "fifth":                "#f55d79",
+    "comment":              "#7a7267",
+    "string":               "#f8bb39",
+    "number":               "#f8bb39",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f55d79",
+    "caret":                "#f8f8f0",
+    "brackets":             "#f28972",
+    "bracket_content":      "#f55d79"
+}

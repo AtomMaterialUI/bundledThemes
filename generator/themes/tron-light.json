@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Tron Light",
+        "slug": "tron-light",
+        "dark": false
+    },
+    "background":           "#d7e5ed",
+    "foreground":           "#222222",
+    "first":                "#267fb5",
+    "second":               "#89bddd",
+    "third":                "#ffffff",
+    "fourth":               "#748aa6",
+    "fifth":                "#267fb5",
+    "comment":              "#324357",
+    "string":               "#6ee2ff",
+    "number":               "#6ee2ff",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#267fb5",
+    "caret":                "#222222",
+    "brackets":             "#222222",
+    "bracket_content":      "#222222",
+    "ui_first":             "#267fb5"
+}

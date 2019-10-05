@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Storm Light",
+        "slug": "storm-light",
+        "dark": false
+    },
+    "background":           "#dee4e5",
+    "foreground":           "#092327",
+    "first":                "#126d6b",
+    "second":               "#00A9A5",
+    "third":                "#4E8098",
+    "fourth":               "#126d6b",
+    "fifth":                "#00A9A5",
+    "comment":              "#145059",
+    "string":               "#fdb825",
+    "number":               "#fd9825",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#00A9A5",
+    "caret":                "#f8f8f0",
+    "brackets":             "#092327",
+    "bracket_content":      "#092327",
+    "variables":            "#15474f"
+}

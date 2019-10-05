@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Frantic Light",
+        "slug": "frantic-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#516172",
+    "first":                "#EF6462",
+    "second":               "#89A7BC",
+    "third":                "#516172",
+    "fourth":               "#EF6462",
+    "fifth":                "#89A7BC",
+    "comment":              "#44515e",
+    "string":               "#afa9e5",
+    "number":               "#968cea",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#EF6462",
+    "caret":                "#333333",
+    "variables":            "#37414c"
+}

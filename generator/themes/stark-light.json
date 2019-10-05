@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Stark Light",
+        "slug": "stark-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#ffbb29",
+    "second":               "#f03113",
+    "third":                "#f03113",
+    "fourth":               "#666666",
+    "fifth":                "#ffbb29",
+    "comment":              "#888888",
+    "string":               "#ffbb29",
+    "number":               "#617fa0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f03113",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333"
+}

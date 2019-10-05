@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Stealth Light",
+        "slug": "stealth-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#cccccc",
+    "first":                "#bbbbbb",
+    "second":               "#dddddd",
+    "third":                "#aaaaaa",
+    "fourth":               "#eeeeee",
+    "fifth":                "#bbbbbb",
+    "comment":              "#dddddd",
+    "string":               "#888888",
+    "number":               "#888888",
+    "selection_foreground": "#333333",
+    "selection_background": "#ffffff",
+    "caret":                "#222222",
+    "brackets":             "#cccccc",
+    "bracket_content":      "#cccccc"
+}

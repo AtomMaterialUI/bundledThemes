@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Codecourse Light",
+        "slug": "codecourse-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#547f91",
+    "first":                "#1EA8FC",
+    "second":               "#5DCDFD",
+    "third":                "#547f91",
+    "fourth":               "#1EA8FC",
+    "fifth":                "#5DCDFD",
+    "comment":              "#9ecee5",
+    "string":               "#aaaaaa",
+    "number":               "#777777",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#1EA8FC",
+    "caret":                "#333333",
+    "variables":            "#3d5b68"
+}

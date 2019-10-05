@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Overflow",
+        "slug": "overflow",
+        "dark": true
+    },
+    "background":           "#252c33",
+    "foreground":           "#aeb9c4",
+    "first":                "#FE532C",
+    "second":               "#B0CA48",
+    "third":                "#1f9aa8",
+    "fourth":               "#FE532C",
+    "fifth":                "#B0CA48",
+    "comment":              "#44515e",
+    "string":               "#4abcc9",
+    "number":               "#ef8b75",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#B0CA48",
+    "caret":                "#ffffff",
+    "variables":            "#e3edf7"
+}

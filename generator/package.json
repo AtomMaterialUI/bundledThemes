@@ -1,0 +1,26 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "Build process for rainglow themes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainglow/build.git"
+  },
+  "author": "Dayle Rees <me@daylerees.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainglow/build/issues"
+  },
+  "homepage": "https://github.com/rainglow/build#readme",
+  "dependencies": {
+    "color": "^2.0.1",
+    "colors": "^1.1.2",
+    "glob": "^7.1.2",
+    "handlebars": "^4.0.11",
+    "tinycolor2": "^1.4.1"
+  }
+}

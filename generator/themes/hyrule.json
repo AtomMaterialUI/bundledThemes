@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Hyrule",
+        "slug": "hyrule",
+        "dark": true
+    },
+    "background":           "#2d2c2b",
+    "foreground":           "#c0d5c1",
+    "first":                "#f5c504",
+    "second":               "#569e16",
+    "third":                "#90c93f",
+    "fourth":               "#90c93f",
+    "fifth":                "#f5c504",
+    "comment":              "#716d6a",
+    "string":               "#ce830d",
+    "number":               "#f5c504",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#569e16",
+    "caret":                "#f8f8f0",
+    "brackets":             "#f5c504",
+    "bracket_content":      "#569e16"
+}

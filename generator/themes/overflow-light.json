@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Overflow Light",
+        "slug": "overflow-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#3e4956",
+    "first":                "#FE532C",
+    "second":               "#B0CA48",
+    "third":                "#1f9aa8",
+    "fourth":               "#FE532C",
+    "fifth":                "#B0CA48",
+    "comment":              "#44515e",
+    "string":               "#4abcc9",
+    "number":               "#ef8b75",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#B0CA48",
+    "caret":                "#333333",
+    "variables":            "#2c343d"
+}

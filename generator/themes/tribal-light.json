@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Tribal Light",
+        "slug": "tribal-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#c43535",
+    "second":               "#5f5582",
+    "third":                "#a09caf",
+    "fourth":               "#5f5582",
+    "fifth":                "#8f8aa2",
+    "comment":              "#aaaaaa",
+    "string":               "#64aeb3",
+    "number":               "#64aeb3",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#47959a",
+    "caret":                "#222222",
+    "brackets":             "#dddddd",
+    "bracket_content":      "#444444",
+    "variables":            "#777777"
+}

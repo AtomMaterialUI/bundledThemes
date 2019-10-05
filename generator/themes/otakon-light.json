@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Otakon Light",
+        "slug": "otakon-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#514b60",
+    "first":                "#b1a6ca",
+    "second":               "#c6b3b9",
+    "third":                "#e484b2",
+    "fourth":               "#a8a9bf",
+    "fifth":                "#f0b9d4",
+    "comment":              "#aaaaaa",
+    "string":               "#9eb2d9",
+    "number":               "#9eb2d9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#b1a6ca",
+    "caret":                "#222222",
+    "brackets":             "#514b60",
+    "bracket_content":      "#514b60"
+}

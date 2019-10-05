@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Glowfish",
+        "slug": "glowfish",
+        "dark": true
+    },
+    "background":           "#191f13",
+    "foreground":           "#6ea240",
+    "first":                "#95cc5e",
+    "second":               "#db784d",
+    "third":                "#60a365",
+    "fourth":               "#d65940",
+    "fifth":                "#95cc5e",
+    "comment":              "#3c4e2d",
+    "string":               "#f8bb39",
+    "number":               "#95cc5e",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#db784d",
+    "caret":                "#f8f8f0",
+    "brackets":             "#db784d",
+    "bracket_content":      "#95cc5e"
+}

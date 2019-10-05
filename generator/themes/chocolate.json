@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Chocolate",
+        "slug": "chocolate",
+        "dark": true
+    },
+    "background":           "#261b0e",
+    "foreground":           "#ffffff",
+    "first":                "#8b6e46",
+    "second":               "#ccb697",
+    "third":                "#e2cdb0",
+    "fourth":               "#b99768",
+    "fifth":                "#8b6e46",
+    "comment":              "#8e6239",
+    "string":               "#f7a21b",
+    "number":               "#f7a21b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#8b6e46",
+    "caret":                "#f8f8f0",
+    "brackets":             "#4f381c",
+    "bracket_content":      "#ccb697"
+}

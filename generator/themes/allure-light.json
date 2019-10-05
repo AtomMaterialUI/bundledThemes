@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Allure Light",
+        "slug": "allure-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#555e68",
+    "first":                "#5DA892",
+    "second":               "#E4D294",
+    "third":                "#555e68",
+    "fourth":               "#5DA892",
+    "fifth":                "#E4D294",
+    "comment":              "#b5c0cc",
+    "string":               "#cec86f",
+    "number":               "#cea36f",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#5DA892",
+    "caret":                "#333333",
+    "variables":            "#3c4249"
+}

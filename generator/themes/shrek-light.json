@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Shrek Light",
+        "slug": "shrek-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#222222",
+    "first":                "#b2de62",
+    "second":               "#857a5e",
+    "third":                "#afb2a7",
+    "fourth":               "#bfb59b",
+    "fifth":                "#b2de62",
+    "comment":              "#aaaaaa",
+    "string":               "#81e911",
+    "number":               "#81e911",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#857a5e",
+    "caret":                "#222222",
+    "brackets":             "#222222",
+    "bracket_content":      "#222222",
+    "variables":            "#555555"
+}

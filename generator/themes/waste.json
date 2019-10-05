@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Waste",
+        "slug": "waste",
+        "dark": true
+    },
+    "background":           "#1b353a",
+    "foreground":           "#b1c7cc",
+    "first":                "#43BDB2",
+    "second":               "#BBD4BE",
+    "third":                "#F9D6BC",
+    "fourth":               "#F7A8A5",
+    "fifth":                "#43BDB2",
+    "comment":              "#3b6361",
+    "string":               "#c5d671",
+    "number":               "#e4f279",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#43BDB2",
+    "caret":                "#f8f8f0",
+    "brackets":             "#b1c7cc",
+    "bracket_content":      "#b1c7cc",
+    "variables":            "#d2ecf2"
+}

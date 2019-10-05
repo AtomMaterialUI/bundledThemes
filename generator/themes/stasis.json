@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Stasis",
+        "slug": "stasis",
+        "dark": true
+    },
+    "background":           "#2f2c33",
+    "foreground":           "#bbb1c9",
+    "variables":            "#f5f2f9",
+    "first":                "#FC814A",
+    "second":               "#7c617c",
+    "third":                "#BFBFBF",
+    "fourth":               "#FC814A",
+    "fifth":                "#BFBFBF",
+    "comment":              "#655a72",
+    "string":               "#e5c71b",
+    "number":               "#e5c71b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#FC814A",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

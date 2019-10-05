@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Otakon",
+        "slug": "otakon",
+        "dark": true
+    },
+    "background":           "#3f373f",
+    "foreground":           "#f9f3f9",
+    "first":                "#b1a6ca",
+    "second":               "#f6e6eb",
+    "third":                "#e484b2",
+    "fourth":               "#cacbdd",
+    "fifth":                "#f0b9d4",
+    "comment":              "#6a6a84",
+    "string":               "#9eb2d9",
+    "number":               "#9eb2d9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#b1a6ca",
+    "caret":                "#f8f8f0",
+    "brackets":             "#b1a6ca",
+    "bracket_content":      "#e484b2"
+}

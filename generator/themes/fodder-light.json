@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Fodder Light",
+        "slug": "fodder-light",
+        "dark": false
+    },
+    "background":           "#cce0d6",
+    "foreground":           "#2D4137",
+    "first":                "#685b59",
+    "second":               "#688e2f",
+    "third":                "#2D4137",
+    "fourth":               "#688e2f",
+    "fifth":                "#685b59",
+    "comment":              "#98aaa1",
+    "string":               "#f7a21b",
+    "number":               "#f7a21b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#688e2f",
+    "caret":                "#222222",
+    "brackets":             "#2D4137",
+    "bracket_content":      "#2D4137",
+    "variables":            "#486d5b"
+}

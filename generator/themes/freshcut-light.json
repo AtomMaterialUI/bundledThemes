@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "FreshCut Light",
+        "slug": "freshcut-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#2f3030",
+    "first":                "#3da09a",
+    "second":               "#008299",
+    "third":                "#83aa29",
+    "fourth":               "#8e99a5",
+    "fifth":                "#3ba099",
+    "comment":              "#bbbbbb",
+    "string":               "#777747",
+    "number":               "#8fbe00",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#008097",
+    "caret":                "#222222",
+    "brackets":             "#2f3030",
+    "bracket_content":      "#2f3030"
+}

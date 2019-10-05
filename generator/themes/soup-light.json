@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Soup Light",
+        "slug": "soup-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#666a7a",
+    "variables":            "#666a7a",
+    "first":                "#68B0AB",
+    "second":               "#8FC0A9",
+    "third":                "#C8D5B9",
+    "fourth":               "#a5a08e",
+    "fifth":                "#8FC0A9",
+    "comment":              "#c5cae5",
+    "string":               "#baa353",
+    "number":               "#d8b436",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#68B0AB",
+    "caret":                "#333333",
+    "brackets":             "#666a7a",
+    "bracket_content":      "#666a7a"
+}

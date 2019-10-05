@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Jumper Light",
+        "slug": "jumper-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#222a2a",
+    "first":                "#36a595",
+    "second":               "#c9b230",
+    "third":                "#db515c",
+    "fourth":               "#e08e4c",
+    "fifth":                "#36a595",
+    "comment":              "#cccccc",
+    "string":               "#63a5a5",
+    "number":               "#4eadad",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#36a595",
+    "caret":                "#222222",
+    "brackets":             "#222a2a",
+    "bracket_content":      "#222a2a",
+    "variables":            "#607a7a"
+}

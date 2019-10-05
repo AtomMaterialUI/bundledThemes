@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Keen Light",
+        "slug": "keen-light",
+        "dark": false
+    },
+    "background":           "#cccccc",
+    "foreground":           "#111111",
+    "first":                "#6f8b94",
+    "second":               "#8767b7",
+    "third":                "#7c9669",
+    "fourth":               "#6f8b94",
+    "fifth":                "#8767b7",
+    "comment":              "#6b8eaf",
+    "string":               "#7c9669",
+    "number":               "#7c9669",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#8767b7",
+    "caret":                "#222222",
+    "brackets":             "#111111",
+    "bracket_content":      "#111111"
+}

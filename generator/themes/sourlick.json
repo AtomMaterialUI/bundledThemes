@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Sourlick",
+        "slug": "sourlick",
+        "dark": true
+    },
+    "background":           "#2e2c2b",
+    "foreground":           "#dedede",
+    "first":                "#edf252",
+    "second":               "#8ac27a",
+    "third":                "#bdf522",
+    "fourth":               "#d2eb31",
+    "fifth":                "#ffbb29",
+    "comment":              "#615953",
+    "string":               "#e4ff33",
+    "number":               "#fc580c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#518f0d",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffbb29",
+    "bracket_content":      "#70c910",
+    
+    "vscode_statusbar_foreground": "#3b3a32"
+}

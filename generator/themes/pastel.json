@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Pastel",
+        "slug": "pastel",
+        "dark": true
+    },
+    "background":           "#222222",
+    "foreground":           "#eeeeee",
+    "first":                "#9474a9",
+    "second":               "#04c4a5",
+    "third":                "#c56c6c",
+    "fourth":               "#c5906c",
+    "fifth":                "#e2e060",
+    "comment":              "#444444",
+    "string":               "#c56c6c",
+    "number":               "#c56c6c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#008d62",
+    "caret":                "#f8f8f0",
+    "brackets":             "#9d8262",
+    "bracket_content":      "#008d62"
+}

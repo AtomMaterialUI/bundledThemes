@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Snappy Light",
+        "slug": "snappy-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#555555",
+    "first":                "#4ea1df",
+    "second":               "#f66153",
+    "third":                "#808dd3",
+    "fourth":               "#da564a",
+    "fifth":                "#606aa1",
+    "comment":              "#bbbbbb",
+    "string":               "#4ea1df",
+    "number":               "#4ea1df",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#808dd3",
+    "caret":                "#444444",
+    "brackets":             "#808dd3",
+    "bracket_content":      "#f66153",
+    "ui_bg":                "#eeeeee"
+}

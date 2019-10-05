@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Yitzchok",
+        "slug": "yitzchok",
+        "dark": true
+    },
+    "background":           "#252c33",
+    "foreground":           "#afb7bf",
+    "first":                "#e7be45",
+    "second":               "#7a8289",
+    "third":                "#e6eaef",
+    "fourth":               "#e7be45",
+    "fifth":                "#7a8289",
+    "comment":              "#49525b",
+    "string":               "#eae18f",
+    "number":               "#bab47c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#e7be45",
+    "caret":                "#ffffff",
+    "variables":            "#d0d9e2"
+}

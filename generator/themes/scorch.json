@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Scorch",
+        "slug": "scorch",
+        "dark": true
+    },
+    "background":           "#392123",
+    "foreground":           "#baa0a2",
+    "first":                "#D39452",
+    "second":               "#BD4549",
+    "third":                "#CF9E51",
+    "fourth":               "#F6EA82",
+    "fifth":                "#E77757",
+    "comment":              "#63383c",
+    "string":               "#a58163",
+    "number":               "#cc8f5d",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#BD4549",
+    "caret":                "#f8f8f0",
+    "brackets":             "#baa0a2",
+    "bracket_content":      "#baa0a2",
+    "variables":            "#e8d0d2"
+}

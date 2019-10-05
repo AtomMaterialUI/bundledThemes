@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Tame Light",
+        "slug": "tame-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#495760",
+    "first":                "#4571a8",
+    "second":               "#707ba0",
+    "third":                "#495760",
+    "fourth":               "#4571a8",
+    "fifth":                "#707ba0",
+    "comment":              "#4e5c66",
+    "string":               "#84c4ce",
+    "number":               "#8770a0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#707ba0",
+    "caret":                "#333333",
+    "variables":            "#283035"
+}

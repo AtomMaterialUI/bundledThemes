@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Stark",
+        "slug": "stark",
+        "dark": true
+    },
+    "background":           "#2e2c2b",
+    "foreground":           "#dedede",
+    "first":                "#ffbb29",
+    "second":               "#f03113",
+    "third":                "#f03113",
+    "fourth":               "#aaaaaa",
+    "fifth":                "#ffbb29",
+    "comment":              "#615953",
+    "string":               "#ffbb29",
+    "number":               "#617fa0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f03113",
+    "caret":                "#f8f8f0",
+    "brackets":             "#d1d1d1",
+    "bracket_content":      "#f03113"
+}

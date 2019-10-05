@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Jewel",
+        "slug": "jewel",
+        "dark": true
+    },
+    "background":           "#32373d",
+    "foreground":           "#c0ccdb",
+    "first":                "#6299c4",
+    "second":               "#c262c4",
+    "third":                "#62c47c",
+    "fourth":               "#6299c4",
+    "fifth":                "#62c47c",
+    "comment":              "#76818e",
+    "string":               "#cec86f",
+    "number":               "#cea36f",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#c262c4",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

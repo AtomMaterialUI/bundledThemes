@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Tetra Light",
+        "slug": "tetra-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#205a68",
+    "variables":            "#205a68",
+    "first":                "#148B97",
+    "second":               "#c49a52",
+    "third":                "#e8744a",
+    "fourth":               "#e2585d",
+    "fifth":                "#148B97",
+    "comment":              "#b1d6e0",
+    "string":               "#7fc181",
+    "number":               "#7fc181",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#148B97",
+    "caret":                "#333333",
+    "brackets":             "#205a68",
+    "bracket_content":      "#205a68"
+}

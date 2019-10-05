@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Bold Light",
+        "slug": "bold-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#555555",
+    "first":                "#3d8e91",
+    "second":               "#f0624b",
+    "third":                "#888c81",
+    "fourth":               "#f0624b",
+    "fifth":                "#3d8e91",
+    "comment":              "#cccccc",
+    "string":               "#f7a21b",
+    "number":               "#f7a21b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#3d8e91",
+    "caret":                "#222222",
+    "brackets":             "#555555",
+    "bracket_content":      "#555555"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Spitfire",
+        "slug": "spitfire",
+        "dark": true
+    },
+    "background":           "#184540",
+    "foreground":           "#bad3d0",
+    "variables":            "#e6f4f3",
+    "first":                "#F75431",
+    "second":               "#FACC54",
+    "third":                "#8EC065",
+    "fourth":               "#30985B",
+    "fifth":                "#F75431",
+    "comment":              "#2d7a7f",
+    "string":               "#f78d30",
+    "number":               "#f78d30",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#F75431",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

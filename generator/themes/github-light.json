@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Github Light",
+        "slug": "github-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#555555",
+    "first":                "#445588",
+    "second":               "#008080",
+    "third":                "#dd1144",
+    "fourth":               "#555555",
+    "fifth":                "#445588",
+    "comment":              "#b8b6b1",
+    "string":               "#dd1144",
+    "number":               "#dd1144",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#008080",
+    "caret":                "#444444",
+    "brackets":             "#445588",
+    "bracket_content":      "#008080",
+    "variables":            "#008080"
+}

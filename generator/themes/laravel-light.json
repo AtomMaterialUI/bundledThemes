@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Laravel Light",
+        "slug": "laravel-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#ffc48c",
+    "second":               "#fc6b0a",
+    "third":                "#fc580c",
+    "fourth":               "#ffa927",
+    "fifth":                "#ffc48c",
+    "comment":              "#aaaaaa",
+    "string":               "#fdca49",
+    "number":               "#fc580c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#fc580c",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444",
+
+    "first_contrast": "#77593d"
+}

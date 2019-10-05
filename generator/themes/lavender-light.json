@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Lavender Light",
+        "slug": "lavender-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#29222e",
+    "first":                "#a29dfa",
+    "second":               "#b657ff",
+    "third":                "#f5b0ef",
+    "fourth":               "#8e6da6",
+    "fifth":                "#8e69c9",
+    "comment":              "#9177a3",
+    "string":               "#f5b0ef",
+    "number":               "#f25ae6",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#b657ff",
+    "caret":                "#222222",
+    "brackets":             "#29222e",
+    "bracket_content":      "#29222e"
+}

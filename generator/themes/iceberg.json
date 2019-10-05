@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Iceberg",
+        "slug": "iceberg",
+        "dark": true
+    },
+    "background":           "#323b3d",
+    "foreground":           "#bdd6db",
+    "first":                "#59c0e3",
+    "second":               "#2d8da1",
+    "third":                "#ffffff",
+    "fourth":               "#b1e2f2",
+    "fifth":                "#ffffff",
+    "comment":              "#537178",
+    "string":               "#ffffff",
+    "number":               "#ffffff",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#2d8da1",
+    "caret":                "#f8f8f0",
+    "brackets":             "#59c0e3",
+    "bracket_content":      "#2d8da1"
+}

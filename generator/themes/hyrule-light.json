@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Hyrule Light",
+        "slug": "hyrule-light",
+        "dark": false
+    },
+    "background":           "#c0d5c1",
+    "foreground":           "#2d2c2b",
+    "first":                "#b7950c",
+    "second":               "#407710",
+    "third":                "#68912e",
+    "fourth":               "#68912e",
+    "fifth":                "#b7950c",
+    "comment":              "#93a594",
+    "string":               "#ce830d",
+    "number":               "#f5c504",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#569e16",
+    "caret":                "#222222",
+    "brackets":             "#2d2c2b",
+    "bracket_content":      "#2d2c2b"
+}

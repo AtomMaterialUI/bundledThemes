@@ -1,0 +1,3 @@
+{
+    "preview-app/preview-app.txt": "preview-app/{{{ meta.slug }}}.txt"
+}

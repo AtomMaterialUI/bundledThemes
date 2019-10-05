@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Lavender",
+        "slug": "lavender",
+        "dark": true
+    },
+    "background":           "#29222e",
+    "foreground":           "#e0ceed",
+    "first":                "#a29dfa",
+    "second":               "#b657ff",
+    "third":                "#f5b0ef",
+    "fourth":               "#8e6da6",
+    "fifth":                "#8e69c9",
+    "comment":              "#614e6e",
+    "string":               "#f5b0ef",
+    "number":               "#f25ae6",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#b657ff",
+    "caret":                "#f8f8f0",
+    "brackets":             "#a29dfa",
+    "bracket_content":      "#b657ff"
+}

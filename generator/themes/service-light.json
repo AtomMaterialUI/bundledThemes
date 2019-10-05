@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Service Light",
+        "slug": "service-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#4d5151",
+    "variables":            "#4d5151",
+    "first":                "#6C8375",
+    "second":               "#A0AFA1",
+    "third":                "#8c9191",
+    "fourth":               "#A0AFA1",
+    "fifth":                "#6C8375",
+    "comment":              "#b1c9c9",
+    "string":               "#a2d66b",
+    "number":               "#88c448",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#a2d66b",
+    "caret":                "#333333",
+    "brackets":             "#4d5151",
+    "bracket_content":      "#4d5151"
+}

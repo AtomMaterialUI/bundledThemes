@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Crisp Light",
+        "slug": "crisp-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#221a22",
+    "first":                "#99769b",
+    "second":               "#765478",
+    "third":                "#fc6a0f",
+    "fourth":               "#fc6a0f",
+    "fifth":                "#99769b",
+    "comment":              "#c6a7c6",
+    "string":               "#fc9a0f",
+    "number":               "#fc9a0f",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#fc6a0f",
+    "caret":                "#222222",
+    "brackets":             "#221a22",
+    "bracket_content":      "#221a22",
+    "variables":            "#4f3c4f"
+}

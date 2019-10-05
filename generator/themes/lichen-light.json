@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Lichen Light",
+        "slug": "lichen-light",
+        "dark": false
+    },
+    "background":           "#e6e9ed",
+    "foreground":           "#414549",
+    "first":                "#249388",
+    "second":               "#64964c",
+    "third":                "#1A9D6B",
+    "fourth":               "#246c82",
+    "fifth":                "#1A9D6B",
+    "comment":              "#405b75",
+    "string":               "#858e43",
+    "number":               "#858e43",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#1A9D6B",
+    "caret":                "#222222",
+    "brackets":             "#414549",
+    "bracket_content":      "#414549",
+    "variables":            "#8292a0"
+}

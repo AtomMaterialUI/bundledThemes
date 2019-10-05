@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Tickle",
+        "slug": "tickle",
+        "dark": true
+    },
+    "background":           "#39393A",
+    "foreground":           "#c1c1c1",
+    "first":                "#85FFC7",
+    "second":               "#40a5a5",
+    "third":                "#FF8552",
+    "fourth":               "#85FFC7",
+    "fifth":                "#FF8552",
+    "comment":              "#606063",
+    "string":               "#86baba",
+    "number":               "#afd1d1",
+    "selection_foreground": "#85FFC7",
+    "selection_background": "#ffffff",
+    "caret":                "#f8f8f0",
+    "brackets":             "#c1c1c1",
+    "bracket_content":      "#c1c1c1",
+    "variables":            "#ffffff",
+
+    "vscode_statusbar_foreground": "#35443d"
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Solarflare",
+        "slug": "solarflare",
+        "dark": true
+    },
+    "background":           "#222222",
+    "foreground":           "#e3e2e0",
+    "first":                "#fc913a",
+    "second":               "#ff4e50",
+    "third":                "#ede574",
+    "fourth":               "#ff4e50",
+    "fifth":                "#fc913a",
+    "comment":              "#777777",
+    "string":               "#ede574",
+    "number":               "#ff4e50",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff4e50",
+    "caret":                "#f8f8f0",
+    "brackets":             "#fc913a",
+    "bracket_content":      "#ff4e50"
+}

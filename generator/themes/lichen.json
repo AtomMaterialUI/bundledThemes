@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Lichen",
+        "slug": "lichen",
+        "dark": true
+    },
+    "background":           "#1A252F",
+    "foreground":           "#9cadbc",
+    "first":                "#249388",
+    "second":               "#9CE878",
+    "third":                "#1A9D6B",
+    "fourth":               "#246c82",
+    "fifth":                "#1A9D6B",
+    "comment":              "#405b75",
+    "string":               "#c5d671",
+    "number":               "#e4f279",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#1A9D6B",
+    "caret":                "#f8f8f0",
+    "brackets":             "#9cadbc",
+    "bracket_content":      "#9cadbc",
+    "variables":            "#cbdeef"
+}

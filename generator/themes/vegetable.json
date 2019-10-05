@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Vegetable",
+        "slug": "vegetable",
+        "dark": true
+    },
+    "background":           "#2d2627",
+    "foreground":           "#e2dcdd",
+    "first":                "#F0A56C",
+    "second":               "#689D81",
+    "third":                "#D8CA96",
+    "fourth":               "#F0A56C",
+    "fifth":                "#689D81",
+    "comment":              "#635456",
+    "string":               "#bc6b79",
+    "number":               "#bcae6b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#689D81",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

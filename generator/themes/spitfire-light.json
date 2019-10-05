@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Spitfire Light",
+        "slug": "spitfire-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#24665e",
+    "variables":            "#24665e",
+    "first":                "#F75431",
+    "second":               "#d6a62f",
+    "third":                "#8EC065",
+    "fourth":               "#30985B",
+    "fifth":                "#F75431",
+    "comment":              "#a5b9ba",
+    "string":               "#f78d30",
+    "number":               "#f78d30",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#F75431",
+    "caret":                "#333333",
+    "brackets":             "#24665e",
+    "bracket_content":      "#24665e"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Newton",
+        "slug": "newton",
+        "dark": true
+    },
+    "background":           "#342E37",
+    "foreground":           "#EAEBFF",
+    "first":                "#FA824C",
+    "second":               "#FFBF69",
+    "third":                "#3C91E6",
+    "fourth":               "#FA824C",
+    "fifth":                "#FFBF69",
+    "comment":              "#5A5060",
+    "string":               "#9FD356",
+    "number":               "#9FD356",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff5d38",
+    "caret":                "#f8f8f0",
+    "brackets":             "#EAEBFF",
+    "bracket_content":      "#EAEBFF",
+    "variables":            "#c5c6e0"
+}

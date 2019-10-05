@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Turnip",
+        "slug": "turnip",
+        "dark": true
+    },
+    "background":           "#1a1b1d",
+    "foreground":           "#ede0ce",
+    "first":                "#92b55f",
+    "second":               "#487d76",
+    "third":                "#e8da5e",
+    "fourth":               "#92b55f",
+    "fifth":                "#487d76",
+    "comment":              "#7a7267",
+    "string":               "#e8da5e",
+    "number":               "#e8da5e",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#487d76",
+    "caret":                "#f8f8f0",
+    "brackets":             "#487d76",
+    "bracket_content":      "#92b55f"
+}

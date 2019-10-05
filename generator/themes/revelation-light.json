@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Revelation Light",
+        "slug": "revelation-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#555555",
+    "first":                "#4e5d84",
+    "second":               "#617fa0",
+    "third":                "#95c2e8",
+    "fourth":               "#91abc1",
+    "fifth":                "#ffbb29",
+    "comment":              "#aaaaaa",
+    "string":               "#ffbb29",
+    "number":               "#617fa0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#617fa0",
+    "caret":                "#222222",
+    "brackets":             "#555555",
+    "bracket_content":      "#555555"
+}

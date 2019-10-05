@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Frantic",
+        "slug": "frantic",
+        "dark": true
+    },
+    "background":           "#252c33",
+    "foreground":           "#aeb9c4",
+    "first":                "#EF6462",
+    "second":               "#89A7BC",
+    "third":                "#e6eaef",
+    "fourth":               "#EF6462",
+    "fifth":                "#89A7BC",
+    "comment":              "#44515e",
+    "string":               "#afa9e5",
+    "number":               "#968cea",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#EF6462",
+    "caret":                "#ffffff",
+    "variables":            "#bed0e2"
+}

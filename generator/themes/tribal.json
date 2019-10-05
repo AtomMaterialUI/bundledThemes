@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Tribal",
+        "slug": "tribal",
+        "dark": true
+    },
+    "background":           "#393942",
+    "foreground":           "#ffffff",
+    "first":                "#c43535",
+    "second":               "#5f5582",
+    "third":                "#e0ddeb",
+    "fourth":               "#5f5582",
+    "fifth":                "#8f8aa2",
+    "comment":              "#6b6b7a",
+    "string":               "#64aeb3",
+    "number":               "#64aeb3",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#47959a",
+    "caret":                "#f8f8f0",
+    "brackets":             "#c43535",
+    "bracket_content":      "#5f5582",
+    "variables":            "#ffffff"
+}

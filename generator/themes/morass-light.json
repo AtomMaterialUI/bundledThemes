@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Morass Light",
+        "slug": "morass-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#cec040",
+    "second":               "#68875A",
+    "third":                "#AFB54C",
+    "fourth":               "#80a396",
+    "fifth":                "#677C71",
+    "comment":              "#8fa89b",
+    "string":               "#f8bb39",
+    "number":               "#f8bb39",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#68875A",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444",
+
+    "vscode_statusbar_foreground": "#1A1F1D"
+}

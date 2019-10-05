@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Revelation",
+        "slug": "revelation",
+        "dark": true
+    },
+    "background":           "#2e2c2b",
+    "foreground":           "#dedede",
+    "first":                "#4e5d84",
+    "second":               "#617fa0",
+    "third":                "#95c2e8",
+    "fourth":               "#c2dcf2",
+    "fifth":                "#ffbb29",
+    "comment":              "#7b726b",
+    "string":               "#ffbb29",
+    "number":               "#617fa0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#617fa0",
+    "caret":                "#f8f8f0",
+    "brackets":             "#95c2e8",
+    "bracket_content":      "#ffbb29"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Hawaii",
+        "slug": "hawaii",
+        "dark": true
+    },
+    "background":           "#333130",
+    "foreground":           "#e8e1de",
+    "variables":            "#ffffff",
+    "first":                "#edbd44",
+    "second":               "#F75431",
+    "third":                "#52b4d8",
+    "fourth":               "#e2922f",
+    "fifth":                "#92d8e8",
+    "comment":              "#706864",
+    "string":               "#a2d66b",
+    "number":               "#88c448",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#F75431",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

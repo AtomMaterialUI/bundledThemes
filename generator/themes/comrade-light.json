@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Comrade Light",
+        "slug": "comrade-light",
+        "dark": false
+    },
+    "background":           "#d6dbdb",
+    "foreground":           "#343939",
+    "first":                "#C24E4B",
+    "second":               "#7f9689",
+    "third":                "#343939",
+    "fourth":               "#7f9689",
+    "fifth":                "#C24E4B",
+    "comment":              "#9ba5a5",
+    "string":               "#63a5a5",
+    "number":               "#4eadad",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#9BB7A7",
+    "caret":                "#222222",
+    "brackets":             "#343939",
+    "bracket_content":      "#343939",
+    "variables":            "#5e6b6b"
+}

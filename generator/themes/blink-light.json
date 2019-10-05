@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Blink Light",
+        "slug": "blink-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#6a7e89",
+    "first":                "#5298c4",
+    "second":               "#D4856A",
+    "third":                "#43B5B3",
+    "fourth":               "#D4856A",
+    "fifth":                "#43B5B3",
+    "comment":              "#a6b4bc",
+    "string":               "#84c4ce",
+    "number":               "#529ca8",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#43B5B3",
+    "caret":                "#333333",
+    "variables":            "#3e4a51"
+}

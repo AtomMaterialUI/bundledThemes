@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Monzo Light",
+        "slug": "monzo-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#5a79a8",
+    "first":                "#98BAA6",
+    "second":               "#247888",
+    "third":                "#ba9b5e",
+    "fourth":               "#E14D61",
+    "fifth":                "#247888",
+    "comment":              "#8ba2c4",
+    "string":               "#F63A4E",
+    "number":               "#3ea7bc",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#98BAA6",
+    "caret":                "#15243B",
+    "brackets":             "#5a79a8",
+    "bracket_content":      "#5a79a8",
+    "variables":            "#2c4770"
+}

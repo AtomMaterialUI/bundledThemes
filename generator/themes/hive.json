@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Hive",
+        "slug": "hive",
+        "dark": true
+    },
+    "background":           "#2D3142",
+    "foreground":           "#ffffff",
+    "first":                "#7cb8ba",
+    "second":               "#6e81a0",
+    "third":                "#FFFFFF",
+    "fourth":               "#7cb8ba",
+    "fifth":                "#6e81a0",
+    "comment":              "#4e556d",
+    "string":               "#dbc583",
+    "number":               "#83ba7c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7cb8ba",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff",
+    "variables":            "#ffffff"
+}

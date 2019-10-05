@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Downpour Light",
+        "slug": "downpour-light",
+        "dark": false
+    },
+    "background":           "#d6dbdb",
+    "foreground":           "#2c323d",
+    "first":                "#bc4331",
+    "second":               "#736f99",
+    "third":                "#698996",
+    "fourth":               "#787782",
+    "fifth":                "#736f99",
+    "comment":              "#9da5a5",
+    "string":               "#63a5a5",
+    "number":               "#4eadad",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#908bbc",
+    "caret":                "#222222",
+    "brackets":             "#2c323d",
+    "bracket_content":      "#2c323d",
+    "variables":            "#4f596b"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Piggy",
+        "slug": "piggy",
+        "dark": true
+    },
+    "background":           "#3d2f34",
+    "foreground":           "#edebe6",
+    "first":                "#f52e62",
+    "second":               "#fd6a5d",
+    "third":                "#ff5d80",
+    "fourth":               "#fd6a5d",
+    "fifth":                "#f52e62",
+    "comment":              "#685259",
+    "string":               "#ff453e",
+    "number":               "#ff453e",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f52e62",
+    "caret":                "#f8f8f0",
+    "brackets":             "#f52e62",
+    "bracket_content":      "#fd6a5d",
+    "variables":            "#edebe6"
+}

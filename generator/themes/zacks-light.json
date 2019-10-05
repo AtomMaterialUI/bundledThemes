@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Zacks Light",
+        "slug": "zacks-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#9c7ddb",
+    "second":               "#ff6a38",
+    "third":                "#bcd42a",
+    "fourth":               "#ff6a38",
+    "fifth":                "#9c7ddb",
+    "comment":              "#aaaaaa",
+    "string":               "#bcd42a",
+    "number":               "#bcd42a",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#9c7ddb",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444"
+}

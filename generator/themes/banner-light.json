@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Banner Light",
+        "slug": "banner-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#373247",
+    "first":                "#7cd827",
+    "second":               "#a25cdb",
+    "third":                "#373247",
+    "fourth":               "#7cd827",
+    "fifth":                "#7cd827",
+    "comment":              "#d2d0db",
+    "string":               "#9db515",
+    "number":               "#9db515",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7cd827",
+    "caret":                "#222222",
+    "brackets":             "#373247",
+    "bracket_content":      "#373247",
+    "variables":            "#4e4863"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Tetra",
+        "slug": "tetra",
+        "dark": true
+    },
+    "background":           "#13363F",
+    "foreground":           "#c9d7db",
+    "variables":            "#e8f0f2",
+    "first":                "#148B97",
+    "second":               "#FDCE7F",
+    "third":                "#e8744a",
+    "fourth":               "#e2585d",
+    "fifth":                "#148B97",
+    "comment":              "#3b5f68",
+    "string":               "#7fc181",
+    "number":               "#7fc181",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#148B97",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

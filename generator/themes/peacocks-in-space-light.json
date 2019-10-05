@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Peacocks In Space Light",
+        "slug": "peacocks-in-space-light",
+        "dark": false
+    },
+    "background":           "#dee3ec",
+    "foreground":           "#2b303b",
+    "first":                "#26a6a6",
+    "second":               "#ff5d38",
+    "third":                "#a6b73a",
+    "fourth":               "#26a6a6",
+    "fifth":                "#ff5d38",
+    "comment":              "#6e7a94",
+    "string":               "#a6b73a",
+    "number":               "#a6b73a",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#26a6a6",
+    "caret":                "#2b303b",
+    "brackets":             "#2b303b",
+    "bracket_content":      "#2b303b"
+}

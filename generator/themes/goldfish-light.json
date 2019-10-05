@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Goldfish Light",
+        "slug": "goldfish-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#2e3336",
+    "first":                "#f38630",
+    "second":               "#fa6900",
+    "third":                "#69d2e7",
+    "fourth":               "#91bfbc",
+    "fifth":                "#f38630",
+    "comment":              "#869aa5",
+    "string":               "#f36e3a",
+    "number":               "#f25619",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f38630",
+    "caret":                "#222222",
+    "brackets":             "#2e3336",
+    "bracket_content":      "#2e3336"
+}

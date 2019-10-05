@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Pastel Light",
+        "slug": "pastel-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#222222",
+    "first":                "#9474a9",
+    "second":               "#04c4a5",
+    "third":                "#c56c6c",
+    "fourth":               "#c5906c",
+    "fifth":                "#e2e060",
+    "comment":              "#aaaaaa",
+    "string":               "#c56c6c",
+    "number":               "#c56c6c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#008d62",
+    "caret":                "#222222",
+    "brackets":             "#222222",
+    "bracket_content":      "#222222"
+}

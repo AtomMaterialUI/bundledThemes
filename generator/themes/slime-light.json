@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Slime Light",
+        "slug": "slime-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#8b9355",
+    "second":               "#9fb3c2",
+    "third":                "#c7af3f",
+    "fourth":               "#9fb3c2",
+    "fifth":                "#c7af3f",
+    "comment":              "#999999",
+    "string":               "#8b9355",
+    "number":               "#c7af3f",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#4e653d",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333",
+
+    "vscode_statusbar_foreground": "#3b3a32"
+}

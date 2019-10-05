@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Scorch Light",
+        "slug": "scorch-light",
+        "dark": false
+    },
+    "background":           "#f2eded",
+    "foreground":           "#514242",
+    "first":                "#D39452",
+    "second":               "#BD4549",
+    "third":                "#CF9E51",
+    "fourth":               "#c6bb57",
+    "fifth":                "#E77757",
+    "comment":              "#63383c",
+    "string":               "#a58163",
+    "number":               "#cc8f5d",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#BD4549",
+    "caret":                "#222222",
+    "brackets":             "#514242",
+    "bracket_content":      "#514242",
+    "variables":            "#846868"
+}

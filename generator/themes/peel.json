@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Peel",
+        "slug": "peel",
+        "dark": true
+    },
+    "background":           "#23201c",
+    "foreground":           "#edebe6",
+    "first":                "#94c7b6",
+    "second":               "#d3643b",
+    "third":                "#d6e1c7",
+    "fourth":               "#94c7b6",
+    "fifth":                "#d3643b",
+    "comment":              "#585146",
+    "string":               "#f4d370",
+    "number":               "#f4d370",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#d3643b",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ef746f",
+    "bracket_content":      "#b3cc57",
+    "variables":            "#edebe6"
+}

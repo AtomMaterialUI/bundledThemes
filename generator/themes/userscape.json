@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Userscape",
+        "slug": "userscape",
+        "dark": true
+    },
+    "background":           "#323a42",
+    "foreground":           "#dce2e8",
+    "first":                "#a8c0e0",
+    "second":               "#507db7",
+    "third":                "#e3bd14",
+    "fourth":               "#b3becc",
+    "fifth":                "#de4d3a",
+    "comment":              "#728496",
+    "string":               "#e3bd14",
+    "number":               "#de4d3a",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#355b8c",
+    "caret":                "#ffffff",
+    "brackets":             "#a8c0e0",
+    "bracket_content":      "#355b8c"
+}

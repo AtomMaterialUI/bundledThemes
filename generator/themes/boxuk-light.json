@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Box UK Light",
+        "slug": "boxuk-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#414f5c",
+    "first":                "#017c9d",
+    "second":               "#019d76",
+    "third":                "#15b8ae",
+    "fourth":               "#017c9d",
+    "fifth":                "#019d76",
+    "comment":              "#b8b6b1",
+    "string":               "#15b8ae",
+    "number":               "#15b8ae",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#017c9d",
+    "caret":                "#222222",
+    "brackets":             "#017c9d",
+    "bracket_content":      "#019d76"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Banner",
+        "slug": "banner",
+        "dark": true
+    },
+    "background":           "#1d1a26",
+    "foreground":           "#c5bedd",
+    "first":                "#7cd827",
+    "second":               "#a25cdb",
+    "third":                "#ffffff",
+    "fourth":               "#a6ef61",
+    "fifth":                "#a6ef61",
+    "comment":              "#594b87",
+    "string":               "#cded1c",
+    "number":               "#cded1c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7cd827",
+    "caret":                "#f8f8f0",
+    "brackets":             "#c5bedd",
+    "bracket_content":      "#c5bedd",
+    "variables":            "#ffffff"
+}

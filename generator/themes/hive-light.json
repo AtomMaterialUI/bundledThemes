@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Hive Light",
+        "slug": "hive-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#2D3142",
+    "first":                "#7cb8ba",
+    "second":               "#6e81a0",
+    "third":                "#2D3142",
+    "fourth":               "#7cb8ba",
+    "fifth":                "#6e81a0",
+    "comment":              "#9b9fb2",
+    "string":               "#dbc583",
+    "number":               "#83ba7c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7cb8ba",
+    "caret":                "#222222",
+    "brackets":             "#2D3142",
+    "bracket_content":      "#2D3142",
+    "variables":            "#484e68"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Newton Light",
+        "slug": "newton-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#FA824C",
+    "second":               "#FFBF69",
+    "third":                "#3C91E6",
+    "fourth":               "#FA824C",
+    "fifth":                "#FFBF69",
+    "comment":              "#aaaaaa",
+    "string":               "#9FD356",
+    "number":               "#9FD356",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff5d38",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444",
+    "variables":            "#9495aa"
+}

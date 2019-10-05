@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Keen",
+        "slug": "keen",
+        "dark": true
+    },
+    "background":           "#111111",
+    "foreground":           "#cccccc",
+    "first":                "#6f8b94",
+    "second":               "#8767b7",
+    "third":                "#b5db99",
+    "fourth":               "#6f8b94",
+    "fifth":                "#8767b7",
+    "comment":              "#374c60",
+    "string":               "#b5db99",
+    "number":               "#b5db99",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#8767b7",
+    "caret":                "#f8f8f0",
+    "brackets":             "#6f8b94",
+    "bracket_content":      "#8767b7"
+}

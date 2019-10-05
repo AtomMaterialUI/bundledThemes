@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Github",
+        "slug": "github",
+        "dark": true
+    },
+    "background":           "#333333",
+    "foreground":           "#ffffff",
+    "first":                "#7385bc",
+    "second":               "#66c4c4",
+    "third":                "#e53d67",
+    "fourth":               "#cccccc",
+    "fifth":                "#5a6fad",
+    "comment":              "#555555",
+    "string":               "#e53d67",
+    "number":               "#e53d67",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#008080",
+    "caret":                "#ffffff",
+    "brackets":             "#445588",
+    "bracket_content":      "#008080",
+    "variables":            "#26c1c1"
+}

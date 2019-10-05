@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Mud Light",
+        "slug": "mud-light",
+        "dark": false
+    },
+    "background":           "#ede8e8",
+    "foreground":           "#555555",
+    "first":                "#c4a446",
+    "second":               "#d16f60",
+    "third":                "#88ad6e",
+    "fourth":               "#d16f60",
+    "fifth":                "#c4a446",
+    "comment":              "#c3b8b7",
+    "string":               "#88ad6e",
+    "number":               "#88ad6e",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#88ad6e",
+    "caret":                "#222222",
+    "brackets":             "#555555",
+    "bracket_content":      "#555555"
+}

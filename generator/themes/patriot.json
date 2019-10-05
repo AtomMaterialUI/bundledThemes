@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Patriot",
+        "slug": "patriot",
+        "dark": true
+    },
+    "background":           "#2d3133",
+    "foreground":           "#cad9e3",
+    "first":                "#de333c",
+    "second":               "#2e6fd9",
+    "third":                "#ffffff",
+    "fourth":               "#bbbcc4",
+    "fifth":                "#de333c",
+    "comment":              "#515e66",
+    "string":               "#3790de",
+    "number":               "#2e6fd9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#de333c",
+    "caret":                "#f8f8f0",
+    "brackets":             "#69adb5",
+    "bracket_content":      "#25808a"
+}

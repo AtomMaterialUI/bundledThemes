@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Tron",
+        "slug": "tron",
+        "dark": true
+    },
+    "background":           "#14191f",
+    "foreground":           "#aec2e0",
+    "first":                "#267fb5",
+    "second":               "#ffffff",
+    "third":                "#ffffff",
+    "fourth":               "#748aa6",
+    "fifth":                "#267fb5",
+    "comment":              "#324357",
+    "string":               "#6ee2ff",
+    "number":               "#6ee2ff",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7a9bc2",
+    "caret":                "#f8f8f0",
+    "brackets":             "#7a9bc2",
+    "bracket_content":      "#ffffff",
+    "ui_first":             "#267fb5"
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Carbonight Light",
+        "slug": "carbonight-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#2e2c2b",
+    "first":                "#c4c4c4",
+    "second":               "#8c8c8c",
+    "third":                "#222222",
+    "fourth":               "#555555",
+    "fifth":                "#222222",
+    "comment":              "#cccccc",
+    "string":               "#888888",
+    "number":               "#b0b0b0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#8c8c8c",
+    "caret":                "#222222",
+    "brackets":             "#2e2c2b",
+    "bracket_content":      "#2e2c2b",
+
+    "first_contrast": "#2e2c2b"
+}

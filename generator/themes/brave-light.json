@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Brave Light",
+        "slug": "brave-light",
+        "dark": false
+    },
+    "background":           "#f7f9f9",
+    "foreground":           "#2c2d2d",
+    "first":                "#bc4331",
+    "second":               "#7873a0",
+    "third":                "#6e909e",
+    "fourth":               "#abaab7",
+    "fifth":                "#7873a0",
+    "comment":              "#ccc9e0",
+    "string":               "#63a5a5",
+    "number":               "#4eadad",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#908bbc",
+    "caret":                "#222222",
+    "brackets":             "#2c2d2d",
+    "bracket_content":      "#2c2d2d",
+    "variables":            "#4f5656"
+}

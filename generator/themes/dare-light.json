@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Dare Light",
+        "slug": "dare-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#6e7a87",
+    "first":                "#3A8881",
+    "second":               "#d15736",
+    "third":                "#6e7a87",
+    "fourth":               "#3A8881",
+    "fifth":                "#d15736",
+    "comment":              "#b3bcc6",
+    "string":               "#A5BAB3",
+    "number":               "#A5BAB3",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#5DA892",
+    "caret":                "#333333",
+    "variables":            "#424951"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Mauve Light",
+        "slug": "mauve-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#372638",
+    "variables":            "#372638",
+    "first":                "#C89933",
+    "second":               "#74526C",
+    "third":                "#DBD053",
+    "fourth":               "#C89933",
+    "fifth":                "#DBD053",
+    "comment":              "#cc8ed1",
+    "string":               "#baa353",
+    "number":               "#d8b436",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#C89933",
+    "caret":                "#333333",
+    "brackets":             "#372638",
+    "bracket_content":      "#372638"
+}

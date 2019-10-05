@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Juicy Light",
+        "slug": "juicy-light",
+        "dark": false
+    },
+    "background":           "#f0f0f0",
+    "foreground":           "#333333",
+    "first":                "#ff4e50",
+    "second":               "#3bc7b8",
+    "third":                "#c3cb4c",
+    "fourth":               "#edb92e",
+    "fifth":                "#f85931",
+    "comment":              "#777777",
+    "string":               "#3bc7b8",
+    "number":               "#ce1836",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff4e50",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333"
+}

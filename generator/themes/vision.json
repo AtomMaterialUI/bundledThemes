@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Vision (colorblind) (rainglow)",
+        "slug": "vision-colorblind",
+        "dark": true
+    },
+    "background":           "#000000",
+    "foreground":           "#ffffff",
+    "variables":            "#aaaaaa",
+    "first":                "#FC4D1F",
+    "second":               "#FDBA2C",
+    "third":                "#21C0FC",
+    "fourth":               "#136EFB",
+    "fifth":                "#FC1264",
+    "comment":              "#555555",
+    "string":               "#21C0FC",
+    "number":               "#FDBA2C",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#F87856",
+    "caret":                "#ffffff",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff",
+
+    "error":                "#F87856",
+    "success":              "#1BA2F7",
+    "warning":              "#81209E",
+    "info":                 "#81209E"
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Earthsong Light",
+        "slug": "earthsong-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#4d463e",
+    "first":                "#95cc5e",
+    "second":               "#db784d",
+    "third":                "#60a365",
+    "fourth":               "#db784d",
+    "fifth":                "#95cc5e",
+    "comment":              "#d6cab9",
+    "string":               "#f8bb39",
+    "number":               "#f8bb39",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#60a365",
+    "caret":                "#111111",
+    "brackets":             "#4d463e",
+    "bracket_content":      "#4d463e",
+
+    "jetbrains_html_attributes": "#db784d"
+}

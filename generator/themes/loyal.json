@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Loyal",
+        "slug": "loyal",
+        "dark": true
+    },
+    "background":           "#413e4f",
+    "foreground":           "#bbb1c9",
+    "variables":            "#f5f2f9",
+    "first":                "#3CBBB1",
+    "second":               "#EE4266",
+    "third":                "#b3adba",
+    "fourth":               "#9484d6",
+    "fifth":                "#b3adba",
+    "comment":              "#655a72",
+    "string":               "#e5c71b",
+    "number":               "#e5c71b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#3CBBB1",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

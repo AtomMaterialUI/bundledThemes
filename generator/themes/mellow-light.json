@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Mellow Light",
+        "slug": "mellow-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#555555",
+    "first":                "#f2bc79",
+    "second":               "#1f8181",
+    "third":                "#f28972",
+    "fourth":               "#f2bc79",
+    "fifth":                "#f55d79",
+    "comment":              "#aaaaaa",
+    "string":               "#f8bb39",
+    "number":               "#f8bb39",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f55d79",
+    "caret":                "#222222",
+    "brackets":             "#555555",
+    "bracket_content":      "#555555"
+}

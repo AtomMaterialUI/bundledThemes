@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Arstotzka",
+        "slug": "arstotzka",
+        "dark": true
+    },
+    "background":           "#332e2e",
+    "foreground":           "#edebe6",
+    "first":                "#a2a797",
+    "second":               "#516b6b",
+    "third":                "#70807b",
+    "fourth":               "#a2a797",
+    "fifth":                "#cf433e",
+    "comment":              "#6b625b",
+    "string":               "#a5e3d0",
+    "number":               "#a5e3d0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#516b6b",
+    "caret":                "#f8f8f0",
+    "brackets":             "#a2a797",
+    "bracket_content":      "#516b6b",
+    "variables":            "#edebe6"
+}

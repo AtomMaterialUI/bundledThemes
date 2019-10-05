@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Legacy Light",
+        "slug": "legacy-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#267fb5",
+    "second":               "#222222",
+    "third":                "#ffb20d",
+    "fourth":               "#748aa6",
+    "fifth":                "#267fb5",
+    "comment":              "#324357",
+    "string":               "#ff410d",
+    "number":               "#c7f026",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff410d",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444",
+    "variables":            "#777777",
+    "ui_first":             "#267fb5"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Hub Light",
+        "slug": "hub-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#24292e",
+    "first":                "#d73a49",
+    "second":               "#005cc5",
+    "third":                "#005cc5",
+    "fourth":               "#d73a49",
+    "fifth":                "#6f42c1",
+    "comment":              "#6a737d",
+    "string":               "#032f62",
+    "number":               "#032f62",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#077cf9",
+    "line_highlight":       "#fffbdd",
+    "caret":                "#222222",
+    "brackets":             "#24292e",
+    "bracket_content":      "#24292e"
+}

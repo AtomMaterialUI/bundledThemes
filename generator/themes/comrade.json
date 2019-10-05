@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Comrade",
+        "slug": "comrade",
+        "dark": true
+    },
+    "background":           "#343939",
+    "foreground":           "#d6dbdb",
+    "first":                "#C24E4B",
+    "second":               "#9BB7A7",
+    "third":                "#F9F7F1",
+    "fourth":               "#9BB7A7",
+    "fifth":                "#C24E4B",
+    "comment":              "#5e7070",
+    "string":               "#63a5a5",
+    "number":               "#4eadad",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#9BB7A7",
+    "caret":                "#f8f8f0",
+    "brackets":             "#d6dbdb",
+    "bracket_content":      "#d6dbdb",
+    "variables":            "#ffffff"
+}

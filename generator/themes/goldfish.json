@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Goldfish",
+        "slug": "goldfish",
+        "dark": true
+    },
+    "background":           "#2e3336",
+    "foreground":           "#f8f8f2",
+    "first":                "#f38630",
+    "second":               "#fa6900",
+    "third":                "#69d2e7",
+    "fourth":               "#a7dbd8",
+    "fifth":                "#f38630",
+    "comment":              "#505c63",
+    "string":               "#f36e3a",
+    "number":               "#f25619",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f38630",
+    "caret":                "#f8f8f0",
+    "brackets":             "#a7dbd8",
+    "bracket_content":      "#f38630"
+}

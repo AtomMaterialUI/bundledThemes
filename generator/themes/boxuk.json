@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Box UK",
+        "slug": "boxuk",
+        "dark": true
+    },
+    "background":           "#2a353f",
+    "foreground":           "#ffffff",
+    "first":                "#017c9d",
+    "second":               "#019d76",
+    "third":                "#15b8ae",
+    "fourth":               "#017c9d",
+    "fifth":                "#019d76",
+    "comment":              "#7b98b2",
+    "string":               "#15b8ae",
+    "number":               "#15b8ae",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#017c9d",
+    "caret":                "#ffffff",
+    "brackets":             "#017c9d",
+    "bracket_content":      "#019d76"
+}

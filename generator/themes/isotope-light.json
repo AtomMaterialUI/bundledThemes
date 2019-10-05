@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Isotope Light",
+        "slug": "isotope-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#454955",
+    "first":                "#72B01D",
+    "second":               "#98bc3e",
+    "third":                "#454955",
+    "fourth":               "#98bc3e",
+    "fifth":                "#72B01D",
+    "comment":              "#7b85a0",
+    "string":               "#86baba",
+    "number":               "#afd1d1",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#b3dd49",
+    "caret":                "#222222",
+    "brackets":             "#454955",
+    "bracket_content":      "#454955",
+    "variables":            "#676d7f"
+}

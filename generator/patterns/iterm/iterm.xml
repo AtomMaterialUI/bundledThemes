@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ansi 0 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 5 'background' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 5 'background' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 5 'background' }}}</real>
+	</dict>
+	<key>Ansi 1 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'terminal_red' '#ba0e2e' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'terminal_red' '#ba0e2e' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'terminal_red' '#ba0e2e' }}}</real>
+	</dict>
+	<key>Ansi 10 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 20 'first' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 20 'first' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 20 'first' }}}</real>
+	</dict>
+	<key>Ansi 11 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 20 'second' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 20 'second' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 20 'second' }}}</real>
+	</dict>
+	<key>Ansi 12 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 20 'third' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 20 'third' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 20 'third' }}}</real>
+	</dict>
+	<key>Ansi 13 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 20 'fourth' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 20 'fourth' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 20 'fourth' }}}</real>
+	</dict>
+	<key>Ansi 14 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 20 'fifth' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 20 'fifth' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 20 'fifth' }}}</real>
+	</dict>
+	<key>Ansi 15 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 15 'foreground' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 15 'foreground' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 15 'foreground' }}}</real>
+	</dict>
+	<key>Ansi 2 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'first' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'first' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'first' }}}</real>
+	</dict>
+	<key>Ansi 3 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'second' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'second' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'second' }}}</real>
+	</dict>
+	<key>Ansi 4 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'third' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'third' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'third' }}}</real>
+	</dict>
+	<key>Ansi 5 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'fourth' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'fourth' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'fourth' }}}</real>
+	</dict>
+	<key>Ansi 6 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'fifth' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'fifth' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'fifth' }}}</real>
+	</dict>
+	<key>Ansi 7 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 5 'foreground' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 5 'foreground' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 5 'foreground' }}}</real>
+	</dict>
+	<key>Ansi 8 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac_lighter 'b' 15 'background' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac_lighter 'g' 15 'background' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac_lighter 'r' 15 'background' }}}</real>
+	</dict>
+	<key>Ansi 9 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'terminal_red' '#e61f44' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'terminal_red' '#e61f44' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'terminal_red' '#e61f44' }}}</real>
+	</dict>
+	<key>Background Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'background' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'background' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'background' }}}</real>
+	</dict>
+	<key>Bold Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'string' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'string' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'string' }}}</real>
+	</dict>
+	<key>Cursor Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'caret' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'caret' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'caret' }}}</real>
+	</dict>
+	<key>Cursor Text Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'foreground' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'foreground' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'foreground' }}}</real>
+	</dict>
+	<key>Foreground Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'foreground' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'foreground' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'foreground' }}}</real>
+	</dict>
+	<key>Selected Text Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'selection_foreground' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'selection_foreground' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'selection_foreground' }}}</real>
+	</dict>
+	<key>Selection Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>{{{ frac 'b' 'selection_background' }}}</real>
+		<key>Green Component</key>
+		<real>{{{ frac 'g' 'selection_background' }}}</real>
+		<key>Red Component</key>
+		<real>{{{ frac 'r' 'selection_background' }}}</real>
+	</dict>
+</dict>
+</plist>

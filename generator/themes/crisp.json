@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Crisp",
+        "slug": "crisp",
+        "dark": true
+    },
+    "background":           "#221a22",
+    "foreground":           "#ffffff",
+    "first":                "#cba0cd",
+    "second":               "#765478",
+    "third":                "#fc6a0f",
+    "fourth":               "#fc6a0f",
+    "fifth":                "#cba0cd",
+    "comment":              "#574457",
+    "string":               "#fc9a0f",
+    "number":               "#fc9a0f",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#fc6a0f",
+    "caret":                "#f8f8f0",
+    "brackets":             "#cba0cd",
+    "bracket_content":      "#765478",
+    "variables":            "#ffffff"
+}

@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Absent Light",
+        "slug": "absent-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#465360",
+    "first":                "#228a96",
+    "second":               "#6BA77F",
+    "third":                "#465360",
+    "fourth":               "#228a96",
+    "fifth":                "#6BA77F",
+    "comment":              "#aeb9c4",
+    "string":               "#478e5f",
+    "number":               "#61bcc6",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#228a96",
+    "caret":                "#333333",
+    "variables":            "#353f49"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Horizon",
+        "slug": "horizon",
+        "dark": true
+    },
+    "background":           "#474466",
+    "foreground":           "#ffffff",
+    "first":                "#FD8A25",
+    "second":               "#ba66d6",
+    "third":                "#FED230",
+    "fourth":               "#E5194B",
+    "fifth":                "#E524A9",
+    "comment":              "#736faa",
+    "string":               "#FD8A25",
+    "number":               "#E524A9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#FD8A25",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff",
+    "variables":            "#dddced"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Kiwi",
+        "slug": "kiwi",
+        "dark": true
+    },
+    "background":           "#2a3330",
+    "foreground":           "#edebe6",
+    "first":                "#229986",
+    "second":               "#95c72a",
+    "third":                "#0b6d5c",
+    "fourth":               "#229986",
+    "fifth":                "#95c72a",
+    "comment":              "#576d6a",
+    "string":               "#a1e6c1",
+    "number":               "#a1e6c1",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#0b6d5c",
+    "caret":                "#f8f8f0",
+    "brackets":             "#229986",
+    "bracket_content":      "#95c72a",
+    "variables":            "#edebe6"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Soup",
+        "slug": "soup",
+        "dark": true
+    },
+    "background":           "#40424c",
+    "foreground":           "#9090b2",
+    "variables":            "#d5d5e8",
+    "first":                "#68B0AB",
+    "second":               "#8FC0A9",
+    "third":                "#C8D5B9",
+    "fourth":               "#FAF3DD",
+    "fifth":                "#8FC0A9",
+    "comment":              "#6b6e7f",
+    "string":               "#baa353",
+    "number":               "#d8b436",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#68B0AB",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

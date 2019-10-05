@@ -1,0 +1,8 @@
+version: '3'
+services:
+  rainglow:
+    build: .
+    volumes:
+      - ./output:/src/output
+    environment:
+      PATTERN: brackets

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Warlock Light",
+        "slug": "warlock-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#4b4060",
+    "first":                "#F46036",
+    "second":               "#7eb1dd",
+    "third":                "#7c86d6",
+    "fourth":               "#b67ae8",
+    "fifth":                "#F46036",
+    "comment":              "#aaaaaa",
+    "string":               "#f78362",
+    "number":               "#f7a261",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#725AC1",
+    "caret":                "#222222",
+    "brackets":             "#4b4060",
+    "bracket_content":      "#4b4060",
+    "variables":            "#30293d"
+}

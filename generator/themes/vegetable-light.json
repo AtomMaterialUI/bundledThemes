@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Vegetable Light",
+        "slug": "vegetable-light",
+        "dark": false
+    },
+    "background":           "#e2dcdd",
+    "foreground":           "#514547",
+    "first":                "#F0A56C",
+    "second":               "#689D81",
+    "third":                "#c6a52d",
+    "fourth":               "#F0A56C",
+    "fifth":                "#689D81",
+    "comment":              "#b2a2a5",
+    "string":               "#bc6b79",
+    "number":               "#bcae6b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#689D81",
+    "caret":                "#333333",
+    "variables":            "#2d2627"
+}

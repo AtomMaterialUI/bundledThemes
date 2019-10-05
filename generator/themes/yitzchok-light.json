@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Yitzchok Light",
+        "slug": "yitzchok-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#6a7684",
+    "first":                "#e7be45",
+    "second":               "#7a8289",
+    "third":                "#6a7684",
+    "fourth":               "#e7be45",
+    "fifth":                "#7a8289",
+    "comment":              "#aeb9c4",
+    "string":               "#afa441",
+    "number":               "#998d29",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#e7be45",
+    "caret":                "#333333",
+    "variables":            "#535d68"
+}

@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Penitent",
+        "slug": "penitent",
+        "dark": true
+    },
+    "background":           "#1f352e",
+    "foreground":           "#b9cec7",
+    "first":                "#e54334",
+    "second":               "#ea983a",
+    "third":                "#11a361",
+    "fourth":               "#e54334",
+    "fifth":                "#ea983a",
+    "comment":              "#497769",
+    "string":               "#eac03a",
+    "number":               "#ea663a",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#e54334",
+    "caret":                "#ffffff",
+    "variables":            "#e1efea"
+}

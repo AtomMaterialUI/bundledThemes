@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Yule",
+        "slug": "yule",
+        "dark": true
+    },
+    "background":           "#2b2a27",
+    "foreground":           "#ede0ce",
+    "first":                "#39b81f",
+    "second":               "#d63131",
+    "third":                "#ebb626",
+    "fourth":               "#39b81f",
+    "fifth":                "#d63131",
+    "comment":              "#7a7267",
+    "string":               "#ebb626",
+    "number":               "#ebb626",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#d63131",
+    "caret":                "#f8f8f0",
+    "brackets":             "#39b81f",
+    "bracket_content":      "#d63131"
+}

@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Laracasts Light",
+        "slug": "laracasts-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#4d545d",
+    "first":                "#00b1b3",
+    "second":               "#ef6733",
+    "third":                "#4d545d",
+    "fourth":               "#00b1b3",
+    "fifth":                "#ef6733",
+    "comment":              "#9eacbc",
+    "string":               "#98d5d6",
+    "number":               "#c68369",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#00b1b3",
+    "caret":                "#333333",
+    "variables":            "#23262b"
+}

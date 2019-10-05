@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Pleasure Light",
+        "slug": "pleasure-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#474e56",
+    "first":                "#a175ba",
+    "second":               "#DD5D7A",
+    "third":                "#A1CBC6",
+    "fourth":               "#DD5D7A",
+    "fifth":                "#A1CBC6",
+    "comment":              "#9da7b2",
+    "string":               "#5685ce",
+    "number":               "#a175ba",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#A1CBC6",
+    "caret":                "#333333",
+    "variables":            "#32373d"
+}

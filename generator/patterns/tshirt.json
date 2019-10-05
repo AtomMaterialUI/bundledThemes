@@ -1,0 +1,5 @@
+{
+    "tshirt/logo.svg": "tshirt/logo/{{{ meta.name }}} (rainglow).svg",
+    "tshirt/eatsleep.svg": "tshirt/eatsleep/{{{ meta.name }}} (rainglow).svg",
+    "tshirt/braces.svg": "tshirt/braces/{{{ meta.name }}} (rainglow).svg"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Coffee",
+        "slug": "coffee",
+        "dark": true
+    },
+    "background":           "#282122",
+    "foreground":           "#c4babb",
+    "first":                "#0A9F9B",
+    "second":               "#F5F3EB",
+    "third":                "#E77757",
+    "fourth":               "#80b2b0",
+    "fifth":                "#E77757",
+    "comment":              "#5e4e50",
+    "string":               "#a58163",
+    "number":               "#cc8f5d",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#0A9F9B",
+    "caret":                "#f8f8f0",
+    "brackets":             "#c4babb",
+    "bracket_content":      "#c4babb",
+    "variables":            "#ede3e4"
+}

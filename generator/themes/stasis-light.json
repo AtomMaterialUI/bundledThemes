@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Stasis Light",
+        "slug": "stasis-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#605a68",
+    "variables":            "#605a68",
+    "first":                "#FC814A",
+    "second":               "#7c617c",
+    "third":                "#777777",
+    "fourth":               "#FC814A",
+    "fifth":                "#777777",
+    "comment":              "#d0c0e2",
+    "string":               "#e5c71b",
+    "number":               "#e5c71b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#FC814A",
+    "caret":                "#333333",
+    "brackets":             "#605a68",
+    "bracket_content":      "#605a68"
+}

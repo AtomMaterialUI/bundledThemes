@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Service",
+        "slug": "service",
+        "dark": true
+    },
+    "background":           "#252727",
+    "foreground":           "#e8e1de",
+    "variables":            "#ffffff",
+    "first":                "#6C8375",
+    "second":               "#A0AFA1",
+    "third":                "#F0F5F5",
+    "fourth":               "#A0AFA1",
+    "fifth":                "#6C8375",
+    "comment":              "#4b5656",
+    "string":               "#a2d66b",
+    "number":               "#88c448",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#a2d66b",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

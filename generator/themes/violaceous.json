@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Violaceous",
+        "slug": "violaceous",
+        "dark": true
+    },
+    "background":           "#242038",
+    "foreground":           "#bdb2f7",
+    "first":                "#725AC1",
+    "second":               "#8D86C9",
+    "third":                "#CAC4CE",
+    "fourth":               "#725AC1",
+    "fifth":                "#CAC4CE",
+    "comment":              "#594b87",
+    "string":               "#b58ad1",
+    "number":               "#944fc1",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#725AC1",
+    "caret":                "#f8f8f0",
+    "brackets":             "#bdb2f7",
+    "bracket_content":      "#bdb2f7",
+    "variables":            "#ffffff"
+}

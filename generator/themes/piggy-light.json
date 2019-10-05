@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Piggy Light",
+        "slug": "piggy-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#f52e62",
+    "second":               "#fd6a5d",
+    "third":                "#ff5d80",
+    "fourth":               "#fd6a5d",
+    "fifth":                "#f52e62",
+    "comment":              "#aaaaaa",
+    "string":               "#ff453e",
+    "number":               "#ff453e",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f52e62",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444",
+    "variables":            "#777777"
+}

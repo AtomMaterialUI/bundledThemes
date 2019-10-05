@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Dare",
+        "slug": "dare",
+        "dark": true
+    },
+    "background":           "#32373d",
+    "foreground":           "#c0ccdb",
+    "first":                "#3A8881",
+    "second":               "#d15736",
+    "third":                "#ffffff",
+    "fourth":               "#3A8881",
+    "fifth":                "#d15736",
+    "comment":              "#76818e",
+    "string":               "#A5BAB3",
+    "number":               "#A5BAB3",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#5DA892",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

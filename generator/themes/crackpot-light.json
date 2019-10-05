@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Crackpot Light",
+        "slug": "crackpot-light",
+        "dark": false
+    },
+    "background":           "#e6e3ef",
+    "foreground":           "#3a385b",
+    "first":                "#E4B363",
+    "second":               "#EF6461",
+    "third":                "#908cd8",
+    "fourth":               "#E4B363",
+    "fifth":                "#3a385b",
+    "comment":              "#b7b4c1",
+    "string":               "#d2c9ef",
+    "number":               "#d2c9ef",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#EF6461",
+    "caret":                "#222222",
+    "brackets":             "#3a385b",
+    "bracket_content":      "#3a385b",
+    "variables":            "#69669b"
+}

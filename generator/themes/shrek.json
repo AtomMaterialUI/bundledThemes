@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Shrek",
+        "slug": "shrek",
+        "dark": true
+    },
+    "background":           "#222222",
+    "foreground":           "#ffffff",
+    "first":                "#b2de62",
+    "second":               "#857a5e",
+    "third":                "#f0f2eb",
+    "fourth":               "#bfb59b",
+    "fifth":                "#b2de62",
+    "comment":              "#555555",
+    "string":               "#81e911",
+    "number":               "#81e911",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#857a5e",
+    "caret":                "#f8f8f0",
+    "brackets":             "#cba0cd",
+    "bracket_content":      "#765478",
+    "variables":            "#ffffff"
+}

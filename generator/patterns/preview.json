@@ -1,0 +1,3 @@
+{
+    "preview/preview.html": "preview/{{{ meta.slug }}}.html"
+}

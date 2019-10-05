@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Mintchoc",
+        "slug": "mintchoc",
+        "dark": true
+    },
+    "background":           "#2b221c",
+    "foreground":           "#bababa",
+    "first":                "#9d8262",
+    "second":               "#008d62",
+    "third":                "#00e08c",
+    "fourth":               "#9d8262",
+    "fifth":                "#008d62",
+    "comment":              "#564439",
+    "string":               "#00e08c",
+    "number":               "#00e08c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#008d62",
+    "caret":                "#f8f8f0",
+    "brackets":             "#9d8262",
+    "bracket_content":      "#008d62"
+}

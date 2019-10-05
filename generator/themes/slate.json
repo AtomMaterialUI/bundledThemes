@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Slate",
+        "slug": "slate",
+        "dark": true
+    },
+    "background":           "#3d3d4c",
+    "foreground":           "#ebebf4",
+    "first":                "#566981",
+    "second":               "#89a7b1",
+    "third":                "#cbdad5",
+    "fourth":               "#566981",
+    "fifth":                "#89a7b1",
+    "comment":              "#6c6c87",
+    "string":               "#9eb2d9",
+    "number":               "#9eb2d9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#566981",
+    "caret":                "#f8f8f0",
+    "brackets":             "#566981",
+    "bracket_content":      "#89a7b1"
+}

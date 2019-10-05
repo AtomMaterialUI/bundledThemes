@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Stealth",
+        "slug": "stealth",
+        "dark": true
+    },
+    "background":           "#27292b",
+    "foreground":           "#5f656d",
+    "first":                "#3c4044",
+    "second":               "#474c51",
+    "third":                "#545a60",
+    "fourth":               "#474c51",
+    "fifth":                "#3c4044",
+    "comment":              "#323538",
+    "string":               "#545a60",
+    "number":               "#545a60",
+    "selection_foreground": "#333333",
+    "selection_background": "#ffffff",
+    "caret":                "#f8f8f0",
+    "brackets":             "#5f656d",
+    "bracket_content":      "#5f656d",
+    "variables":            "#727982"
+}

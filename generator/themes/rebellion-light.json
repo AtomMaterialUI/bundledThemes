@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Rebellion Light",
+        "slug": "rebellion-light",
+        "dark": false
+    },
+    "background":           "#ede8de",
+    "foreground":           "#443a27",
+    "first":                "#FE5F00",
+    "second":               "#988F2A",
+    "third":                "#8e7547",
+    "fourth":               "#FE5F00",
+    "fifth":                "#988F2A",
+    "comment":              "#8e8e70",
+    "string":               "#fdb825",
+    "number":               "#fd9825",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#FE5F00",
+    "caret":                "#222222",
+    "brackets":             "#443a27",
+    "bracket_content":      "#443a27",
+    "variables":            "#705e3d"
+}

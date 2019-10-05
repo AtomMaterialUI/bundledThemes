@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Blink",
+        "slug": "blink",
+        "dark": true
+    },
+    "background":           "#283035",
+    "foreground":           "#c0ccdb",
+    "first":                "#5298c4",
+    "second":               "#D4856A",
+    "third":                "#43B5B3",
+    "fourth":               "#D4856A",
+    "fifth":                "#43B5B3",
+    "comment":              "#4e5c66",
+    "string":               "#84c4ce",
+    "number":               "#529ca8",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#43B5B3",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

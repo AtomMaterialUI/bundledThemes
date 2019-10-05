@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Solarflare Light",
+        "slug": "solarflare-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#222222",
+    "first":                "#d87627",
+    "second":               "#ff4e50",
+    "third":                "#c6bb15",
+    "fourth":               "#ff4e50",
+    "fifth":                "#d87627",
+    "comment":              "#999999",
+    "string":               "#c6bb15",
+    "number":               "#ff4e50",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff4e50",
+    "caret":                "#222222",
+    "brackets":             "#222222",
+    "bracket_content":      "#222222"
+}

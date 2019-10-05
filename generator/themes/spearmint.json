@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Spearmint",
+        "slug": "spearmint",
+        "dark": true
+    },
+    "background":           "#415654",
+    "foreground":           "#c9dbd9",
+    "first":                "#69adb5",
+    "second":               "#25808a",
+    "third":                "#4cd7e0",
+    "fourth":               "#69adb5",
+    "fifth":                "#199fa8",
+    "comment":              "#749995",
+    "string":               "#4cd7e0",
+    "number":               "#199fa8",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#25808a",
+    "caret":                "#ffffff",
+    "brackets":             "#69adb5",
+    "bracket_content":      "#25808a"
+}

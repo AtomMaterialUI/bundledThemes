@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Patriot Light",
+        "slug": "patriot-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#de333c",
+    "second":               "#2e6fd9",
+    "third":                "#333333",
+    "fourth":               "#aaaaaa",
+    "fifth":                "#de333c",
+    "comment":              "#aaaaaa",
+    "string":               "#3790de",
+    "number":               "#2e6fd9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#de333c",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333"
+}

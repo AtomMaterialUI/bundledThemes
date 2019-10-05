@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Peacock Light",
+        "slug": "peacock-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#26a6a6",
+    "second":               "#ff5d38",
+    "third":                "#bcd42a",
+    "fourth":               "#26a6a6",
+    "fifth":                "#ff5d38",
+    "comment":              "#bbbbbb",
+    "string":               "#bcd42a",
+    "number":               "#bcd42a",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff5d38",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333"
+}

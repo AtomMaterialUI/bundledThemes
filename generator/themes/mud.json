@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Mud",
+        "slug": "mud",
+        "dark": true
+    },
+    "background":           "#403635",
+    "foreground":           "#ffffff",
+    "first":                "#e9c865",
+    "second":               "#ff9787",
+    "third":                "#b5db99",
+    "fourth":               "#ff9787",
+    "fifth":                "#e9c865",
+    "comment":              "#c3b8b7",
+    "string":               "#b5db99",
+    "number":               "#b5db99",
+    "selection_foreground": "#4e653d",
+    "selection_background": "#b5db99",
+    "caret":                "#f8f8f0",
+    "brackets":             "#e9c865",
+    "bracket_content":      "#ff9787"
+}

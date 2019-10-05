@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Hawaii Light",
+        "slug": "hawaii-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#6d6764",
+    "variables":            "#6d6764",
+    "first":                "#edbd44",
+    "second":               "#F75431",
+    "third":                "#52b4d8",
+    "fourth":               "#e2922f",
+    "fifth":                "#92d8e8",
+    "comment":              "#c4b5ae",
+    "string":               "#a2d66b",
+    "number":               "#88c448",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#F75431",
+    "caret":                "#333333",
+    "brackets":             "#6d6764",
+    "bracket_content":      "#6d6764"
+}

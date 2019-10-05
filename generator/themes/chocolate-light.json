@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Chocolate Light",
+        "slug": "chocolate-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#150f08",
+    "first":                "#5b472c",
+    "second":               "#a08f76",
+    "third":                "#b5a48d",
+    "fourth":               "#8e744f",
+    "fifth":                "#5b472c",
+    "comment":              "#e2cdb0",
+    "string":               "#f7a21b",
+    "number":               "#f7a21b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#8b6e46",
+    "caret":                "#222222",
+    "brackets":             "#150f08",
+    "bracket_content":      "#150f08"
+}

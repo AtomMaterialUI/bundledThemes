@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Halflife",
+        "slug": "halflife",
+        "dark": true
+    },
+    "background":           "#222222",
+    "foreground":           "#cccccc",
+    "first":                "#fc913a",
+    "second":               "#7d8991",
+    "third":                "#f9d423",
+    "fourth":               "#7d8991",
+    "fifth":                "#f85931",
+    "comment":              "#555555",
+    "string":               "#f9d423",
+    "number":               "#f9d423",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f85931",
+    "caret":                "#f8f8f0",
+    "brackets":             "#fc913a",
+    "bracket_content":      "#7d8991"
+}

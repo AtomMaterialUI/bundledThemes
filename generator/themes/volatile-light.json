@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Volatile Light",
+        "slug": "volatile-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#474f56",
+    "first":                "#EE9C3D",
+    "second":               "#568769",
+    "third":                "#474f56",
+    "fourth":               "#EE9C3D",
+    "fifth":                "#568769",
+    "comment":              "#98a3ad",
+    "string":               "#DAC25C",
+    "number":               "#db5a51",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#568769",
+    "caret":                "#333333",
+    "variables":            "#30353a"
+}

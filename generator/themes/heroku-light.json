@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Heroku Light",
+        "slug": "heroku-light",
+        "dark": false
+    },
+    "background":           "#f7f7fc",
+    "foreground":           "#1b1b24",
+    "first":                "#585480",
+    "second":               "#7873ae",
+    "third":                "#b0add3",
+    "fourth":               "#7873ae",
+    "fifth":                "#6daf36",
+    "comment":              "#505067",
+    "string":               "#6daf36",
+    "number":               "#6daf36",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7873ae",
+    "caret":                "#222222",
+    "brackets":             "#1b1b24",
+    "bracket_content":      "#1b1b24"
+}

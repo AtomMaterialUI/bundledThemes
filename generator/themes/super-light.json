@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Super Light",
+        "slug": "super-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#5d67ad",
+    "second":               "#d60257",
+    "third":                "#e45635",
+    "fourth":               "#5d67ad",
+    "fifth":                "#e45635",
+    "comment":              "#999999",
+    "string":               "#f7a21b",
+    "number":               "#f7a21b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#e45635",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333"
+}

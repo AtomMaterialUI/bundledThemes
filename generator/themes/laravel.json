@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Laravel",
+        "slug": "laravel",
+        "dark": true
+    },
+    "background":           "#2e2c2b",
+    "foreground":           "#dedede",
+    "first":                "#ffc48c",
+    "second":               "#fc6b0a",
+    "third":                "#fc580c",
+    "fourth":               "#ffa927",
+    "fifth":                "#ffc48c",
+    "comment":              "#615953",
+    "string":               "#fdca49",
+    "number":               "#fc580c",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#cd724e",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffc48c",
+    "bracket_content":      "#fc580c"
+}

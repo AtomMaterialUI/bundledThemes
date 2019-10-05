@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Friction Light",
+        "slug": "friction-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#38363f",
+    "first":                "#8d89a5",
+    "second":               "#6AA7A7",
+    "third":                "#c2bed6",
+    "fourth":               "#8d89a5",
+    "fifth":                "#6AA7A7",
+    "comment":              "#545263",
+    "string":               "#bc6b79",
+    "number":               "#bcae6b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#6AA7A7",
+    "caret":                "#333333",
+    "variables":            "#403e4c"
+}

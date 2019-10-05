@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Horizon Light",
+        "slug": "horizon-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#474466",
+    "first":                "#FD8A25",
+    "second":               "#ba66d6",
+    "third":                "#FED230",
+    "fourth":               "#E5194B",
+    "fifth":                "#E524A9",
+    "comment":              "#736faa",
+    "string":               "#FD8A25",
+    "number":               "#E524A9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#FD8A25",
+    "caret":                "#222222",
+    "brackets":             "#474466",
+    "bracket_content":      "#474466",
+    "variables":            "#686491"
+}

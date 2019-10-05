@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Azure",
+        "slug": "azure",
+        "dark": true
+    },
+    "background":           "#181d26",
+    "foreground":           "#ffffff",
+    "first":                "#6ab0a3",
+    "second":               "#52708b",
+    "third":                "#508aaa",
+    "fourth":               "#508aaa",
+    "fifth":                "#6ab0a3",
+    "comment":              "#414d62",
+    "string":               "#64aeb3",
+    "number":               "#64aeb3",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#47959a",
+    "caret":                "#f8f8f0",
+    "brackets":             "#c43535",
+    "bracket_content":      "#5f5582",
+    "variables":            "#ffffff"
+}

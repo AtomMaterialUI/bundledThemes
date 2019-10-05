@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Prime Light",
+        "slug": "prime-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#3d3d5b",
+    "variables":            "#3d3d5b",
+    "first":                "#9d50ba",
+    "second":               "#EE4266",
+    "third":                "#FFD23F",
+    "fourth":               "#727c6f",
+    "fifth":                "#EE4266",
+    "comment":              "#a7a7e2",
+    "string":               "#a2d66b",
+    "number":               "#88c448",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#EE4266",
+    "caret":                "#333333",
+    "brackets":             "#3d3d5b",
+    "bracket_content":      "#3d3d5b"
+}

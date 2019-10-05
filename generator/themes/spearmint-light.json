@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Spearmint Light",
+        "slug": "spearmint-light",
+        "dark": false
+    },
+    "background":           "#e1f0ee",
+    "foreground":           "#719692",
+    "first":                "#69adb5",
+    "second":               "#25808a",
+    "third":                "#4cd7e0",
+    "fourth":               "#69adb5",
+    "fifth":                "#199fa8",
+    "comment":              "#93c7c0",
+    "string":               "#4cd7e0",
+    "number":               "#199fa8",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#25808a",
+    "caret":                "#444444",
+    "brackets":             "#69adb5",
+    "bracket_content":      "#25808a"
+}

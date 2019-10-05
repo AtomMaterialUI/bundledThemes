@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Heroku",
+        "slug": "heroku",
+        "dark": true
+    },
+    "background":           "#1b1b24",
+    "foreground":           "#c8c7d5",
+    "first":                "#585480",
+    "second":               "#7873ae",
+    "third":                "#ffffff",
+    "fourth":               "#7873ae",
+    "fifth":                "#a6fa62",
+    "comment":              "#505067",
+    "string":               "#a6fa62",
+    "number":               "#a6fa62",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#7873ae",
+    "caret":                "#f8f8f0",
+    "brackets":             "#7873ae",
+    "bracket_content":      "#a6fa62"
+}

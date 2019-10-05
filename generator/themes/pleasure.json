@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Pleasure",
+        "slug": "pleasure",
+        "dark": true
+    },
+    "background":           "#32373d",
+    "foreground":           "#c0ccdb",
+    "first":                "#a175ba",
+    "second":               "#DD5D7A",
+    "third":                "#A1CBC6",
+    "fourth":               "#DD5D7A",
+    "fifth":                "#A1CBC6",
+    "comment":              "#76818e",
+    "string":               "#5685ce",
+    "number":               "#a175ba",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#A1CBC6",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

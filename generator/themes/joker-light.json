@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Joker Light",
+        "slug": "joker-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#4a5159",
+    "first":                "#00b27d",
+    "second":               "#9a6fc4",
+    "third":                "#4a5159",
+    "fourth":               "#00b27d",
+    "fifth":                "#9a6fc4",
+    "comment":              "#acb5bf",
+    "string":               "#76818e",
+    "number":               "#aaaaaa",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#00b27d",
+    "caret":                "#333333",
+    "variables":            "#383e44"
+}

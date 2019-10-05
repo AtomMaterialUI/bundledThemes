@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "FreshCut",
+        "slug": "freshcut",
+        "dark": true
+    },
+    "background":           "#2f3030",
+    "foreground":           "#f8f8f2",
+    "first":                "#4ecdc4",
+    "second":               "#00a8c6",
+    "third":                "#aee239",
+    "fourth":               "#c8d7e8",
+    "fifth":                "#4ecdc4",
+    "comment":              "#737b84",
+    "string":               "#e9ee00",
+    "number":               "#8fbe00",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#008097",
+    "caret":                "#f8f8f0",
+    "brackets":             "#4ecdc4",
+    "bracket_content":      "#00a8c6"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Downpour",
+        "slug": "downpour",
+        "dark": true
+    },
+    "background":           "#2c323d",
+    "foreground":           "#d6dbdb",
+    "first":                "#bc4331",
+    "second":               "#908bbc",
+    "third":                "#91b9c9",
+    "fourth":               "#abaab7",
+    "fifth":                "#908bbc",
+    "comment":              "#625e77",
+    "string":               "#63a5a5",
+    "number":               "#4eadad",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#908bbc",
+    "caret":                "#f8f8f0",
+    "brackets":             "#d6dbdb",
+    "bracket_content":      "#d6dbdb",
+    "variables":            "#ffffff"
+}

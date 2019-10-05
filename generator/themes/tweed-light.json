@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Tweed Light",
+        "slug": "tweed-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#585e6d",
+    "first":                "#585e6d",
+    "second":               "#5E9989",
+    "third":                "#CAB696",
+    "fourth":               "#E2975F",
+    "fifth":                "#E75B4B",
+    "comment":              "#c7cee0",
+    "string":               "#e7a84b",
+    "number":               "#e7a84b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#d3643b",
+    "caret":                "#333333",
+    "brackets":             "#585e6d",
+    "bracket_content":      "#585e6d"
+}

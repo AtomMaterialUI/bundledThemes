@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Jumper",
+        "slug": "jumper",
+        "dark": true
+    },
+    "background":           "#222a2a",
+    "foreground":           "#8da0a0",
+    "first":                "#36a595",
+    "second":               "#F6DA40",
+    "third":                "#db515c",
+    "fourth":               "#e08e4c",
+    "fifth":                "#36a595",
+    "comment":              "#4e6060",
+    "string":               "#63a5a5",
+    "number":               "#4eadad",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#36a595",
+    "caret":                "#f8f8f0",
+    "brackets":             "#8da0a0",
+    "bracket_content":      "#8da0a0",
+    "variables":            "#d0e8e8"
+}

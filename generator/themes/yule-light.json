@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Yule Light",
+        "slug": "yule-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#39b81f",
+    "second":               "#d63131",
+    "third":                "#ebb626",
+    "fourth":               "#39b81f",
+    "fifth":                "#d63131",
+    "comment":              "#aaaaaa",
+    "string":               "#ebb626",
+    "number":               "#ebb626",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#d63131",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444"
+}

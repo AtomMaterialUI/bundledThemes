@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Volatile",
+        "slug": "volatile",
+        "dark": true
+    },
+    "background":           "#32373d",
+    "foreground":           "#c0ccdb",
+    "first":                "#EE9C3D",
+    "second":               "#568769",
+    "third":                "#ffffff",
+    "fourth":               "#EE9C3D",
+    "fifth":                "#568769",
+    "comment":              "#76818e",
+    "string":               "#DAC25C",
+    "number":               "#db5a51",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#568769",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

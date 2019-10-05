@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Kiwi Light",
+        "slug": "kiwi-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#555555",
+    "first":                "#229986",
+    "second":               "#95c72a",
+    "third":                "#0b6d5c",
+    "fourth":               "#229986",
+    "fifth":                "#95c72a",
+    "comment":              "#cccccc",
+    "string":               "#79b595",
+    "number":               "#79b595",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#0b6d5c",
+    "caret":                "#222222",
+    "brackets":             "#555555",
+    "bracket_content":      "#555555",
+    "variables":            "#222222"
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Gloom Light",
+        "slug": "gloom-light",
+        "dark": false
+    },
+    "background":           "#d8ebe5",
+    "foreground":           "#2a332b",
+    "first":                "#26a6a6",
+    "second":               "#ff5d38",
+    "third":                "#98ad0d",
+    "fourth":               "#26a6a6",
+    "fifth":                "#ff5d38",
+    "comment":              "#4f6e64",
+    "string":               "#98ad0d",
+    "number":               "#98ad0d",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff5d38",
+    "caret":                "#222222",
+    "brackets":             "#2a332b",
+    "bracket_content":      "#2a332b"
+}

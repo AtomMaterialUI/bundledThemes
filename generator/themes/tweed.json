@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Tweed",
+        "slug": "tweed",
+        "dark": true
+    },
+    "background":           "#3b3f4c",
+    "foreground":           "#ffffff",
+    "first":                "#777f93",
+    "second":               "#5E9989",
+    "third":                "#CAB696",
+    "fourth":               "#E2975F",
+    "fifth":                "#E75B4B",
+    "comment":              "#4d5363",
+    "string":               "#e7a84b",
+    "number":               "#e7a84b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#d3643b",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

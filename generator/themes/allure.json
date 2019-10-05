@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Allure",
+        "slug": "allure",
+        "dark": true
+    },
+    "background":           "#32373d",
+    "foreground":           "#c0ccdb",
+    "first":                "#5DA892",
+    "second":               "#E4D294",
+    "third":                "#ffffff",
+    "fourth":               "#5DA892",
+    "fifth":                "#E4D294",
+    "comment":              "#76818e",
+    "string":               "#cec86f",
+    "number":               "#cea36f",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#5DA892",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

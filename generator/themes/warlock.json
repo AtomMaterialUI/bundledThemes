@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Warlock",
+        "slug": "warlock",
+        "dark": true
+    },
+    "background":           "#4b4060",
+    "foreground":           "#ffffff",
+    "first":                "#F46036",
+    "second":               "#7eb1dd",
+    "third":                "#7c86d6",
+    "fourth":               "#b67ae8",
+    "fifth":                "#F46036",
+    "comment":              "#7c6d96",
+    "string":               "#f78362",
+    "number":               "#f7a261",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#725AC1",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff",
+    "variables":            "#ffffff"
+}

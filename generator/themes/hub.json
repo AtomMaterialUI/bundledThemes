@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Hub",
+        "slug": "hub",
+        "dark": true
+    },
+    "background":           "#3b444c",
+    "foreground":           "#ffffff",
+    "first":                "#e85362",
+    "second":               "#5392db",
+    "third":                "#5392db",
+    "fourth":               "#e85362",
+    "fifth":                "#9b78db",
+    "comment":              "#718493",
+    "string":               "#9fbde0",
+    "number":               "#9fbde0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#077cf9",
+    "caret":                "#ffffff",
+    "brackets":             "#24292e",
+    "bracket_content":      "#24292e"
+}

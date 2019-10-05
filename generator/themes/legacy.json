@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Legacy",
+        "slug": "legacy",
+        "dark": true
+    },
+    "background":           "#212933",
+    "foreground":           "#aec2e0",
+    "first":                "#267fb5",
+    "second":               "#ffffff",
+    "third":                "#ffb20d",
+    "fourth":               "#748aa6",
+    "fifth":                "#267fb5",
+    "comment":              "#425972",
+    "string":               "#ff410d",
+    "number":               "#c7f026",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff410d",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffb20d",
+    "bracket_content":      "#267fb5",
+    "variables":            "#f1f6fb",
+    "ui_first":             "#267fb5",
+
+    "vscode_button_background": "#ffb20d"
+}

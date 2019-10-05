@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Arstotzka Light",
+        "slug": "arstotzka-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#a2a797",
+    "second":               "#516b6b",
+    "third":                "#70807b",
+    "fourth":               "#a2a797",
+    "fifth":                "#cf433e",
+    "comment":              "#bbbbbb",
+    "string":               "#7ebcaa",
+    "number":               "#7ebcaa",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#516b6b",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333",
+    "variables":            "#bcbbb8"
+}

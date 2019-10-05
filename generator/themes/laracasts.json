@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Laracasts",
+        "slug": "laracasts",
+        "dark": true
+    },
+    "background":           "#4d545d",
+    "foreground":           "#c0ccdb",
+    "first":                "#00b1b3",
+    "second":               "#ef6733",
+    "third":                "#ffffff",
+    "fourth":               "#00b1b3",
+    "fifth":                "#ef6733",
+    "comment":              "#76818e",
+    "string":               "#98d5d6",
+    "number":               "#c68369",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#00b1b3",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

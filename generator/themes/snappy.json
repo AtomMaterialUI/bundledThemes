@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Snappy",
+        "slug": "snappy",
+        "dark": true
+    },
+    "background":           "#393939",
+    "foreground":           "#e3e2e0",
+    "first":                "#4ea1df",
+    "second":               "#f66153",
+    "third":                "#808dd3",
+    "fourth":               "#f66153",
+    "fifth":                "#808dd3",
+    "comment":              "#696969",
+    "string":               "#4ea1df",
+    "number":               "#4ea1df",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#f66153",
+    "caret":                "#f8f8f0",
+    "brackets":             "#808dd3",
+    "bracket_content":      "#f66153"
+}

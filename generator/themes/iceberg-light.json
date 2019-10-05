@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Iceberg Light",
+        "slug": "iceberg-light",
+        "dark": false
+    },
+    "background":           "#bdd6db",
+    "foreground":           "#323b3d",
+    "first":                "#499fbc",
+    "second":               "#2d8da1",
+    "third":                "#323b3d",
+    "fourth":               "#7ea3af",
+    "fifth":                "#323b3d",
+    "comment":              "#7e9296",
+    "string":               "#2d8da1",
+    "number":               "#2d8da1",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#2d8da1",
+    "caret":                "#222222",
+    "brackets":             "#323b3d",
+    "bracket_content":      "#323b3d"
+}

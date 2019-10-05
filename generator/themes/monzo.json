@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Monzo",
+        "slug": "monzo",
+        "dark": true
+    },
+    "background":           "#15243B",
+    "foreground":           "#b0cbf4",
+    "first":                "#98BAA6",
+    "second":               "#247888",
+    "third":                "#E6CE9F",
+    "fourth":               "#E14D61",
+    "fifth":                "#247888",
+    "comment":              "#2c4c7c",
+    "string":               "#F63A4E",
+    "number":               "#3ea7bc",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#98BAA6",
+    "caret":                "#f8f8f0",
+    "brackets":             "#b0cbf4",
+    "bracket_content":      "#b0cbf4",
+    "variables":            "#eff3f9"
+}

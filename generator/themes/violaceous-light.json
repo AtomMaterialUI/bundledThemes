@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Violaceous Light",
+        "slug": "violaceous-light",
+        "dark": false
+    },
+    "background":           "#e5e3ef",
+    "foreground":           "#444349",
+    "first":                "#725AC1",
+    "second":               "#8D86C9",
+    "third":                "#8d8593",
+    "fourth":               "#725AC1",
+    "fifth":                "#8d8593",
+    "comment":              "#594b87",
+    "string":               "#b58ad1",
+    "number":               "#944fc1",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#725AC1",
+    "caret":                "#222222",
+    "brackets":             "#444349",
+    "bracket_content":      "#444349",
+    "variables":            "#585566"
+}

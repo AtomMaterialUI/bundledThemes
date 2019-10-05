@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Absent",
+        "slug": "absent",
+        "dark": true
+    },
+    "background":           "#252c33",
+    "foreground":           "#aeb9c4",
+    "first":                "#228a96",
+    "second":               "#6BA77F",
+    "third":                "#e6eaef",
+    "fourth":               "#228a96",
+    "fifth":                "#6BA77F",
+    "comment":              "#44515e",
+    "string":               "#addbbc",
+    "number":               "#61bcc6",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#228a96",
+    "caret":                "#ffffff",
+    "variables":            "#bed0e2"
+}

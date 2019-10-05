@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Potpourri Light",
+        "slug": "potpourri-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#c491c4",
+    "second":               "#ed1153",
+    "third":                "#b866fa",
+    "fourth":               "#ed1153",
+    "fifth":                "#f76acb",
+    "comment":              "#bbbbbb",
+    "string":               "#b866fa",
+    "number":               "#c84ff0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ed1153",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333"
+}

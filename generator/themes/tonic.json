@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Tonic",
+        "slug": "tonic",
+        "dark": true
+    },
+    "background":           "#2a2f31",
+    "foreground":           "#eeeeee",
+    "first":                "#75a1a4",
+    "second":               "#b8cd44",
+    "third":                "#fd9f59",
+    "fourth":               "#ef6e44",
+    "fifth":                "#b8cd44",
+    "comment":              "#4a5356",
+    "string":               "#b8cd44",
+    "number":               "#b8cd44",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#75a1a4",
+    "caret":                "#f8f8f0",
+    "brackets":             "#9d8262",
+    "bracket_content":      "#008d62"
+}

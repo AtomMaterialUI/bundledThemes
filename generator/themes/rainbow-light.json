@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Rainbow Light",
+        "slug": "rainbow-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#b3cc57",
+    "second":               "#ef746f",
+    "third":                "#ffbe40",
+    "fourth":               "#3fb4c5",
+    "fifth":                "#f86f50",
+    "comment":              "#aaaaaa",
+    "string":               "#c78feb",
+    "number":               "#c78feb",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#b3cc57",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444",
+    "variables":            "#777777"
+}

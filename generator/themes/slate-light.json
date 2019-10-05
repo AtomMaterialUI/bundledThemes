@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Slate Light",
+        "slug": "slate-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#19191f",
+    "first":                "#566981",
+    "second":               "#89a7b1",
+    "third":                "#9aada7",
+    "fourth":               "#566981",
+    "fifth":                "#89a7b1",
+    "comment":              "#8282a0",
+    "string":               "#9eb2d9",
+    "number":               "#9eb2d9",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#566981",
+    "caret":                "#222222",
+    "brackets":             "#19191f",
+    "bracket_content":      "#19191f"
+}

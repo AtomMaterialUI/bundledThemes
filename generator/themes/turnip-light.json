@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Turnip Light",
+        "slug": "turnip-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#444444",
+    "first":                "#92b55f",
+    "second":               "#487d76",
+    "third":                "#e8da5e",
+    "fourth":               "#92b55f",
+    "fifth":                "#487d76",
+    "comment":              "#aaaaaa",
+    "string":               "#e8da5e",
+    "number":               "#e8da5e",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#487d76",
+    "caret":                "#222222",
+    "brackets":             "#444444",
+    "bracket_content":      "#444444"
+}

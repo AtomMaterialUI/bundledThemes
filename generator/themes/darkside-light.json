@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Darkside Light",
+        "slug": "darkside-light",
+        "dark": false
+    },
+    "background":           "#e0e0e0",
+    "foreground":           "#222324",
+    "first":                "#15a2c1",
+    "second":               "#bf2713",
+    "third":                "#4b8e30",
+    "fourth":               "#c1721d",
+    "fifth":                "#7b5baf",
+    "comment":              "#494b4d",
+    "string":               "#4b8e30",
+    "number":               "#7b5baf",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ff4e50",
+    "caret":                "#222222",
+    "brackets":             "#222324",
+    "bracket_content":      "#222324"
+}

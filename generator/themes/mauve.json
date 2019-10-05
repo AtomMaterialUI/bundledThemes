@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Mauve",
+        "slug": "mauve",
+        "dark": true
+    },
+    "background":           "#372638",
+    "foreground":           "#af92b2",
+    "variables":            "#e3d0e5",
+    "first":                "#C89933",
+    "second":               "#74526C",
+    "third":                "#DBD053",
+    "fourth":               "#C89933",
+    "fifth":                "#DBD053",
+    "comment":              "#614263",
+    "string":               "#baa353",
+    "number":               "#d8b436",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#C89933",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

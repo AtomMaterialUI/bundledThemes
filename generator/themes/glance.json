@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Glance",
+        "slug": "glance",
+        "dark": true
+    },
+    "background":           "#2D3142",
+    "foreground":           "#ffffff",
+    "first":                "#EF8354",
+    "second":               "#6e81a0",
+    "third":                "#FFFFFF",
+    "fourth":               "#EF8354",
+    "fifth":                "#6e81a0",
+    "comment":              "#726c87",
+    "string":               "#83ba7c",
+    "number":               "#7cb8ba",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#EF8354",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff",
+    "variables":            "#ffffff"
+}

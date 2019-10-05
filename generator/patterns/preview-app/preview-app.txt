@@ -1,0 +1,1 @@
+'{{meta.slug}}': {name: '{{meta.name}}', dark: {{{meta.dark}}}, foreground: '{{foreground}}', background: '{{background}}', comment: '{{comment}}', string: '{{string}}', number: '{{number}}', first: '{{first}}', second: '{{second}}', third: '{{third}}', fourth: '{{fourth}}', fifth: '{{fifth}}'}

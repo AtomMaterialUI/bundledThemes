@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Tonic Light",
+        "slug": "tonic-light",
+        "dark": false
+    },
+    "background":           "#eeeeee",
+    "foreground":           "#2a2f31",
+    "first":                "#75a1a4",
+    "second":               "#b8cd44",
+    "third":                "#fd9f59",
+    "fourth":               "#ef6e44",
+    "fifth":                "#b8cd44",
+    "comment":              "#aaaaaa",
+    "string":               "#b8cd44",
+    "number":               "#b8cd44",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ef6e44",
+    "caret":                "#222222",
+    "brackets":             "#2a2f31",
+    "bracket_content":      "#2a2f31"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Loyal Light",
+        "slug": "loyal-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#413e4f",
+    "variables":            "#413e4f",
+    "first":                "#3CBBB1",
+    "second":               "#EE4266",
+    "third":                "#b3adba",
+    "fourth":               "#9484d6",
+    "fifth":                "#b3adba",
+    "comment":              "#9d96bc",
+    "string":               "#e5c71b",
+    "number":               "#e5c71b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#3CBBB1",
+    "caret":                "#222222",
+    "brackets":             "#413e4f",
+    "bracket_content":      "#413e4f"
+}

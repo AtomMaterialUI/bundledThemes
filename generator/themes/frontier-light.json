@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Frontier Light",
+        "slug": "frontier-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#36312c",
+    "first":                "#1a724a",
+    "second":               "#b22727",
+    "third":                "#af8323",
+    "fourth":               "#ba5a27",
+    "fifth":                "#1a724a",
+    "comment":              "#cccccc",
+    "string":               "#f8bb39",
+    "number":               "#1a724a",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#1a724a",
+    "caret":                "#222222",
+    "brackets":             "#36312c",
+    "bracket_content":      "#36312c"
+}

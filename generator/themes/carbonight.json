@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Carbonight",
+        "slug": "carbonight",
+        "dark": true
+    },
+    "background":           "#2e2c2b",
+    "foreground":           "#b0b0b0",
+    "first":                "#c4c4c4",
+    "second":               "#8c8c8c",
+    "third":                "#ffffff",
+    "fourth":               "#eeeeee",
+    "fifth":                "#ffffff",
+    "comment":              "#423f3d",
+    "string":               "#ffffff",
+    "number":               "#b0b0b0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#8c8c8c",
+    "caret":                "#f8f8f0",
+    "brackets":             "#c4c4c4",
+    "bracket_content":      "#8c8c8c",
+
+    "first_contrast": "#2e2c2b"
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Bold",
+        "slug": "bold",
+        "dark": true
+    },
+    "background":           "#2a2626",
+    "foreground":           "#ffffff",
+    "first":                "#3d8e91",
+    "second":               "#f0624b",
+    "third":                "#b4b7ad",
+    "fourth":               "#f0624b",
+    "fifth":                "#3d8e91",
+    "comment":              "#534b4b",
+    "string":               "#f7a21b",
+    "number":               "#f7a21b",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#3d8e91",
+    "caret":                "#f8f8f0",
+    "brackets":             "#3d8e91",
+    "bracket_content":      "#f0624b"
+}

@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Joker",
+        "slug": "joker",
+        "dark": true
+    },
+    "background":           "#32373d",
+    "foreground":           "#c0ccdb",
+    "first":                "#00b27d",
+    "second":               "#9a6fc4",
+    "third":                "#ffffff",
+    "fourth":               "#00b27d",
+    "fifth":                "#9a6fc4",
+    "comment":              "#76818e",
+    "string":               "#cccccc",
+    "number":               "#aaaaaa",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#00b27d",
+    "caret":                "#ffffff",
+    "variables":            "#ffffff"
+}

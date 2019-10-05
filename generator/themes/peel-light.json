@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Peel Light",
+        "slug": "peel-light",
+        "dark": false
+    },
+    "background":           "#ffffff",
+    "foreground":           "#333333",
+    "first":                "#94c7b6",
+    "second":               "#d3643b",
+    "third":                "#b2bca4",
+    "fourth":               "#94c7b6",
+    "fifth":                "#d3643b",
+    "comment":              "#aaaaaa",
+    "string":               "#f4d370",
+    "number":               "#f4d370",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#d3643b",
+    "caret":                "#222222",
+    "brackets":             "#333333",
+    "bracket_content":      "#333333",
+    "variables":            "#666666"
+}

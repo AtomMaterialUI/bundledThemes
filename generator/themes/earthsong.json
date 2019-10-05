@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Earthsong",
+        "slug": "earthsong",
+        "dark": true
+    },
+    "background":           "#36312c",
+    "foreground":           "#ebd1b7",
+    "first":                "#95cc5e",
+    "second":               "#db784d",
+    "third":                "#60a365",
+    "fourth":               "#db784d",
+    "fifth":                "#95cc5e",
+    "comment":              "#7a7267",
+    "string":               "#f8bb39",
+    "number":               "#f8bb39",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#db784d",
+    "caret":                "#f8f8f0",
+    "brackets":             "#db784d",
+    "bracket_content":      "#95cc5e",
+
+    "jetbrains_html_attributes": "#db784d"
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Potpourri",
+        "slug": "potpourri",
+        "dark": true
+    },
+    "background":           "#2e2b2c",
+    "foreground":           "#f8f8f2",
+    "first":                "#c491c4",
+    "second":               "#ed1153",
+    "third":                "#b866fa",
+    "fourth":               "#ed1153",
+    "fifth":                "#f76acb",
+    "comment":              "#696363",
+    "string":               "#b866fa",
+    "number":               "#c84ff0",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#ed1153",
+    "caret":                "#f8f8f0",
+    "brackets":             "#c491c4",
+    "bracket_content":      "#ed1153"
+}

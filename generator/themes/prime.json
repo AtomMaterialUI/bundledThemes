@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Prime",
+        "slug": "prime",
+        "dark": true
+    },
+    "background":           "#202030",
+    "foreground":           "#9090b2",
+    "variables":            "#d5d5e8",
+    "first":                "#9d50ba",
+    "second":               "#EE4266",
+    "third":                "#FFD23F",
+    "fourth":               "#F3FCF0",
+    "fifth":                "#EE4266",
+    "comment":              "#4c4c70",
+    "string":               "#a2d66b",
+    "number":               "#88c448",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#EE4266",
+    "caret":                "#f8f8f0",
+    "brackets":             "#ffffff",
+    "bracket_content":      "#ffffff"
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Isotope",
+        "slug": "isotope",
+        "dark": true
+    },
+    "background":           "#454955",
+    "foreground":           "#F3EFF5",
+    "first":                "#72B01D",
+    "second":               "#b3dd49",
+    "third":                "#ffffff",
+    "fourth":               "#b3dd49",
+    "fifth":                "#72B01D",
+    "comment":              "#7b85a0",
+    "string":               "#86baba",
+    "number":               "#afd1d1",
+    "selection_foreground": "#ffffff",
+    "selection_background": "#b3dd49",
+    "caret":                "#f8f8f0",
+    "brackets":             "#F3EFF5",
+    "bracket_content":      "#F3EFF5",
+    "variables":            "#ffffff"
+}
