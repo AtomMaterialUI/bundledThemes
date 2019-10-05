@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>turnip</id>
+  <editorColorsScheme>Turnip (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Turnip</name>
+  <colors>
+    <color id="background" value="1a1b1dff"/>
+    <color id="foreground" value="ede0ceff"/>
+    <color id="text" value="dfc8a9ff"/>
+    <color id="highlight" value="4a4d53ff"/>
+    <color id="selectionBackground" value="487d7655"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="0e0e10ff"/>
+    <color id="secondaryBackground" value="26282aff"/>
+    <color id="disabled" value="6e737bff"/>
+    <color id="contrast" value="101112ff"/>
+    <color id="tableSelected" value="3e4145ff"/>
+    <color id="secondBorder" value="151618ff"/>
+    <color id="treeSelection" value="487d7650"/>
+    <color id="notifications" value="323438ff"/>
+    <color id="accent" value="92b55fff"/>
+    <color id="excluded" value="2d2f32ff"/>
+  </colors>
+  <themeId>turnip</themeId>
+</mtTheme>

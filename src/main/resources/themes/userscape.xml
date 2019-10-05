@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>userscape</id>
+  <editorColorsScheme>Userscape (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Userscape</name>
+  <colors>
+    <color id="background" value="323a42ff"/>
+    <color id="foreground" value="dce2e8ff"/>
+    <color id="text" value="bdc8d4ff"/>
+    <color id="highlight" value="5e6d7cff"/>
+    <color id="selectionBackground" value="355b8c55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="272d33ff"/>
+    <color id="secondaryBackground" value="3d4750ff"/>
+    <color id="disabled" value="8493a2ff"/>
+    <color id="contrast" value="293036ff"/>
+    <color id="tableSelected" value="53606eff"/>
+    <color id="secondBorder" value="2e353cff"/>
+    <color id="treeSelection" value="507db750"/>
+    <color id="notifications" value="48535fff"/>
+    <color id="accent" value="a8c0e0ff"/>
+    <color id="excluded" value="444e59ff"/>
+  </colors>
+  <themeId>userscape</themeId>
+</mtTheme>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>violaceous</id>
+  <editorColorsScheme>Violaceous (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Violaceous</name>
+  <colors>
+    <color id="background" value="242038ff"/>
+    <color id="foreground" value="bdb2f7ff"/>
+    <color id="text" value="9584f2ff"/>
+    <color id="highlight" value="4e4579ff"/>
+    <color id="selectionBackground" value="725ac155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1a1728ff"/>
+    <color id="secondaryBackground" value="2e2948ff"/>
+    <color id="disabled" value="6f64a6ff"/>
+    <color id="contrast" value="1c192bff"/>
+    <color id="tableSelected" value="433c69ff"/>
+    <color id="secondBorder" value="201c31ff"/>
+    <color id="treeSelection" value="8d86c950"/>
+    <color id="notifications" value="393358ff"/>
+    <color id="accent" value="725ac1ff"/>
+    <color id="excluded" value="352f52ff"/>
+  </colors>
+  <themeId>violaceous</themeId>
+</mtTheme>

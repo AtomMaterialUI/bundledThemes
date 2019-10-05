@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>warlock</id>
+  <editorColorsScheme>Warlock (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Warlock</name>
+  <colors>
+    <color id="background" value="4b4060ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="7b6a9cff"/>
+    <color id="selectionBackground" value="725ac155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="3f3651ff"/>
+    <color id="secondaryBackground" value="574a6fff"/>
+    <color id="disabled" value="a498baff"/>
+    <color id="contrast" value="413854ff"/>
+    <color id="tableSelected" value="6f5f8eff"/>
+    <color id="secondBorder" value="463c5aff"/>
+    <color id="treeSelection" value="7eb1dd50"/>
+    <color id="notifications" value="63547fff"/>
+    <color id="accent" value="f46036ff"/>
+    <color id="excluded" value="5e5078ff"/>
+  </colors>
+  <themeId>warlock</themeId>
+</mtTheme>

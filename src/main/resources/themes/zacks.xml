@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>zacks</id>
+  <editorColorsScheme>Zacks (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Zacks</name>
+  <colors>
+    <color id="background" value="222222ff"/>
+    <color id="foreground" value="f0f0f0ff"/>
+    <color id="text" value="d6d6d6ff"/>
+    <color id="highlight" value="555555ff"/>
+    <color id="selectionBackground" value="9c7ddb55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="151515ff"/>
+    <color id="secondaryBackground" value="2f2f2fff"/>
+    <color id="disabled" value="7b7b7bff"/>
+    <color id="contrast" value="181818ff"/>
+    <color id="tableSelected" value="484848ff"/>
+    <color id="secondBorder" value="1d1d1dff"/>
+    <color id="treeSelection" value="ff6a3850"/>
+    <color id="notifications" value="3b3b3bff"/>
+    <color id="accent" value="9c7ddbff"/>
+    <color id="excluded" value="363636ff"/>
+  </colors>
+  <themeId>zacks</themeId>
+</mtTheme>

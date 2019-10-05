@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>vegetable</id>
+  <editorColorsScheme>Vegetable (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Vegetable</name>
+  <colors>
+    <color id="background" value="2d2627ff"/>
+    <color id="foreground" value="e2dcddff"/>
+    <color id="text" value="cbc0c2ff"/>
+    <color id="highlight" value="645557ff"/>
+    <color id="selectionBackground" value="689d8155"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1f1a1bff"/>
+    <color id="secondaryBackground" value="3b3233ff"/>
+    <color id="disabled" value="8d787bff"/>
+    <color id="contrast" value="221d1dff"/>
+    <color id="tableSelected" value="56494bff"/>
+    <color id="secondBorder" value="272122ff"/>
+    <color id="treeSelection" value="689d8150"/>
+    <color id="notifications" value="493d3fff"/>
+    <color id="accent" value="f0a56cff"/>
+    <color id="excluded" value="43393aff"/>
+  </colors>
+  <themeId>vegetable</themeId>
+</mtTheme>

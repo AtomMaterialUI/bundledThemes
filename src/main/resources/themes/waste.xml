@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>waste</id>
+  <editorColorsScheme>Waste (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Waste</name>
+  <colors>
+    <color id="background" value="1b353aff"/>
+    <color id="foreground" value="b1c7ccff"/>
+    <color id="text" value="92b1b8ff"/>
+    <color id="highlight" value="3b7580ff"/>
+    <color id="selectionBackground" value="43bdb255"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="132529ff"/>
+    <color id="secondaryBackground" value="23454bff"/>
+    <color id="disabled" value="57a2b1ff"/>
+    <color id="contrast" value="15282cff"/>
+    <color id="tableSelected" value="33656eff"/>
+    <color id="secondBorder" value="182f33ff"/>
+    <color id="treeSelection" value="bbd4be50"/>
+    <color id="notifications" value="2b555dff"/>
+    <color id="accent" value="43bdb2ff"/>
+    <color id="excluded" value="284e56ff"/>
+  </colors>
+  <themeId>waste</themeId>
+</mtTheme>

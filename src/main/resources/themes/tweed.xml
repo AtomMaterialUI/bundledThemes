@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>tweed</id>
+  <editorColorsScheme>Tweed (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Tweed</name>
+  <colors>
+    <color id="background" value="3b3f4cff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="686f85ff"/>
+    <color id="selectionBackground" value="d3643b55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="30333eff"/>
+    <color id="secondaryBackground" value="464b5aff"/>
+    <color id="disabled" value="9096a9ff"/>
+    <color id="contrast" value="323541ff"/>
+    <color id="tableSelected" value="5c6377ff"/>
+    <color id="secondBorder" value="373a46ff"/>
+    <color id="treeSelection" value="5e998950"/>
+    <color id="notifications" value="515769ff"/>
+    <color id="accent" value="5e9989ff"/>
+    <color id="excluded" value="4d5263ff"/>
+  </colors>
+  <themeId>tweed</themeId>
+</mtTheme>

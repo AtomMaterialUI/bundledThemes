@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>tron</id>
+  <editorColorsScheme>Tron (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Tron</name>
+  <colors>
+    <color id="background" value="14191fff"/>
+    <color id="foreground" value="aec2e0ff"/>
+    <color id="text" value="89a6d2ff"/>
+    <color id="highlight" value="3c4b5dff"/>
+    <color id="selectionBackground" value="7a9bc255"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="0a0d0fff"/>
+    <color id="secondaryBackground" value="1e262eff"/>
+    <color id="disabled" value="5a708bff"/>
+    <color id="contrast" value="0c0f13ff"/>
+    <color id="tableSelected" value="323f4dff"/>
+    <color id="secondBorder" value="101419ff"/>
+    <color id="treeSelection" value="ffffff50"/>
+    <color id="notifications" value="28323eff"/>
+    <color id="accent" value="267fb5ff"/>
+    <color id="excluded" value="242d38ff"/>
+  </colors>
+  <themeId>tron</themeId>
+</mtTheme>

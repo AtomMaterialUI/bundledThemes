@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>tribal</id>
+  <editorColorsScheme>Tribal (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Tribal</name>
+  <colors>
+    <color id="background" value="393942ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="e6e6e6ff"/>
+    <color id="highlight" value="686879ff"/>
+    <color id="selectionBackground" value="47959a55"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2d2d34ff"/>
+    <color id="secondaryBackground" value="454550ff"/>
+    <color id="disabled" value="8f8f9eff"/>
+    <color id="contrast" value="303037ff"/>
+    <color id="tableSelected" value="5c5c6bff"/>
+    <color id="secondBorder" value="34343dff"/>
+    <color id="treeSelection" value="5f558250"/>
+    <color id="notifications" value="51515dff"/>
+    <color id="accent" value="c43535ff"/>
+    <color id="excluded" value="4c4c58ff"/>
+  </colors>
+  <themeId>tribal</themeId>
+</mtTheme>

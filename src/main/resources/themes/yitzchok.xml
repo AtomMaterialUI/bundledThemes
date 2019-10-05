@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>yitzchok</id>
+  <editorColorsScheme>Yitzchok (rainglow)</editorColorsScheme>
+  <dark>true</dark>
+  <name>Yitzchok</name>
+  <colors>
+    <color id="background" value="252c33ff"/>
+    <color id="foreground" value="afb7bfff"/>
+    <color id="text" value="939da8ff"/>
+    <color id="highlight" value="505f6eff"/>
+    <color id="selectionBackground" value="e7be4555"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1a1f24ff"/>
+    <color id="secondaryBackground" value="303942ff"/>
+    <color id="disabled" value="728599ff"/>
+    <color id="contrast" value="1c2227ff"/>
+    <color id="tableSelected" value="45525fff"/>
+    <color id="secondBorder" value="21272dff"/>
+    <color id="treeSelection" value="7a828950"/>
+    <color id="notifications" value="3a4551ff"/>
+    <color id="accent" value="e7be45ff"/>
+    <color id="excluded" value="36404bff"/>
+  </colors>
+  <themeId>yitzchok</themeId>
+</mtTheme>
