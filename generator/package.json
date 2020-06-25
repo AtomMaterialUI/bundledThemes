@@ -20,7 +20,7 @@
     "color": "^2.0.1",
     "colors": "^1.1.2",
     "glob": "^7.1.2",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.3.0",
     "tinycolor2": "^1.4.1"
   }
 }
