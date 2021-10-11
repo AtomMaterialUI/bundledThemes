@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>com.mallowigi.bundled</id>
+    <id>com.mallowigi.materialui.bundledThemes</id>
     <name>Bundled Themes for Material Theme</name>
     <version>1.0</version>
     <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
@@ -11,74 +11,74 @@
     <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.chrisrm.idea.MaterialThemeUI">
-        <bundledTheme name="Absent" path="/themes/absent" />
-        <bundledTheme name="Absent Light" path="/themes/absent-light" />
-        <bundledTheme name="Allure" path="/themes/allure" />
-        <bundledTheme name="Allure Light" path="/themes/allure-light" />
-        <bundledTheme name="Artzotzka" path="/themes/artzotzka" />
-        <bundledTheme name="Artzotzka Light" path="/themes/artzotzka-light" />
-        <bundledTheme name="Azure" path="/themes/azure" />
-        <bundledTheme name="Azure Light" path="/themes/azure-light" />
-        <bundledTheme name="Banner" path="/themes/banner" />
-        <bundledTheme name="Banner Light" path="/themes/banner-light" />
-        <bundledTheme name="Blink" path="/themes/blink" />
-        <bundledTheme name="Blink Light" path="/themes/blink-light" />
-        <bundledTheme name="Bold" path="/themes/bold" />
-        <bundledTheme name="Bold Light" path="/themes/bold-light" />
-        <bundledTheme name="Boxuk" path="/themes/boxuk" />
-        <bundledTheme name="Boxuk Light" path="/themes/boxuk-light" />
-        <bundledTheme name="Brave" path="/themes/brave" />
-        <bundledTheme name="Brave Light" path="/themes/brave-light" />
-        <bundledTheme name="Carbonight" path="/themes/carbonight" />
-        <bundledTheme name="Carbonight Light" path="/themes/carbonight-light" />
-        <bundledTheme name="Chocolate" path="/themes/chocolate" />
-        <bundledTheme name="Chocolate Light" path="/themes/chocolate-light" />
-        <bundledTheme name="Codecourse" path="/themes/codecourse" />
-        <bundledTheme name="Codecourse Light" path="/themes/codecourse-light" />
-        <bundledTheme name="Coffee" path="/themes/coffee" />
-        <bundledTheme name="Coffee Light" path="/themes/coffee-light" />
-        <bundledTheme name="Comrade" path="/themes/comrade" />
-        <bundledTheme name="Comrade Light" path="/themes/comrade-light" />
-        <bundledTheme name="Crackpot" path="/themes/crackpot" />
-        <bundledTheme name="Crackpot Light" path="/themes/crackpot-light" />
-        <bundledTheme name="Crisp" path="/themes/crisp" />
-        <bundledTheme name="Crisp Light" path="/themes/crisp-light" />
-        <bundledTheme name="Dare" path="/themes/dare" />
-        <!--        <bundledTheme name="Dare Light" path="/themes/dare-light" />-->
-        <bundledTheme name="Darkside" path="/themes/darkside" />
-        <!--        <bundledTheme name="Darkside Light" path="/themes/darkside-light" />-->
-        <bundledTheme name="Downpour" path="/themes/downpour" />
-        <!--        <bundledTheme name="Downpour Light" path="/themes/downpour-light" />-->
-        <bundledTheme name="Earthsong" path="/themes/earthsong" />
-        <!--        <bundledTheme name="Earthsong Light" path="/themes/earthsong-light" />-->
-        <bundledTheme name="Fodder" path="/themes/fodder" />
-        <!--        <bundledTheme name="Fodder Light" path="/themes/fodder-light" />-->
-        <bundledTheme name="Frantic" path="/themes/frantic" />
-        <!--        <bundledTheme name="Frantic Light" path="/themes/frantic-light" />-->
-        <bundledTheme name="Freshcut" path="/themes/freshcut" />
-        <!--        <bundledTheme name="Freshcut Light" path="/themes/freshcut-light" />-->
-        <bundledTheme name="Friction" path="/themes/friction" />
-        <!--        <bundledTheme name="Friction Light" path="/themes/friction-light" />-->
-        <bundledTheme name="Frontier" path="/themes/frontier" />
-        <!--        <bundledTheme name="Frontier Light" path="/themes/frontier-light" />-->
-        <bundledTheme name="Github" path="/themes/github" />
-        <!--        <bundledTheme name="Github Light" path="/themes/github-light" />-->
-        <bundledTheme name="Glance" path="/themes/glance" />
-        <!--        <bundledTheme name="Glance Light" path="/themes/glance-light" />-->
-        <bundledTheme name="Gloom" path="/themes/gloom" />
-        <!--        <bundledTheme name="Gloom Light" path="/themes/gloom-light" />-->
-        <bundledTheme name="Glowfish" path="/themes/glowfish" />
-        <!--        <bundledTheme name="Glowfish Light" path="/themes/glowfish-light" />-->
-        <bundledTheme name="Goldfish" path="/themes/goldfish" />
-        <!--        <bundledTheme name="Goldfish Light" path="/themes/goldfish-light" />-->
-        <bundledTheme name="Grunge" path="/themes/grunge" />
-        <!--        <bundledTheme name="Grunge Light" path="/themes/grunge-light" />-->
-        <bundledTheme name="Hawaii" path="/themes/hawaii" />
-        <!--        <bundledTheme name="Hawaii Light" path="/themes/hawaii-light" />-->
-        <bundledTheme name="Heroku" path="/themes/heroku" />
-        <!--        <bundledTheme name="Heroku Light" path="/themes/heroku-light" />-->
-        <bundledTheme name="Hive" path="/themes/hive" />
-        <!--        <bundledTheme name="Hive Light" path="/themes/hive-light" />-->
+        <bundledTheme name="Absent" path="themes/absent" />
+        <bundledTheme name="Absent Light" path="themes/absent-light" />
+        <bundledTheme name="Allure" path="themes/allure" />
+        <bundledTheme name="Allure Light" path="themes/allure-light" />
+        <bundledTheme name="Artzotzka" path="themes/artzotzka" />
+        <bundledTheme name="Artzotzka Light" path="themes/artzotzka-light" />
+        <bundledTheme name="Azure" path="themes/azure" />
+        <bundledTheme name="Azure Light" path="themes/azure-light" />
+        <bundledTheme name="Banner" path="themes/banner" />
+        <bundledTheme name="Banner Light" path="themes/banner-light" />
+        <bundledTheme name="Blink" path="themes/blink" />
+        <bundledTheme name="Blink Light" path="themes/blink-light" />
+        <bundledTheme name="Bold" path="themes/bold" />
+        <bundledTheme name="Bold Light" path="themes/bold-light" />
+        <bundledTheme name="Boxuk" path="themes/boxuk" />
+        <bundledTheme name="Boxuk Light" path="themes/boxuk-light" />
+        <bundledTheme name="Brave" path="themes/brave" />
+        <bundledTheme name="Brave Light" path="themes/brave-light" />
+        <bundledTheme name="Carbonight" path="themes/carbonight" />
+        <bundledTheme name="Carbonight Light" path="themes/carbonight-light" />
+        <bundledTheme name="Chocolate" path="themes/chocolate" />
+        <bundledTheme name="Chocolate Light" path="themes/chocolate-light" />
+        <bundledTheme name="Codecourse" path="themes/codecourse" />
+        <bundledTheme name="Codecourse Light" path="themes/codecourse-light" />
+        <bundledTheme name="Coffee" path="themes/coffee" />
+        <bundledTheme name="Coffee Light" path="themes/coffee-light" />
+        <bundledTheme name="Comrade" path="themes/comrade" />
+        <bundledTheme name="Comrade Light" path="themes/comrade-light" />
+        <bundledTheme name="Crackpot" path="themes/crackpot" />
+        <bundledTheme name="Crackpot Light" path="themes/crackpot-light" />
+        <bundledTheme name="Crisp" path="themes/crisp" />
+        <bundledTheme name="Crisp Light" path="themes/crisp-light" />
+        <bundledTheme name="Dare" path="themes/dare" />
+        <!--        <bundledTheme name="Dare Light" path="themes/dare-light" />-->
+        <bundledTheme name="Darkside" path="themes/darkside" />
+        <!--        <bundledTheme name="Darkside Light" path="themes/darkside-light" />-->
+        <bundledTheme name="Downpour" path="themes/downpour" />
+        <!--        <bundledTheme name="Downpour Light" path="themes/downpour-light" />-->
+        <bundledTheme name="Earthsong" path="themes/earthsong" />
+        <!--        <bundledTheme name="Earthsong Light" path="themes/earthsong-light" />-->
+        <bundledTheme name="Fodder" path="themes/fodder" />
+        <!--        <bundledTheme name="Fodder Light" path="themes/fodder-light" />-->
+        <bundledTheme name="Frantic" path="themes/frantic" />
+        <!--        <bundledTheme name="Frantic Light" path="themes/frantic-light" />-->
+        <bundledTheme name="Freshcut" path="themes/freshcut" />
+        <!--        <bundledTheme name="Freshcut Light" path="themes/freshcut-light" />-->
+        <bundledTheme name="Friction" path="themes/friction" />
+        <!--        <bundledTheme name="Friction Light" path="themes/friction-light" />-->
+        <bundledTheme name="Frontier" path="themes/frontier" />
+        <!--        <bundledTheme name="Frontier Light" path="themes/frontier-light" />-->
+        <bundledTheme name="Github" path="themes/github" />
+        <!--        <bundledTheme name="Github Light" path="themes/github-light" />-->
+        <bundledTheme name="Glance" path="themes/glance" />
+        <!--        <bundledTheme name="Glance Light" path="themes/glance-light" />-->
+        <bundledTheme name="Gloom" path="themes/gloom" />
+        <!--        <bundledTheme name="Gloom Light" path="themes/gloom-light" />-->
+        <bundledTheme name="Glowfish" path="themes/glowfish" />
+        <!--        <bundledTheme name="Glowfish Light" path="themes/glowfish-light" />-->
+        <bundledTheme name="Goldfish" path="themes/goldfish" />
+        <!--        <bundledTheme name="Goldfish Light" path="themes/goldfish-light" />-->
+        <bundledTheme name="Grunge" path="themes/grunge" />
+        <!--        <bundledTheme name="Grunge Light" path="themes/grunge-light" />-->
+        <bundledTheme name="Hawaii" path="themes/hawaii" />
+        <!--        <bundledTheme name="Hawaii Light" path="themes/hawaii-light" />-->
+        <bundledTheme name="Heroku" path="themes/heroku" />
+        <!--        <bundledTheme name="Heroku Light" path="themes/heroku-light" />-->
+        <bundledTheme name="Hive" path="themes/hive" />
+        <!--        <bundledTheme name="Hive Light" path="themes/hive-light" />-->
 
     </extensions>
 
