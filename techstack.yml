@@ -1,11 +1,12 @@
 repo_name: mallowigi/bundledThemes
 report_id: 8fee9a481dddb06242e9ae1c3cb8ac69
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-19T07:56:01+00:00'
+timestamp: '2024-01-05T08:37:04+00:00'
 requested_by: mallowigi
 provider: github
 branch: master
-detected_tools_count: 16
+detected_tools_count: 21
 tools:
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -16,7 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
-  detection_source_url: generator/yarn.lock
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/yarn.lock
   detection_source: generator/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-05-09 01:03:53.000000000 Z
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mallowigi/bundledThemes
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -38,7 +40,22 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes
   detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/package.json
+  detection_source: generator/package.json
+  last_updated_by: mallowigi
+  last_updated_on: 2019-10-05 18:31:31.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -48,7 +65,20 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/Dockerfile
   detection_source: generator/Dockerfile
+  last_updated_by: mallowigi
+  last_updated_on: 2019-10-05 18:31:31.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/patterns/preview-app/preview-app.txt
+  detection_source: generator/patterns/preview-app/preview-app.txt
   last_updated_by: mallowigi
   last_updated_on: 2019-10-05 18:31:31.000000000 Z
 - name: Docker
@@ -60,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -69,6 +100,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -79,9 +111,22 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: gradlew.bat
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/build.gradle
+  detection_source: build.gradle
   last_updated_by: mallowigi
   last_updated_on: 2018-03-17 23:23:47.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/package.json
+  detection_source: generator/package.json
+  last_updated_by: mallowigi
+  last_updated_on: 2019-10-05 18:31:31.000000000 Z
 - name: Yarn
   description: A new package manager for JavaScript
   website_url: https://yarnpkg.com/
@@ -90,6 +135,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/yarn.lock
   detection_source: generator/yarn.lock
   last_updated_by: mallowigi
   last_updated_on: 2019-10-05 18:48:03.000000000 Z
@@ -101,6 +147,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/package.json
   detection_source: generator/package.json
   last_updated_by: mallowigi
   last_updated_on: 2019-10-05 18:31:31.000000000 Z
@@ -110,7 +157,20 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/patterns/preview/preview.html
   detection_source: generator/patterns/preview/preview.html
+  last_updated_by: mallowigi
+  last_updated_on: 2019-10-05 18:31:31.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/patterns/preview-app/preview-app.txt
+  detection_source: generator/patterns/preview-app/preview-app.txt
   last_updated_by: mallowigi
   last_updated_on: 2019-10-05 18:31:31.000000000 Z
 - name: Shell
@@ -122,6 +182,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes
   detection_source: Repo Metadata
 - name: color
   description: Color conversion and manipulation with CSS string support
@@ -133,7 +194,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
-  detection_source_url: generator/yarn.lock
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/yarn.lock
   detection_source: generator/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2021-07-17 07:12:49.000000000 Z
@@ -147,7 +208,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: generator/yarn.lock
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/yarn.lock
   detection_source: generator/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2021-07-17 07:12:49.000000000 Z
@@ -161,7 +222,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: generator/yarn.lock
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/yarn.lock
   detection_source: generator/package.json
   last_updated_by: mallowigi
   last_updated_on: 2019-10-05 18:31:31.000000000 Z
@@ -176,7 +237,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: generator/yarn.lock
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/yarn.lock
   detection_source: generator/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-05-09 01:03:53.000000000 Z
@@ -190,7 +251,76 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16845/default_768abdabb94806c932ace6262b6bbc8241907245.png
-  detection_source_url: generator/yarn.lock
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/generator/yarn.lock
   detection_source: generator/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2021-07-17 07:12:49.000000000 Z
+- name: com.thoughtworks.xstream:xstream
+  description: XStream is a serialization library from Java objects to XML and back
+  version: 1.4.18
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/mallowigi/bundledThemes/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-09-12 23:41:20.000000000 Z
+  vulnerabilities:
+  - name: XStream can cause Denial of Service via stack overflow
+    cve_id: CVE-2022-41966
+    cve_url: https://github.com/advisories/GHSA-j563-grx4-pjpv
+    detected_date: Dec 29
+    severity: high
+    first_patched: 1.4.20
+  - name: XStream can cause a Denial of Service by injecting deeply nested objects
+      raising a stack overflow
+    cve_id: CVE-2022-40151
+    cve_url: https://github.com/advisories/GHSA-f8cc-g7j8-xxpm
+    detected_date: Dec 31
+    severity: high
+    first_patched: 1.4.20
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40153
+    cve_url: https://github.com/advisories/GHSA-fv22-xp26-mm9w
+    detected_date: Sep 21
+    severity: high
+    first_patched: 
+  - name: Denial of Service by injecting highly recursive collections or maps in XStream
+    cve_id: CVE-2021-43859
+    cve_url: https://github.com/advisories/GHSA-rmr5-cpv2-vgjf
+    detected_date: Feb 1
+    severity: high
+    first_patched: 1.4.19
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40152
+    cve_url: https://github.com/advisories/GHSA-3f7h-mf4q-vrm4
+    detected_date: Sep 21
+    severity: low
+    first_patched: 
+  - name: XStream Denial of Service via stack overflow
+    cve_id: CVE-2022-40154
+    cve_url: https://github.com/advisories/GHSA-9fwf-46g9-45rx
+    detected_date: Sep 22
+    severity: low
+    first_patched: 
+  - name: XStream Denial of Service via stack overflow
+    cve_id: CVE-2022-40155
+    cve_url: https://github.com/advisories/GHSA-5hc5-c3m9-8vcj
+    detected_date: Sep 22
+    severity: low
+    first_patched: 
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40156
+    cve_url: https://github.com/advisories/GHSA-4rv7-wj6m-6c6r
+    detected_date: Sep 21
+    severity: low
+    first_patched: 
+  - name: 'Duplicate Advisory: Denial of Service due to parser crash'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-3mq5-fq9h-gj7j
+    detected_date: Sep 21
+    severity: low
+    first_patched: 
